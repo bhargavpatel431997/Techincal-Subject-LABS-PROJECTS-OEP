@@ -1,2 +1,2 @@
 # Information Technology
-This repositories contains work regarding labs assignment, OEP (open ended problem), Project
+This repository contains work regarding labs assignment, OEP (open ended problem), Projects for entire curiculam.
