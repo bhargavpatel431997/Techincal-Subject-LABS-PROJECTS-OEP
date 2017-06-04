@@ -1,0 +1,3 @@
+bubble 1 is "n-1" times
+bubble 2 n-i
+bubble 3 n-i flag

@@ -1,0 +1,111 @@
+#include<stdio.h>
+#include<dos.h>
+//int c=0;
+struct list{
+ int data;
+ struct list *nlink;
+ struct list *plink;
+}*first;
+void inAtFr(int);
+void inAtLa(int);
+void display();
+
+void main()
+{
+	int n,i,z;
+	first=NULL;
+	clrscr();
+	loop:
+		clrscr();
+		printf("\ndoubly linked list:-\n\n1.insert at front\n2.insert at last\n3.display\n4.exit");
+		printf("\nenter the choice:-\n");
+		scanf("%d",&i);
+		switch(i)
+		{
+			case 1:
+			printf("enter the value\n");
+			scanf("%d",&z);
+			inAtFr(z);
+			printf("!!! value %d iserted at front !!!\n",z);
+			sleep(1);
+			goto loop;
+
+			case 2:
+			printf("enter the value\n");
+			scanf("%d",&z);
+			inAtLa(z);
+			printf("!!! value %d iserted at last !!!\n",z);
+			sleep(1);
+			goto loop;
+
+			case 3:
+			display();
+			sleep(3);
+			goto loop;
+
+			case 4:
+			exit(1);
+		}
+
+}
+
+
+void inAtFr(int val)
+{
+   struct list *temp,*z,*y;
+   temp=(struct list *) malloc(sizeof(struct list));
+   temp->data=val;
+   if(first==NULL)
+   {
+	first=temp;
+	temp->nlink=NULL;
+	temp->plink=NULL;
+   }
+   else
+   {
+	first->plink=temp;
+	temp->plink=NULL;
+	temp->nlink=first;
+	first=temp;
+   }
+//   c++;
+}
+
+void inAtLa(int val)
+{
+     struct list *temp,*r;
+   temp=(struct list *) malloc(sizeof(struct list));
+   temp->data=val;
+   if(first==NULL)
+   {
+	first=temp;
+	temp->nlink=NULL;
+	temp->plink=NULL;
+   }
+   else
+   {
+	r=first;
+	while((r->nlink)!=NULL)
+		r=r->nlink;
+	temp->plink=r;
+	r->nlink=temp;
+	temp->nlink=NULL;
+   }
+//   c++;
+}
+void display()
+{
+	struct list *r,*z;
+	r=first;
+	if(first==NULL)
+		printf("nothing to show!\n");
+	else
+	{
+		while(r!=NULL)
+		{
+			printf("at: %u data: %d    plink %u    nlink %u\n",r,r->data,r->plink,r->nlink);
+			r=r->nlink;
+		}
+	}
+
+}

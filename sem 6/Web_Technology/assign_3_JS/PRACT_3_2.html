@@ -1,0 +1,61 @@
+<!--Write javascript code to implement following calculator. Use Switch Case and Function for
+the same.-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js switch case</title>
+	<script type="text/javascript">
+		function add()
+		{
+			var val1=document.getElementById("value1").value;
+			var val2=document.getElementById("value2").value;
+			if(!val1||!val2||isNaN(val1)||isNaN(val2))
+				document.getElementById("result").innerHTML="ENTER VALID NUMBER or VALUE CANNOT BE NULL";
+			else
+				document.getElementById("result").innerHTML=Number(val1)+Number(val2);
+		}
+		function sub()
+		{
+			var val1=document.getElementById("value1").value;
+			var val2=document.getElementById("value2").value;
+			if(!val1||!val2||isNaN(val1)||isNaN(val2))
+				document.getElementById("result").innerHTML="ENTER VALID NUMBER or VALUE CANNOT BE NULL";
+			else
+				document.getElementById("result").innerHTML=Number(val1)-Number(val2);
+		}
+		function mul()
+		{
+			var val1=document.getElementById("value1").value;
+			var val2=document.getElementById("value2").value;
+			if(!val1||!val2||isNaN(val1)||isNaN(val2))
+				document.getElementById("result").innerHTML="ENTER VALID NUMBER or VALUE CANNOT BE NULL";
+			else
+				document.getElementById("result").innerHTML=Number(val1)*Number(val2);
+		}
+		function div()
+		{
+			var val1=document.getElementById("value1").value;
+			var val2=document.getElementById("value2").value;
+			if(!val1||!val2||isNaN(val1)||isNaN(val2))
+				document.getElementById("result").innerHTML="ENTER VALID NUMBER or VALUE CANNOT BE NULL";
+			else
+			{
+				if(val2==0)
+					document.getElementById("result").innerHTML="INFINITY";
+				else
+					document.getElementById("result").innerHTML=Number(val1)/Number(val2);
+			}
+		}
+	</script>
+</head>
+<body>
+	Value 1 <input value="" type="text" id="value1"/>
+	<br/><br/>
+	Value 2 <input value="" type="text" id="value2"/>
+	<p value="" id="result"></p>
+	<button onclick="add()">add</button>
+	<button onclick="sub()">subtract</button>
+	<button onclick="mul()">multiply</button>
+	<button onclick="div()">devide</button>
+</body>
+</html>

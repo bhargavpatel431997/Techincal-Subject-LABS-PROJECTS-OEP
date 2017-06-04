@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="bc0bf4a8-f504-40c6-b49b-460bcaa488d5" Title="ARAFFinal" Url="html/12766ee8-d27d-1bf5-f28e-00d77c95fb37.htm">
+    <HelpTOCNode Id="15aff243-049f-4457-8433-f3955ba56a9c" Title="ApplicationSignInManager Class" Url="html/10f86efb-45ee-50d5-9459-81c0f91ffbd7.htm">
+      <HelpTOCNode Title="ApplicationSignInManager Constructor " Url="html/ebbfd949-7b18-63f0-fd15-4e8fb046b466.htm" />
+      <HelpTOCNode Title="ApplicationSignInManager Fields" Url="html/5870e01f-0a4b-ea10-0140-6b6e61d718dc.htm" />
+      <HelpTOCNode Id="19101e6d-15e6-49c8-a21a-3493f459e7b8" Title="ApplicationSignInManager Methods" Url="html/6924a16d-07bc-c5c3-3a08-bad14c7cb0c4.htm">
+        <HelpTOCNode Title="Create Method " Url="html/dcd055aa-f2ff-b77f-4551-26601b881ecf.htm" />
+        <HelpTOCNode Title="CreateUserIdentityAsync Method " Url="html/bbdb7571-0736-38d8-3840-b940661b1834.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ApplicationSignInManager Properties" Url="html/1b86833a-b4a0-621a-cb9f-4ee6c5d0fe1d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="92c4fb28-8e69-4e7e-8ed0-258b01c8cc47" Title="ApplicationUserManager Class" Url="html/e05ac5f6-5171-cccc-ce2b-839f5ab8fe83.htm">
+      <HelpTOCNode Title="ApplicationUserManager Constructor " Url="html/ebe72db3-8d39-f328-e888-c14216121a43.htm" />
+      <HelpTOCNode Title="ApplicationUserManager Fields" Url="html/21af0ba3-9f2a-3b2d-2b11-0230ce17e2a4.htm" />
+      <HelpTOCNode Id="c2044444-ab5c-49ad-b50e-03f31da5180c" Title="ApplicationUserManager Methods" Url="html/6b719349-e251-df33-1f54-e3c12c4e8de5.htm">
+        <HelpTOCNode Title="Create Method " Url="html/0df1afc4-6945-5914-a018-39e3089f73aa.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ApplicationUserManager Properties" Url="html/1ef7e8e6-cc81-84d1-e348-7ee45bf90f56.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1427d1a8-d427-4b8c-9a4d-3f4571528d5c" Title="BundleConfig Class" Url="html/65050add-8113-1c92-110d-d5df7c00e9b3.htm">
+      <HelpTOCNode Title="BundleConfig Constructor " Url="html/cf57852d-2047-a3c4-1738-fe2f4444794a.htm" />
+      <HelpTOCNode Id="18b5ebd7-eed4-4fcd-9611-1202f5c38cc4" Title="BundleConfig Methods" Url="html/778e9ef0-734b-2786-0aef-a6ed5750d370.htm">
+        <HelpTOCNode Title="RegisterBundles Method " Url="html/5fe2e0da-dd84-37a6-cb71-f2699afb9f95.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="31dadb71-88f1-4fb1-912f-aee54c0cd63d" Title="EmailService Class" Url="html/6a8303a2-9fe5-3bfd-a977-a418f287712f.htm">
+      <HelpTOCNode Title="EmailService Constructor " Url="html/fa0ec8e0-1621-34bc-7e5a-535117310844.htm" />
+      <HelpTOCNode Id="46da67e0-9229-488b-b3bc-3e99ee057739" Title="EmailService Methods" Url="html/32028b2e-07a3-7087-765e-88d25de6239d.htm">
+        <HelpTOCNode Title="SendAsync Method " Url="html/8cf949f1-c806-98ce-2300-11b568263c94.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8743ea4d-64ea-43e2-a313-3a14df4a6654" Title="FilterConfig Class" Url="html/bb89891d-e547-86f4-b2f3-3a28aef84c75.htm">
+      <HelpTOCNode Title="FilterConfig Constructor " Url="html/ea0dc81d-d99b-aacb-65d0-e76d6257ba48.htm" />
+      <HelpTOCNode Id="a2c06ddc-576f-4d42-932c-a96f7910ef12" Title="FilterConfig Methods" Url="html/f0d3a56a-0076-815b-1800-6b9aa0c3c096.htm">
+        <HelpTOCNode Title="RegisterGlobalFilters Method " Url="html/fc5eca33-da05-d6c2-9cb8-9d90521d0f9e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="60527f1b-6730-4be8-8fbe-eb0090d6f4ab" Title="MvcApplication Class" Url="html/5c64a167-56bd-8dee-8a49-cabac4faccbe.htm">
+      <HelpTOCNode Title="MvcApplication Constructor " Url="html/57b5ce92-37cf-a028-efff-cff2dbbe21b7.htm" />
+      <HelpTOCNode Title="MvcApplication Fields" Url="html/26d54b06-a90e-76a7-c059-a23a3d4f4929.htm" />
+      <HelpTOCNode Id="0142140a-057c-45e4-b37e-19ac371f0406" Title="MvcApplication Methods" Url="html/67712e7e-d6c7-343f-28cd-fe285bce8efd.htm">
+        <HelpTOCNode Title="Application_PostAuthenticateRequest Method " Url="html/9f21735f-f49d-c1be-5739-5e70fc039218.htm" />
+        <HelpTOCNode Title="Application_Start Method " Url="html/7a39576d-b0dc-776f-e499-0b98d273ee29.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MvcApplication Properties" Url="html/0bed4544-2e5a-26cd-efd9-07d2d743205d.htm" />
+      <HelpTOCNode Title="MvcApplication Events" Url="html/e3c217f5-56e1-9c89-8e04-43c69cec203a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a67f7b54-ed72-4928-a18d-2c0b13361daf" Title="RouteConfig Class" Url="html/fd84232b-5980-6ccb-ee7a-cf795ef4009d.htm">
+      <HelpTOCNode Title="RouteConfig Constructor " Url="html/96efd7b9-059a-2012-92ad-be35fefe18d9.htm" />
+      <HelpTOCNode Id="580f32b7-d752-4842-bcd8-6b268f521430" Title="RouteConfig Methods" Url="html/8e07108f-1372-3be1-c69e-ebaf763f3674.htm">
+        <HelpTOCNode Title="RegisterRoutes Method " Url="html/e3a15396-21f0-1694-a9f0-4eed55554111.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eae7bf9b-cbcc-475c-b3ee-06075aca2d53" Title="SmsService Class" Url="html/f4cc4d6b-771d-3274-6ed0-a67ee9e0421e.htm">
+      <HelpTOCNode Title="SmsService Constructor " Url="html/5b453198-18af-5d16-2493-93db623a252f.htm" />
+      <HelpTOCNode Id="6d424014-9180-4009-a965-af91a31ae77a" Title="SmsService Methods" Url="html/6feeac8f-55bd-eb5a-b16d-895344ab5c2f.htm">
+        <HelpTOCNode Title="SendAsync Method " Url="html/c7f8204f-957e-b3c2-f289-ca9fa358aab2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ac3684bc-b64c-4a4f-ac89-1de31d71e429" Title="Startup Class" Url="html/3aef275f-30ea-ddf0-2747-ef1e58af5c17.htm">
+      <HelpTOCNode Title="Startup Constructor " Url="html/342fb0a5-c7f3-3cdb-93e2-d2c555c91b67.htm" />
+      <HelpTOCNode Id="1d95247c-f4fe-4c05-8281-74b940cdb7eb" Title="Startup Methods" Url="html/4ebdc1ec-fde9-6584-c68c-6e82abc1a3b0.htm">
+        <HelpTOCNode Title="Configuration Method " Url="html/d948f8a0-2215-74ca-bd94-bb29f725fd62.htm" />
+        <HelpTOCNode Title="ConfigureAuth Method " Url="html/27903113-dc70-f8fd-30ef-563c74846c8c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="8982b95b-c36b-4faa-83e8-c9e92e4c4f76" Title="ARAFFinal.Controllers" Url="html/bab888c9-adfb-8795-2e8e-c4b56871fdf2.htm">
+    <HelpTOCNode Id="92da6403-d0f4-4ba7-8d87-eab040dc264d" Title="AccountController Class" Url="html/67bf4fe9-3fb9-e75b-0896-0fc0704176f1.htm">
+      <HelpTOCNode Id="1c80d815-430f-4786-a3b9-5b8f90bbfd26" Title="AccountController Constructor " Url="html/2d2c6c81-df1a-386b-82f4-c074bbbbb57f.htm">
+        <HelpTOCNode Title="AccountController Constructor " Url="html/8fd69591-32af-8781-3c2d-3bcbf40b0e87.htm" />
+        <HelpTOCNode Title="AccountController Constructor (ApplicationUserManager, ApplicationSignInManager)" Url="html/7855b435-da90-e289-8e98-333fc30409ef.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1f295b3f-65c5-4f92-a2e9-e2ed9a3d3800" Title="AccountController Fields" Url="html/631d4d47-2645-22ac-e8e9-07586df0783a.htm">
+        <HelpTOCNode Title="_signInManager Field" Url="html/c112243b-2c31-89f6-ec8c-895e27e6d0be.htm" />
+        <HelpTOCNode Title="_userManager Field" Url="html/7fecc76a-bdfe-d8e2-43d4-fe4081159915.htm" />
+        <HelpTOCNode Title="XsrfKey Field" Url="html/4230f5f2-d3bd-d187-3872-2b41ac502fa4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cee253ff-9392-4176-a053-41cbfb7a8c67" Title="AccountController Methods" Url="html/1ab6942b-5b41-a9f7-7a08-7e7e7e378578.htm">
+        <HelpTOCNode Title="AddErrors Method " Url="html/0f1c4f38-97ef-03cf-3e8c-bdd97c4a95ed.htm" />
+        <HelpTOCNode Title="ConfirmEmail Method " Url="html/60b94f47-092d-2fe1-a740-f5f0eb57de8f.htm" />
+        <HelpTOCNode Id="085a35dc-6f55-46a2-a4aa-7daab55b0a81" Title="Dispose Method " Url="html/89e2b2d1-4357-73d5-d567-9e6c7572d500.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/72c97540-2540-3cbc-e6df-b688cc02ae15.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ExternalLogin Method " Url="html/be1a15df-87dd-9795-6cfc-74a9fa560376.htm" />
+        <HelpTOCNode Title="ExternalLoginCallback Method " Url="html/73dd6d09-4069-9700-7b06-6964aaf02a18.htm" />
+        <HelpTOCNode Title="ExternalLoginConfirmation Method " Url="html/49395fd8-3c3f-44a5-1ef1-63aa9a0f7817.htm" />
+        <HelpTOCNode Title="ExternalLoginFailure Method " Url="html/a54d57f9-2b4c-8dc7-dd88-6bc225169bdc.htm" />
+        <HelpTOCNode Id="deb90a60-e741-49f6-a184-6a12d2fee6b9" Title="ForgotPassword Method " Url="html/2a2bea4f-c3dc-5db9-fc4d-b88bcf1b49fe.htm">
+          <HelpTOCNode Title="ForgotPassword Method " Url="html/400d1a45-2b5e-9580-5e69-a4cd35725bed.htm" />
+          <HelpTOCNode Title="ForgotPassword Method (ForgotPasswordViewModel)" Url="html/977da34b-2374-9dd3-49b8-6b55af5b840c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ForgotPasswordConfirmation Method " Url="html/c4e5a594-b5f8-8a38-fcb1-04bfc9f03ede.htm" />
+        <HelpTOCNode Id="4436511f-638c-4fea-906d-4e8e8b7e230d" Title="Login Method " Url="html/237b66bb-d3a2-c00d-281f-89b87e7792f3.htm">
+          <HelpTOCNode Title="Login Method (String)" Url="html/cfbd449d-53af-f7e5-870c-a130c6b54929.htm" />
+          <HelpTOCNode Title="Login Method (LoginViewModel, String)" Url="html/a69db98d-8ba0-347b-de90-9fa7aa5e2efc.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="LogOff Method " Url="html/5ffb54a1-4821-800e-01b2-ac567415e1fb.htm" />
+        <HelpTOCNode Title="RedirectToLocal Method " Url="html/b110b7af-e165-55fe-baae-d7d5fcb3bd25.htm" />
+        <HelpTOCNode Id="f513ee9e-ec4f-4443-9016-a4fb3338821f" Title="Register Method " Url="html/4ee276d7-a22a-1f3e-f41f-d4ce964af9bb.htm">
+          <HelpTOCNode Title="Register Method " Url="html/cab31d90-bf88-8ff2-a203-b7af0dfea489.htm" />
+          <HelpTOCNode Title="Register Method (RegisterViewModel)" Url="html/c5981412-bb35-64f6-e13d-de56668ba58c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="aa05b6d3-d5af-47a2-8fe6-167e7fc2cd34" Title="ResetPassword Method " Url="html/a962c381-fd24-1d29-c17b-153253ac7686.htm">
+          <HelpTOCNode Title="ResetPassword Method (String)" Url="html/69931c7e-e317-116b-38e1-d35144a0de87.htm" />
+          <HelpTOCNode Title="ResetPassword Method (ResetPasswordViewModel)" Url="html/320b6853-d6b2-9619-93d4-741618b6fdf2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ResetPasswordConfirmation Method " Url="html/9f890d16-e4d0-9589-49cf-48b980527929.htm" />
+        <HelpTOCNode Id="a152b0d1-2ebb-4c64-aaef-2a4ac938df44" Title="SendCode Method " Url="html/59132eba-3dc1-c398-869e-0232dfbe89ca.htm">
+          <HelpTOCNode Title="SendCode Method (SendCodeViewModel)" Url="html/eae420e9-481c-51a7-1794-812709be6d39.htm" />
+          <HelpTOCNode Title="SendCode Method (String, Boolean)" Url="html/016ab1de-37ed-1b8a-5fc5-69ff56833c31.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e259cd50-3207-4d56-8c45-0eb2bc98e75d" Title="VerifyCode Method " Url="html/2e76b50f-7c82-c436-3cce-62d7a90ba079.htm">
+          <HelpTOCNode Title="VerifyCode Method (VerifyCodeViewModel)" Url="html/dd52ebbf-74cf-0824-0e61-121c6505807a.htm" />
+          <HelpTOCNode Title="VerifyCode Method (String, String, Boolean)" Url="html/f41b5869-4c9c-4360-0659-50fdba71b91c.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="41a460d5-3c9c-4f88-acd7-32336535bcde" Title="AccountController Properties" Url="html/f32c6708-47ab-dbc7-531e-193204016182.htm">
+        <HelpTOCNode Title="AuthenticationManager Property " Url="html/2df5f224-3d1f-a232-45bf-0257b151a897.htm" />
+        <HelpTOCNode Title="SignInManager Property " Url="html/2b6586ad-dd63-39d3-0577-dac78a5a0b2b.htm" />
+        <HelpTOCNode Title="UserManager Property " Url="html/dcba4bc4-06f5-d058-36df-37918d574a18.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="60f081cf-d96c-435a-86ec-1e33702896a4" Title="AccountController.ChallengeResult Class" Url="html/cd8753a1-07d4-9a12-e350-db341abcfe34.htm">
+      <HelpTOCNode Id="b9b86b62-411d-4430-a1c1-0085ddce79eb" Title="ChallengeResult Constructor " Url="html/8a5e4a22-a56b-554c-b3dc-3fa3c27f160a.htm">
+        <HelpTOCNode Title="AccountController.ChallengeResult Constructor (String, String)" Url="html/001fc15c-71f9-b03e-c505-3f42b00af4f8.htm" />
+        <HelpTOCNode Title="AccountController.ChallengeResult Constructor (String, String, String)" Url="html/6d2e516b-c313-32a2-b72a-e992eef4a50c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd631ab1-1dcb-4191-994b-b64c3c10c00e" Title="ChallengeResult Methods" Url="html/d1e0cfb5-a682-4526-87fb-cc63dbb7a6f1.htm">
+        <HelpTOCNode Title="ExecuteResult Method " Url="html/176bc8b1-e1dd-1da1-a20d-5256f5a82d6e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="473d8c73-fdbf-460b-ba21-30494156619e" Title="ChallengeResult Properties" Url="html/f8a3eb32-1179-28e0-3783-804d53429476.htm">
+        <HelpTOCNode Title="LoginProvider Property " Url="html/7de1baea-ab00-46a4-8c4f-f4895b938519.htm" />
+        <HelpTOCNode Title="RedirectUri Property " Url="html/a7ec4c60-1c13-9c91-4122-1679e1f06dd7.htm" />
+        <HelpTOCNode Title="UserId Property " Url="html/a27888cc-0848-8306-f897-6c6c5abccb8b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bb47b51c-ce1d-451b-bfb4-f9827ccc1ea8" Title="DepartmentsController Class" Url="html/da99cc3e-0eca-103c-072f-0e32cf821e79.htm">
+      <HelpTOCNode Title="DepartmentsController Constructor " Url="html/e41ac48c-0196-c75a-4591-a297778277b2.htm" />
+      <HelpTOCNode Id="1c621fa0-067a-4c1b-baff-6ae73046adff" Title="DepartmentsController Fields" Url="html/634e56f9-77ad-bb9d-01d7-ff8ed05f4ff6.htm">
+        <HelpTOCNode Title="db Field" Url="html/1feb5caa-2a69-3cc6-91d6-f64a8dc7572a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1fdd369c-5eac-4224-97f7-f0a010e12ba3" Title="DepartmentsController Methods" Url="html/5b38e9b2-177f-c2a2-51db-6c2bfc23da2a.htm">
+        <HelpTOCNode Id="8864cba5-9645-4579-9219-e6fbe90daf8c" Title="Create Method " Url="html/d217e674-39bb-b521-96a3-c41a302262bf.htm">
+          <HelpTOCNode Title="Create Method " Url="html/3743bb96-28cd-b02f-e397-9d7f84f1ab18.htm" />
+          <HelpTOCNode Title="Create Method (Department)" Url="html/ee6224cf-b813-87af-2a39-9fd88705a525.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Delete Method " Url="html/ac49ded9-2f27-f081-a7bd-911904723114.htm" />
+        <HelpTOCNode Title="DeleteConfirmed Method " Url="html/70f9a0db-48f3-1053-d7fe-d3251041fed1.htm" />
+        <HelpTOCNode Title="Details Method " Url="html/609312da-b41b-3df8-70a4-c376c8c64f18.htm" />
+        <HelpTOCNode Id="d45e4621-d5b9-4757-878f-5d70b28eea5b" Title="Dispose Method " Url="html/d702f2ca-8bbf-d5a0-c2a2-e554f91e0132.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/67f3b8b5-6e20-a672-f3da-b6d0980b3b6d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="cfecd2cf-8bdc-47d0-bb1a-218d3bf6491d" Title="Edit Method " Url="html/9a6d9efa-21b7-b550-89ce-39d161be36c6.htm">
+          <HelpTOCNode Title="Edit Method (String)" Url="html/a7bebe54-4a1c-c854-c9d6-971af5f67320.htm" />
+          <HelpTOCNode Title="Edit Method (Department)" Url="html/3ab42b7e-3473-2283-6564-e5281cd710f2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Index Method " Url="html/889d9cfa-f721-7b42-da47-4b65b9666e9d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DepartmentsController Properties" Url="html/5439e85b-49ab-09ff-c397-302539f69042.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7e7943a9-8810-496e-b82d-a6b749b70cdc" Title="HomeController Class" Url="html/6fcb65fd-016c-e4de-61d0-24af5c9324b3.htm">
+      <HelpTOCNode Title="HomeController Constructor " Url="html/2bf4c8c6-92e4-1772-5c42-b1ab369f89a3.htm" />
+      <HelpTOCNode Id="d37eb035-f6e5-4b2f-8ea2-2284a79fbccd" Title="HomeController Fields" Url="html/fd87bcaa-a3b3-dde2-bbdf-348ab1f9dfce.htm">
+        <HelpTOCNode Title="db Field" Url="html/f1c98121-ed0b-5315-2613-4c683863bef9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="657a943a-984d-4289-a4e3-0fc943ee62b4" Title="HomeController Methods" Url="html/0cc33fe2-3516-8112-574e-847f6868aa89.htm">
+        <HelpTOCNode Title="About Method " Url="html/0a3fced5-b771-9c12-6acc-6145e98bd0c2.htm" />
+        <HelpTOCNode Title="Contact Method " Url="html/de1f1d1e-c7dd-79dd-9ab2-eaf33fc5a706.htm" />
+        <HelpTOCNode Title="GetCurrentRank Method " Url="html/795073b8-d535-4638-e12a-4bdfecccebad.htm" />
+        <HelpTOCNode Title="GetOverallRank Method " Url="html/e92e4245-949f-9731-1863-db16785845bf.htm" />
+        <HelpTOCNode Title="Index Method " Url="html/ab15141f-a21a-f03e-d2d1-c145d4b36af8.htm" />
+        <HelpTOCNode Title="Search Method " Url="html/8903100b-c334-abc2-ea33-d324b11f8880.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="HomeController Properties" Url="html/d401f350-ecd9-b10e-6bbf-c1c1fbf801cc.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="50011d18-6282-4de5-90bb-9337c54648d7" Title="Logins1Controller Class" Url="html/edae616c-fd38-4a76-a223-235ec4a88d6f.htm">
+      <HelpTOCNode Title="Logins1Controller Constructor " Url="html/ab363d51-d422-138c-d754-7f277439cc4f.htm" />
+      <HelpTOCNode Id="79f88024-f856-404f-9a1d-602f1b3f0af6" Title="Logins1Controller Fields" Url="html/d4159932-56da-ff3f-7fc2-e5768d10c28d.htm">
+        <HelpTOCNode Title="db Field" Url="html/5a04d3dc-820d-c2d6-27ec-56d5c1b44801.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8de1ec20-0f46-48c5-8ada-f0afedf4f72c" Title="Logins1Controller Methods" Url="html/d5b78cec-9d80-9bd2-5b59-a510a30f9278.htm">
+        <HelpTOCNode Id="5a77777a-25fa-4314-98e5-2e1195c6525d" Title="Create Method " Url="html/8f019047-2b16-6646-e912-f7bef58afc69.htm">
+          <HelpTOCNode Title="Create Method " Url="html/a2f03b9b-e0ba-8c8b-d8b5-dc3321795e77.htm" />
+          <HelpTOCNode Title="Create Method (Login)" Url="html/c07514be-d8b4-a61a-63e8-dbcdc0dc739e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Delete Method " Url="html/2aa19137-19ed-f3da-d222-dd23984ae127.htm" />
+        <HelpTOCNode Title="DeleteConfirmed Method " Url="html/70ae77d9-d550-65d0-aff0-ef39d6696a78.htm" />
+        <HelpTOCNode Title="Details Method " Url="html/4c18fe42-41cc-1602-bdc1-890870eacbf6.htm" />
+        <HelpTOCNode Id="d3f8ee06-b2ab-4b46-805e-fe12fc37a3d0" Title="Dispose Method " Url="html/dee2c4ac-9bb8-44dd-ad26-7e324b40c55e.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/68cd9c09-ce1e-6788-9650-555c88ab3836.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1883a36f-4c6a-403b-82bf-4ae6cd75fd88" Title="Edit Method " Url="html/4eea4bd7-8b32-5fab-a8ff-d45f81bb2638.htm">
+          <HelpTOCNode Title="Edit Method (String)" Url="html/b92b8394-a381-5f50-b07a-e5eb440727cb.htm" />
+          <HelpTOCNode Title="Edit Method (Login)" Url="html/9099c95f-43ff-6c72-e774-04d7943f0db9.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Index Method " Url="html/379d6618-8f00-8e90-3fd0-4515299ecf27.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Logins1Controller Properties" Url="html/6b40bffa-563c-0326-504b-510034adec0c.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f9984d5f-2b07-4c3e-8c1a-79804bd7d9b9" Title="LoginsController Class" Url="html/aecfc073-97fa-0c0e-2539-7374299c8f12.htm">
+      <HelpTOCNode Title="LoginsController Constructor " Url="html/b5d3275c-8b9d-aba7-467a-f097f0f21881.htm" />
+      <HelpTOCNode Id="756f83d3-82b8-48c9-b5c2-9a779c5f5e5c" Title="LoginsController Fields" Url="html/750aa7c9-fa7a-475e-1985-66775fd636f5.htm">
+        <HelpTOCNode Title="db Field" Url="html/b8678932-f5b1-3c41-e3a9-4d40242c5ee9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1f3ef8f8-3e18-43eb-8c3e-699a35daa667" Title="LoginsController Methods" Url="html/2abebc00-7562-b7dd-b4a1-e9b4a3b6a496.htm">
+        <HelpTOCNode Title="AdminPage Method " Url="html/3be62630-97df-92e0-f98e-9cb1d0c61a92.htm" />
+        <HelpTOCNode Title="Authorize Method " Url="html/fc08d4e2-60f5-d6a3-043e-b82e663907e8.htm" />
+        <HelpTOCNode Title="FacultyPage Method " Url="html/ff7a5f02-f014-d8c8-5d60-028472e036c3.htm" />
+        <HelpTOCNode Title="GetEnrollmentNumbers Method " Url="html/22f83bd9-79ba-e096-0a02-21e88dacc0c4.htm" />
+        <HelpTOCNode Title="GetSubjectList Method " Url="html/09c3ed4b-28d1-5930-c29c-c32b028cb9bd.htm" />
+        <HelpTOCNode Title="LoginPage Method " Url="html/5b559bee-9a7c-3bf7-44d9-bd6ce26e6163.htm" />
+        <HelpTOCNode Title="LogOff Method " Url="html/f61b83c0-4e5f-57f9-821c-33514819daea.htm" />
+        <HelpTOCNode Title="ResultEntry Method " Url="html/616c8b8f-e00f-c166-4eb5-a0f7b4c642bb.htm" />
+        <HelpTOCNode Title="ResultUpdate Method " Url="html/d7d3189e-46cf-09fb-6e2b-c09929d75943.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/b9abba5c-ce86-287f-bef6-8e3d3ba1e0a5.htm" />
+        <HelpTOCNode Title="UploadFile Method " Url="html/2b6d1210-a254-5cdc-b1f4-231a20cb4326.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LoginsController Properties" Url="html/9fdd7a39-a035-10ac-b545-b09946b1f237.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f256cd5c-cb0c-4383-96a8-dd4bbde3ed4f" Title="ManageController Class" Url="html/251aa17a-3463-f155-660a-b0ff195486bf.htm">
+      <HelpTOCNode Id="28de479c-fde1-4db0-ad37-23e008f8a7cb" Title="ManageController Constructor " Url="html/12a1b881-9c3e-7cbd-0b84-dfa85d2db6a3.htm">
+        <HelpTOCNode Title="ManageController Constructor " Url="html/c240f690-0ea0-6ce8-b816-b65de299b468.htm" />
+        <HelpTOCNode Title="ManageController Constructor (ApplicationUserManager, ApplicationSignInManager)" Url="html/4c6eb66c-581e-1898-2871-34d0cfc631f2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="64c0e7ab-b007-4259-8a10-6e64e8262293" Title="ManageController Fields" Url="html/0c9f9689-220c-8caa-42e2-93cdbe7bb8d2.htm">
+        <HelpTOCNode Title="_signInManager Field" Url="html/0956ad69-dda4-a5c6-3466-3468fcc5d21c.htm" />
+        <HelpTOCNode Title="_userManager Field" Url="html/a961c36c-1671-2c76-04d2-acdfa9432a47.htm" />
+        <HelpTOCNode Title="XsrfKey Field" Url="html/f38fc44f-4f62-a188-32bc-ebce9e6f56d5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dad6f01b-05a5-472a-b3f1-918a01481c38" Title="ManageController Methods" Url="html/418f4c30-550f-5516-fe5c-8a5ad47106f0.htm">
+        <HelpTOCNode Title="AddErrors Method " Url="html/53715dfd-085f-85f1-0efa-84377e70070b.htm" />
+        <HelpTOCNode Id="4ec828e8-84cc-473b-8ddb-94fff51ced13" Title="AddPhoneNumber Method " Url="html/526ffc7d-da92-cd13-591b-9e49ea96d244.htm">
+          <HelpTOCNode Title="AddPhoneNumber Method " Url="html/39f4fe06-60ee-70a5-3cba-54ca63c4f0ad.htm" />
+          <HelpTOCNode Title="AddPhoneNumber Method (AddPhoneNumberViewModel)" Url="html/cdc0a73d-3c9c-95ec-22c9-2881e7acc4d3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e89e1d5b-d5f9-4c0c-8f11-9ac12f63669c" Title="ChangePassword Method " Url="html/73552569-5ab4-4edc-16b8-e721862e6d78.htm">
+          <HelpTOCNode Title="ChangePassword Method " Url="html/89e449ff-2175-2d20-88f0-2a05170ad679.htm" />
+          <HelpTOCNode Title="ChangePassword Method (ChangePasswordViewModel)" Url="html/d6e887aa-925c-df22-fadb-660a4d0b9f92.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DisableTwoFactorAuthentication Method " Url="html/c448cee6-a799-ad51-5677-d626c3358ee7.htm" />
+        <HelpTOCNode Id="fbf4d78d-6ecd-4804-8138-43cfbe12212e" Title="Dispose Method " Url="html/2ce6165d-addc-1f1c-9a33-3176fbe50760.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/d0677e63-abbf-16e6-3c5c-b8b105259ec0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EnableTwoFactorAuthentication Method " Url="html/73d828e2-e058-9a4b-d621-7b2becdb6d60.htm" />
+        <HelpTOCNode Title="HasPassword Method " Url="html/64be82ff-de78-2438-168a-26b504cce4c0.htm" />
+        <HelpTOCNode Title="HasPhoneNumber Method " Url="html/9aea2b62-784f-ad42-1054-6dbbff1f2c88.htm" />
+        <HelpTOCNode Title="Index Method " Url="html/d4908704-35ea-16cf-4807-214b127e39c2.htm" />
+        <HelpTOCNode Title="LinkLogin Method " Url="html/df7dfb52-eab8-80bb-e8b5-29f6e4ebe23b.htm" />
+        <HelpTOCNode Title="LinkLoginCallback Method " Url="html/778c1da4-38ee-bbe9-b76d-670a72a22aee.htm" />
+        <HelpTOCNode Title="ManageLogins Method " Url="html/d285fb49-1c88-108e-5e72-327760956511.htm" />
+        <HelpTOCNode Title="RemoveLogin Method " Url="html/25b6dcec-1b47-172f-7385-d9faf410207e.htm" />
+        <HelpTOCNode Title="RemovePhoneNumber Method " Url="html/c502cc8c-e871-b6a1-ca13-de1c752b5bb1.htm" />
+        <HelpTOCNode Id="70c988a0-7a54-46b9-9262-6bdc57217828" Title="SetPassword Method " Url="html/639cf9e2-2a64-f05b-344a-9b5e1e31e41e.htm">
+          <HelpTOCNode Title="SetPassword Method " Url="html/39eda392-cb23-96cc-33db-2f1b34796042.htm" />
+          <HelpTOCNode Title="SetPassword Method (SetPasswordViewModel)" Url="html/a9c2e68a-b046-9c73-d7a0-315d02eed94c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="278ff2d6-2f22-4a5b-8dc7-8623d122938f" Title="VerifyPhoneNumber Method " Url="html/72629f33-34f4-8c5c-cee4-55075e600d80.htm">
+          <HelpTOCNode Title="VerifyPhoneNumber Method (String)" Url="html/f8f2596e-c5f7-5cd7-acd4-e4db6c063682.htm" />
+          <HelpTOCNode Title="VerifyPhoneNumber Method (VerifyPhoneNumberViewModel)" Url="html/82b6e535-5dfa-0e02-998f-2bfc218c80a1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="50d9e418-dd5c-40e1-8ef3-7a475217b230" Title="ManageController Properties" Url="html/c725ce5d-cd2e-f5fa-0293-716c58af097d.htm">
+        <HelpTOCNode Title="AuthenticationManager Property " Url="html/62868ad9-e7b9-2132-54b1-b70481e6b482.htm" />
+        <HelpTOCNode Title="SignInManager Property " Url="html/56d0d49e-fbd2-25dd-788e-dd6fe6606755.htm" />
+        <HelpTOCNode Title="UserManager Property " Url="html/5eae4d2a-cdc5-73be-7b0c-e28a701928e4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ManageController.ManageMessageId Enumeration" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+    <HelpTOCNode Id="9fd7d214-81b7-40b2-9fe6-73f5303b4ffb" Title="ResultsController Class" Url="html/d7df33c4-4934-3288-fc6f-3d42c40f046e.htm">
+      <HelpTOCNode Title="ResultsController Constructor " Url="html/85b3787a-f420-0c22-cc8e-15e494e237f0.htm" />
+      <HelpTOCNode Id="6868f2a2-b418-4c8d-854b-abbb1d13cb49" Title="ResultsController Fields" Url="html/8f40892e-35f5-660c-1467-be00aaf66b05.htm">
+        <HelpTOCNode Title="db Field" Url="html/47a90436-11ab-7e20-0b5a-a90603261f09.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1865092d-15c1-48da-a9c0-ddc36a0a0253" Title="ResultsController Methods" Url="html/f032be82-ed5c-4c6f-823a-ff28619c8726.htm">
+        <HelpTOCNode Id="b16721a2-a430-4510-ace7-c468d11808b4" Title="Create Method " Url="html/67de06e7-1c7e-7f80-e9aa-93d958ea5108.htm">
+          <HelpTOCNode Title="Create Method " Url="html/231cd387-9f68-c073-35b4-85aea9a2780c.htm" />
+          <HelpTOCNode Title="Create Method (Result)" Url="html/c927ed87-2e81-23ed-40a5-b60e5efac54c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Delete Method " Url="html/f22831ad-a902-1e84-5dba-6f09ce298929.htm" />
+        <HelpTOCNode Title="DeleteConfirmed Method " Url="html/f2312ccc-58e4-8b91-5222-84cb2ea04034.htm" />
+        <HelpTOCNode Title="Details Method " Url="html/acabd157-a11c-46e7-6e44-83e696a2b3e4.htm" />
+        <HelpTOCNode Id="3a5efe38-7c4f-4fec-b0b6-d8a7cfc1910d" Title="Dispose Method " Url="html/1ec942ca-2e33-6516-5fb2-6be5098be584.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/babcfb77-2edb-4e6a-f8f5-71cbcf75bcba.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f8fc426d-e23c-49ad-bd7d-981cce1aaf91" Title="Edit Method " Url="html/66f2208c-cf64-54d8-b42f-72376199ebd8.htm">
+          <HelpTOCNode Title="Edit Method (String)" Url="html/b9ab9e8c-1787-78b5-71de-0a67a6cadf4c.htm" />
+          <HelpTOCNode Title="Edit Method (Result)" Url="html/79601f12-8979-6a9c-e000-2eab769bbfdc.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Index Method " Url="html/8645edaa-966c-955e-50ef-d031d8efd5ae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ResultsController Properties" Url="html/4231b03b-1345-3e1a-0980-53a95cf02d38.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="de6d526f-fee7-45df-aad2-0349737271a1" Title="SemesterAnalysisController Class" Url="html/c7f65e38-9fb9-a793-93df-a13b02cae0ed.htm">
+      <HelpTOCNode Title="SemesterAnalysisController Constructor " Url="html/819e5e06-3f7e-eda6-4cbc-b0c76ba58161.htm" />
+      <HelpTOCNode Id="c4622dee-17f2-48e9-bb9c-05117c38e080" Title="SemesterAnalysisController Fields" Url="html/1a8cb1a1-0841-72ba-3524-6079490ffbff.htm">
+        <HelpTOCNode Title="db Field" Url="html/44b6e898-2b7e-e0fb-b50c-6b2d84a9bf8e.htm" />
+        <HelpTOCNode Title="topper Field" Url="html/06082bc3-5c22-32ac-e024-6bafa187b2ef.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cd109523-5e3d-4cd7-aff5-0c298acbf4e9" Title="SemesterAnalysisController Methods" Url="html/8a82b11b-8cd9-f6c7-44b3-65cc7107b2d9.htm">
+        <HelpTOCNode Title="CheckNull Method " Url="html/ed58862f-6059-77a5-a73a-a2d5e7d9fd81.htm" />
+        <HelpTOCNode Title="fetch Method " Url="html/3c7c4d65-4f85-c784-156f-5b546ff33bc7.htm" />
+        <HelpTOCNode Title="GetCpiCount Method " Url="html/e0d067ed-1654-ebbb-14b3-126f46a8523a.htm" />
+        <HelpTOCNode Title="GetGradesData Method " Url="html/6fb894c8-2afc-d1cf-cf91-ed771e0fb567.htm" />
+        <HelpTOCNode Title="GetSpiCount Method " Url="html/28328156-8472-d14c-2f3a-bfe24b02a06b.htm" />
+        <HelpTOCNode Title="GetTFR Method " Url="html/a5b2e002-f4b4-44af-58de-08b219001148.htm" />
+        <HelpTOCNode Title="Index Method " Url="html/2207438f-2667-b640-4298-415b80cc2b63.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SemesterAnalysisController Properties" Url="html/bc4515d0-f667-ae3e-dc22-021a34df4bc3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7ac80799-ff4c-47a7-ab2b-881eb70b048e" Title="SemestersController Class" Url="html/6608a5d8-ba03-76f3-2299-ced95a95ba76.htm">
+      <HelpTOCNode Title="SemestersController Constructor " Url="html/b5710a68-7819-7f8b-95a3-b1861d27997a.htm" />
+      <HelpTOCNode Id="c2dc3db9-a678-4e1f-b8d3-b5bce1231087" Title="SemestersController Fields" Url="html/524386d3-448f-5f11-7622-530cba0a5425.htm">
+        <HelpTOCNode Title="db Field" Url="html/54c2b0d4-283a-5833-41bf-c30cdbf70825.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="26f5b3a3-7fb6-495a-af16-2c342cfac79c" Title="SemestersController Methods" Url="html/c3bb366b-8bd8-177f-11f5-d5d3d143c26c.htm">
+        <HelpTOCNode Id="5601b150-bbda-466b-bbc6-5af1d23f8477" Title="Create Method " Url="html/568dfc0b-d806-d83c-0dcd-b6d3e4230d26.htm">
+          <HelpTOCNode Title="Create Method " Url="html/62112f0c-453f-c7f8-4582-0951ddaeddfe.htm" />
+          <HelpTOCNode Title="Create Method (Semester)" Url="html/d8c3d492-8392-56c9-2f1b-e158683d1c30.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Delete Method " Url="html/d066ed58-c12f-88be-1db3-fdc11b765668.htm" />
+        <HelpTOCNode Title="DeleteConfirmed Method " Url="html/fb2ceff5-9f07-7c93-ca7c-acf8bcce2f75.htm" />
+        <HelpTOCNode Title="Details Method " Url="html/6eaf753f-ee9a-4c83-1dd6-4b7322f8ffc2.htm" />
+        <HelpTOCNode Id="c0649823-76e8-40fd-9b0f-31fc1be8afe3" Title="Dispose Method " Url="html/f2fb0fad-a96d-cb89-691f-ce92507fcdfb.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/cb71379c-f89f-e87a-4f4b-685ecc09305d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0dd97c4f-781e-4b49-98c4-69c5522f46da" Title="Edit Method " Url="html/9e2c2945-c253-7298-a7fb-4217a59747c2.htm">
+          <HelpTOCNode Title="Edit Method (String)" Url="html/68dc7710-d7f9-ea9e-7b65-154dc413a0c5.htm" />
+          <HelpTOCNode Title="Edit Method (Semester)" Url="html/1435e0c1-1cc1-3922-df72-f2adedad068c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Index Method " Url="html/531ead26-8d51-65f6-4edf-90faca3e3473.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SemestersController Properties" Url="html/43dd74d2-1cd1-45b5-9a1a-bff4a4d542ab.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e4e88650-988b-495c-a658-4724740e3f9d" Title="StudentInfoController Class" Url="html/2b1de3ba-b59b-de38-5e98-53b82a572aec.htm">
+      <HelpTOCNode Title="StudentInfoController Constructor " Url="html/815e1da6-baa3-91fd-36d4-aca2049f9a78.htm" />
+      <HelpTOCNode Id="37189055-6c0d-480f-8829-cbee96a96ba7" Title="StudentInfoController Fields" Url="html/6ecf45bc-fae8-05ca-6d3a-9f0c1d52767c.htm">
+        <HelpTOCNode Title="db Field" Url="html/8d13ff8f-4675-b28b-c9a8-107dbc66e511.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="193b922d-037c-48d3-a83f-5ba51ed1e0b7" Title="StudentInfoController Methods" Url="html/203260d6-9546-55a0-3a0f-afae66a35b4d.htm">
+        <HelpTOCNode Title="GetCurrentRank Method " Url="html/f7e6531e-1c84-01b1-18a1-9e153b924651.htm" />
+        <HelpTOCNode Title="GetOverallRank Method " Url="html/79bb1743-e8d7-8497-0956-08f546693d1a.htm" />
+        <HelpTOCNode Title="SearchByEnrollment Method " Url="html/d57befd5-6e61-5eb6-93f5-bceb0e910da8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="StudentInfoController Properties" Url="html/147d291b-a52e-3fd6-3d8f-aaf2db836663.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5b149b00-dba7-4ef1-a4ab-17ddc8ed35f0" Title="SubjectsController Class" Url="html/1c3b4f7d-21e3-2078-f21b-46355b62176e.htm">
+      <HelpTOCNode Title="SubjectsController Constructor " Url="html/50b9c096-2715-ccd9-e46d-0ffb6ae6712e.htm" />
+      <HelpTOCNode Id="3c83eb52-48d4-4f09-928b-02ce82324e9c" Title="SubjectsController Fields" Url="html/a808415d-3aa4-705c-7075-6dc9c489e637.htm">
+        <HelpTOCNode Title="db Field" Url="html/9126bf68-1d89-37a5-291b-9109e64bf1c6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ec266397-b095-49a3-9594-3620bd276def" Title="SubjectsController Methods" Url="html/48e0f174-66fe-808e-62e1-052448b3edbb.htm">
+        <HelpTOCNode Id="d5e3f222-87b6-4e8e-9f7a-55892db97353" Title="Create Method " Url="html/c1e0207c-93b9-7a20-5d30-f92729c92d55.htm">
+          <HelpTOCNode Title="Create Method " Url="html/e68c6918-e219-29cc-b7ff-0014f6ceba0e.htm" />
+          <HelpTOCNode Title="Create Method (Subject)" Url="html/db6339e0-c1c9-b573-a479-37ecb155e6d1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Delete Method " Url="html/d37717d3-e63c-e9fc-b0e4-0599e536582a.htm" />
+        <HelpTOCNode Title="DeleteConfirmed Method " Url="html/4a7ffc3f-b97e-5894-0e6d-f9f579496958.htm" />
+        <HelpTOCNode Title="Details Method " Url="html/74b7751c-6ebd-a124-79a2-c58d7eb64cc6.htm" />
+        <HelpTOCNode Id="9261a463-1f67-4ce5-be19-7a32a6187a8a" Title="Dispose Method " Url="html/ec4f14a5-0adb-e3ae-3df6-c22ab32dca33.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/e82690b8-b260-a583-6feb-de4e8cd3b9b1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="560bcac5-2533-4516-8027-6729ffe06d35" Title="Edit Method " Url="html/92415abd-3795-1780-c99d-618709d1beea.htm">
+          <HelpTOCNode Title="Edit Method (String)" Url="html/ff3eee87-6cb0-8cf1-33a0-b7cab33d9662.htm" />
+          <HelpTOCNode Title="Edit Method (Subject)" Url="html/9dfe240e-64e8-e94b-f804-7521215a29d3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Index Method " Url="html/00b5af7f-68ca-2f2a-86b1-0287a7e49230.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SubjectsController Properties" Url="html/29bca38e-77fc-6020-1f57-d9b9bc8f2eb5.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="0c48d72b-8e16-4cfd-a4a5-8d658e8fc962" Title="ARAFFinal.Models" Url="html/a047f039-a2f0-bdcc-8e93-4a7a982ce00c.htm">
+    <HelpTOCNode Id="df7f58a1-224f-4065-b522-9b4a3bdc0c17" Title="AddPhoneNumberViewModel Class" Url="html/209f3e1c-5a91-a26a-f6a6-fc4bbc600b7f.htm">
+      <HelpTOCNode Title="AddPhoneNumberViewModel Constructor " Url="html/8c40ebc4-4574-5c0f-784f-0b63690695da.htm" />
+      <HelpTOCNode Title="AddPhoneNumberViewModel Methods" Url="html/9c44b4bf-ca99-04b2-56a5-647b415bda14.htm" />
+      <HelpTOCNode Id="68fcadf0-bb28-462f-8122-e15abd84cac9" Title="AddPhoneNumberViewModel Properties" Url="html/f0d29c53-1a8f-147b-eaed-924289d13e2f.htm">
+        <HelpTOCNode Title="Number Property " Url="html/d691feca-9a6c-c443-bcbf-8a6b4818aeb5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c6fb8f70-cc47-4555-80da-dbaacbae83d0" Title="ADITStudentDataEntities Class" Url="html/5247625c-97d5-7f12-e3a9-32b8146d2a1d.htm">
+      <HelpTOCNode Title="ADITStudentDataEntities Constructor " Url="html/37121a2b-2989-cba8-bc4c-e93af8a0955c.htm" />
+      <HelpTOCNode Title="ADITStudentDataEntities Fields" Url="html/2129d639-88e0-001f-9a51-1a56cc72fe1d.htm" />
+      <HelpTOCNode Id="8645beb2-ca80-4730-ad5a-637607e157bc" Title="ADITStudentDataEntities Methods" Url="html/a4ba05b1-41ee-d48f-6d1b-225695dea90e.htm">
+        <HelpTOCNode Title="OnModelCreating Method " Url="html/98ce2d81-a7fb-4eca-9086-9e85646a3741.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2baeadec-33b0-4c95-9ced-ced00c2d52d4" Title="ADITStudentDataEntities Properties" Url="html/def2619a-0319-eefe-1887-c7805612ce05.htm">
+        <HelpTOCNode Title="C__RefactorLog Property " Url="html/4d80d079-65b2-c939-5296-db8fb98e8cc3.htm" />
+        <HelpTOCNode Title="Departments Property " Url="html/48ab1658-041d-7c15-6f20-662e7f35f6f0.htm" />
+        <HelpTOCNode Title="Logins Property " Url="html/af3bf04e-61b7-2ab5-e50a-8bf51df1350e.htm" />
+        <HelpTOCNode Title="Results Property " Url="html/a561090b-4475-993b-fcf9-27f9307e9110.htm" />
+        <HelpTOCNode Title="Semesters Property " Url="html/02e65166-f524-6edf-e5af-cbda6e3c0cf1.htm" />
+        <HelpTOCNode Title="Students Property " Url="html/7332f35e-bda9-a1a8-f4a9-fd55cf7a236f.htm" />
+        <HelpTOCNode Title="Subjects Property " Url="html/3c7721e5-20a7-746d-3a63-d5c55453c052.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="435553ad-2eaf-41a6-83ec-a3b43ae901a6" Title="ApplicationDbContext Class" Url="html/8f8fae10-b5e9-23e0-abbc-e1d99ee6f14b.htm">
+      <HelpTOCNode Title="ApplicationDbContext Constructor " Url="html/176660f4-ad2f-29db-98c1-99f263b48f8d.htm" />
+      <HelpTOCNode Title="ApplicationDbContext Fields" Url="html/fda8c21e-46ff-365e-e066-bef25d74c5a0.htm" />
+      <HelpTOCNode Id="df852e4d-a7fb-45d7-99d4-fa0117cb5c69" Title="ApplicationDbContext Methods" Url="html/a73d5e3e-e817-a987-ec57-5dd089313b89.htm">
+        <HelpTOCNode Title="Create Method " Url="html/5fa1726d-fe63-3fc4-aab1-8fea8dbef007.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ApplicationDbContext Properties" Url="html/ca9a90b7-04a6-6bb9-7853-13a57de5fc50.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9c244706-e53e-4c3e-8ceb-1ae86e8d3fa1" Title="ApplicationUser Class" Url="html/917a18ea-eb76-e5fd-5bf0-a3d60f9eb0c3.htm">
+      <HelpTOCNode Title="ApplicationUser Constructor " Url="html/67de1fd1-2e0c-438f-aa25-1028ec790119.htm" />
+      <HelpTOCNode Id="46495319-4e0e-4cbb-aaf7-1ecc8509e83d" Title="ApplicationUser Methods" Url="html/e3dfef1d-47de-5f5d-1550-053ec905509b.htm">
+        <HelpTOCNode Title="GenerateUserIdentityAsync Method " Url="html/8519a603-c71f-fed4-0fe0-fe0f9ad16068.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ApplicationUser Properties" Url="html/ee3f064e-0300-ad94-5351-331d78080f63.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2542431d-4863-4f9f-a844-3fd1fa709a5b" Title="C__RefactorLog Class" Url="html/5ad5cf13-2a7b-6ad5-802b-d05f650bad08.htm">
+      <HelpTOCNode Title="C__RefactorLog Constructor " Url="html/cdd57460-5746-13e0-d3dd-cb1bbcc12e89.htm" />
+      <HelpTOCNode Title="C__RefactorLog Methods" Url="html/73a53e73-acf6-a464-dd53-5180aa3ae1e3.htm" />
+      <HelpTOCNode Id="37822566-8576-40bc-ac7b-63bc6f6c22e2" Title="C__RefactorLog Properties" Url="html/9c18888c-4ec2-ac8b-8b63-2b8be18c18b9.htm">
+        <HelpTOCNode Title="OperationKey Property " Url="html/9de7f427-139a-fc05-691b-e06ca0d6c796.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5d0b995e-468c-428f-8d5c-db4a09fdeec7" Title="ChangePasswordViewModel Class" Url="html/f07df14c-e4f7-8ade-8ccc-285b39fea5de.htm">
+      <HelpTOCNode Title="ChangePasswordViewModel Constructor " Url="html/06772251-e7e1-fb2b-450c-d5a6b90cfc94.htm" />
+      <HelpTOCNode Title="ChangePasswordViewModel Methods" Url="html/48adfb34-4d00-19f2-694c-79f575747d14.htm" />
+      <HelpTOCNode Id="bc6eb160-74a6-458a-b7b1-faf73d89851a" Title="ChangePasswordViewModel Properties" Url="html/d6acf671-31cd-6a05-2cc0-6de79e0ab925.htm">
+        <HelpTOCNode Title="ConfirmPassword Property " Url="html/894c9cdb-3311-8889-0c05-84a6c44d0ae5.htm" />
+        <HelpTOCNode Title="NewPassword Property " Url="html/480f9267-f10e-fc61-023d-3edc84c42484.htm" />
+        <HelpTOCNode Title="OldPassword Property " Url="html/82d3fe4e-a1ac-cada-4d5d-51238f5f7a0c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="179d4191-6fb8-41df-8213-1e8eb387b724" Title="ConfigureTwoFactorViewModel Class" Url="html/a6300538-0944-2ca5-b68e-a3cf29381b65.htm">
+      <HelpTOCNode Title="ConfigureTwoFactorViewModel Constructor " Url="html/4ea8d0af-308e-44c6-f83b-cb801bc06139.htm" />
+      <HelpTOCNode Title="ConfigureTwoFactorViewModel Methods" Url="html/ca8cbc13-c67b-fa2a-52b0-3f145268821c.htm" />
+      <HelpTOCNode Id="cc902a48-bebf-4f1d-a2b6-ed6ad3ba3845" Title="ConfigureTwoFactorViewModel Properties" Url="html/6e7c9a07-2191-9bbe-3d70-1491480de917.htm">
+        <HelpTOCNode Title="Providers Property " Url="html/fa165484-392a-8303-25e3-2a29967b8756.htm" />
+        <HelpTOCNode Title="SelectedProvider Property " Url="html/f03730dc-a184-fd61-94a2-3b6c1b64912b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b3f8936f-64eb-4358-a38d-ad8ea26b0145" Title="Department Class" Url="html/58377d5e-2817-5b62-7a03-34a59280255c.htm">
+      <HelpTOCNode Title="Department Constructor " Url="html/023721db-f81a-f0b0-308e-ebe17b595ae7.htm" />
+      <HelpTOCNode Title="Department Methods" Url="html/8ee3eddd-0d5c-a490-5fb9-f50c40a5bb61.htm" />
+      <HelpTOCNode Id="c71896e1-9b2f-487b-ac93-10fb52907356" Title="Department Properties" Url="html/ca904cb6-152a-f4e4-9cad-63f669e68708.htm">
+        <HelpTOCNode Title="DepartmentId Property " Url="html/e91aed6c-466a-0a67-276f-be79afa198c1.htm" />
+        <HelpTOCNode Title="DepartmentName Property " Url="html/ec2cedc9-670f-2e27-b3b3-8da0c2a82951.htm" />
+        <HelpTOCNode Title="Logins Property " Url="html/358a6a9a-cf58-44f6-a19e-2e6a1633f25b.htm" />
+        <HelpTOCNode Title="Students Property " Url="html/f0d01d41-0c79-ce8b-79f7-7ac4a1259e3b.htm" />
+        <HelpTOCNode Title="Subjects Property " Url="html/793a3a07-0197-fd8c-4517-56375559496b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="adbf23e1-4f3c-435e-a8f2-1cb88f2c8cd6" Title="ExternalLoginConfirmationViewModel Class" Url="html/9ffbeb7b-095a-0461-6162-1818cb62423a.htm">
+      <HelpTOCNode Title="ExternalLoginConfirmationViewModel Constructor " Url="html/067600b8-52d7-ae43-55c5-59f68e9d262d.htm" />
+      <HelpTOCNode Title="ExternalLoginConfirmationViewModel Methods" Url="html/48e80f42-3b5a-705b-cb0b-694b9d7eea3e.htm" />
+      <HelpTOCNode Id="9eb78e4b-ecfb-4ef0-a8e0-a09e6459556e" Title="ExternalLoginConfirmationViewModel Properties" Url="html/f36fdb0a-399b-f2b5-988b-3983ab2922a0.htm">
+        <HelpTOCNode Title="Email Property " Url="html/0ac9e35c-4528-80a0-8de6-2906d5bcd983.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c2a34566-6f8b-4d58-9034-740e5411967b" Title="ExternalLoginListViewModel Class" Url="html/32d17ad5-fa3b-8283-be89-648cdc2a1751.htm">
+      <HelpTOCNode Title="ExternalLoginListViewModel Constructor " Url="html/ca406dce-15d1-cb27-f369-615e6d45ae79.htm" />
+      <HelpTOCNode Title="ExternalLoginListViewModel Methods" Url="html/d6c91227-6877-3802-00d3-088eca7d48d2.htm" />
+      <HelpTOCNode Id="ebe2f05b-e01a-4b47-96af-4d49b6da5299" Title="ExternalLoginListViewModel Properties" Url="html/8ca778b7-67ca-ba1d-9056-3b155718441b.htm">
+        <HelpTOCNode Title="ReturnUrl Property " Url="html/09966e9c-8bac-7efd-1cd0-56ac802ebb26.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f2aa5776-a20d-467b-af45-a146af7e0319" Title="FactorViewModel Class" Url="html/7310156f-3da9-82b6-60d3-a9a85d52d39f.htm">
+      <HelpTOCNode Title="FactorViewModel Constructor " Url="html/74166ae0-7803-b665-7510-bb381ef7842f.htm" />
+      <HelpTOCNode Title="FactorViewModel Methods" Url="html/69242203-a03c-433c-af93-2c6f09a82eaa.htm" />
+      <HelpTOCNode Id="7415b19b-2fd3-4e8b-a50d-7cbd952eb1ec" Title="FactorViewModel Properties" Url="html/5618d066-5038-d478-7cbf-c769bea53f04.htm">
+        <HelpTOCNode Title="Purpose Property " Url="html/aeef870e-7ff0-fed4-a55a-d170c97c8696.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="14e53e79-ae21-4487-ab7d-4072beb0c1c3" Title="ForgotPasswordViewModel Class" Url="html/d925208c-c481-bee5-f562-710a0fb61ccc.htm">
+      <HelpTOCNode Title="ForgotPasswordViewModel Constructor " Url="html/6577ecad-af03-e9c0-7147-ced09f9cf806.htm" />
+      <HelpTOCNode Title="ForgotPasswordViewModel Methods" Url="html/b63588f2-ccdb-171b-7266-59bff3e7a9b1.htm" />
+      <HelpTOCNode Id="dfd98277-d14c-44e2-873f-21fdd9446642" Title="ForgotPasswordViewModel Properties" Url="html/b536c2f8-d991-f95e-2f77-8044aced2f32.htm">
+        <HelpTOCNode Title="Email Property " Url="html/90ead5fa-5ccf-f8ea-3d34-81a81f40a447.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="414d8ba4-b224-4747-96c9-525311f1ca07" Title="ForgotViewModel Class" Url="html/5cf25382-377a-86bc-ab62-bc82028b78bc.htm">
+      <HelpTOCNode Title="ForgotViewModel Constructor " Url="html/33228fd9-3c5c-1fb9-e03d-6665365ebcfc.htm" />
+      <HelpTOCNode Title="ForgotViewModel Methods" Url="html/ded44368-b55a-afaf-7dd4-b655c2a13540.htm" />
+      <HelpTOCNode Id="6e5a0f92-3b68-4e59-9351-ebf8c6925a65" Title="ForgotViewModel Properties" Url="html/f918ab87-3f3a-5442-fe38-3d47cac3178d.htm">
+        <HelpTOCNode Title="Email Property " Url="html/ecb7c390-6be1-8c46-c94e-59ee5152bd82.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="20958a0d-dc17-473b-8c26-1bb7ae0ef725" Title="IndexViewModel Class" Url="html/746fa63e-0fc6-7493-62d0-99d479a1d4aa.htm">
+      <HelpTOCNode Title="IndexViewModel Constructor " Url="html/59d361f7-41d8-df60-2ea7-dcaeaaec534f.htm" />
+      <HelpTOCNode Title="IndexViewModel Methods" Url="html/426164d7-ffa8-3349-53d0-c5089a312f2c.htm" />
+      <HelpTOCNode Id="97e78b84-6cf7-42c7-99e5-9ab7cab5cb23" Title="IndexViewModel Properties" Url="html/d08c103f-8648-5d75-c417-527a385e6560.htm">
+        <HelpTOCNode Title="BrowserRemembered Property " Url="html/5bd8f196-a14f-9103-1440-aeb9e4259255.htm" />
+        <HelpTOCNode Title="HasPassword Property " Url="html/5f95e2fc-7333-56d1-95b0-c9817fbebc9f.htm" />
+        <HelpTOCNode Title="Logins Property " Url="html/c5e12270-dc5d-cf30-c570-2d32f0c9dea5.htm" />
+        <HelpTOCNode Title="PhoneNumber Property " Url="html/c867cd4e-7179-9eef-7070-aeccba400952.htm" />
+        <HelpTOCNode Title="TwoFactor Property " Url="html/782488b0-901a-603f-9c62-ff56d585714e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="38387a89-171d-479e-bd96-4c2397b1a870" Title="Login Class" Url="html/20cdaeae-e308-8a28-b16e-4ea6c12f21b7.htm">
+      <HelpTOCNode Title="Login Constructor " Url="html/73c7d5ca-61da-8f7c-5d5b-b631cef30fd6.htm" />
+      <HelpTOCNode Title="Login Methods" Url="html/655cdeec-d778-eeef-483d-4a6bcfa3eac8.htm" />
+      <HelpTOCNode Id="759d8f40-2d3c-42b4-abf4-c733b038910b" Title="Login Properties" Url="html/4d7da6d0-6c99-5db7-14d8-7910b20629b9.htm">
+        <HelpTOCNode Title="Department Property " Url="html/0f1a29bb-559e-a26f-6167-6910177ee5b7.htm" />
+        <HelpTOCNode Title="DepartmentId Property " Url="html/5420fa8a-00cb-811b-3d11-d3a1213066a3.htm" />
+        <HelpTOCNode Title="Password Property " Url="html/561cdff3-3e21-348a-00f5-c7f8156515cc.htm" />
+        <HelpTOCNode Title="Role Property " Url="html/83bb41a5-bf5a-1afc-0da7-19ca3d8c7f1c.htm" />
+        <HelpTOCNode Title="Username Property " Url="html/0a85f1e7-6d48-e8a9-f6a0-23aaac8f988b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="41e61795-7082-400c-8db5-f6d7d0b8515f" Title="LoginViewModel Class" Url="html/ab6d6e05-2b75-4902-d1ef-3fcd041dedbd.htm">
+      <HelpTOCNode Title="LoginViewModel Constructor " Url="html/505e9128-cf27-f8cf-4798-2ef4ff6273e6.htm" />
+      <HelpTOCNode Title="LoginViewModel Methods" Url="html/cbc64584-494b-eaf9-e933-7ca40f188843.htm" />
+      <HelpTOCNode Id="80799488-1dd7-4fd9-b0b4-34a26fd892cc" Title="LoginViewModel Properties" Url="html/c452c04c-7b13-137e-f8b1-f510b008918d.htm">
+        <HelpTOCNode Title="Email Property " Url="html/c16de71e-cc36-9d38-5368-4ec538b43e96.htm" />
+        <HelpTOCNode Title="Password Property " Url="html/a3aa4534-8264-a346-695e-518ad80ddf94.htm" />
+        <HelpTOCNode Title="RememberMe Property " Url="html/a5d3b529-c6a7-a3c0-38d5-d179a41746cd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dc496bac-aea4-4f2e-988c-8cd68d1927be" Title="ManageLoginsViewModel Class" Url="html/1fb1d25c-9683-ce05-8058-f3d3242dee8e.htm">
+      <HelpTOCNode Title="ManageLoginsViewModel Constructor " Url="html/40ef5451-fc86-8540-b04f-b732f4836792.htm" />
+      <HelpTOCNode Title="ManageLoginsViewModel Methods" Url="html/b2ac874f-5d65-cefd-38c5-484ebcdd5dd9.htm" />
+      <HelpTOCNode Id="c23aa76e-8c30-423f-883c-dd4ea5d8841e" Title="ManageLoginsViewModel Properties" Url="html/c5aec92f-4387-2735-a6ff-686083de7f55.htm">
+        <HelpTOCNode Title="CurrentLogins Property " Url="html/97cd61b0-6015-c30a-217d-aa33e39c0425.htm" />
+        <HelpTOCNode Title="OtherLogins Property " Url="html/ee083bbc-5ac6-cf1f-1421-d589cb14c05f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a25d13a0-9dbb-4cfa-8cc7-2740a08c22ea" Title="RegisterViewModel Class" Url="html/1b3d3704-1a16-de39-fb13-64a73a8a51bf.htm">
+      <HelpTOCNode Title="RegisterViewModel Constructor " Url="html/a0322a51-3cf7-5356-4dad-5614c5ff7114.htm" />
+      <HelpTOCNode Title="RegisterViewModel Methods" Url="html/03e5189b-54e6-a497-79c9-b3470de2e4cb.htm" />
+      <HelpTOCNode Id="ff75798b-b2b6-4372-b4b4-6d8ebdd6e0e3" Title="RegisterViewModel Properties" Url="html/2319e2cf-7739-c43e-f6f9-ce5f27e4bfff.htm">
+        <HelpTOCNode Title="ConfirmPassword Property " Url="html/3d4f4e98-22f4-88e6-3278-2e0723d91216.htm" />
+        <HelpTOCNode Title="Email Property " Url="html/54f750a1-cf28-4bcf-3ab8-1a07ad20110e.htm" />
+        <HelpTOCNode Title="Password Property " Url="html/7ee3770a-6e7d-d603-b537-80c6cbf9e829.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f55f9b22-e500-41ac-8a67-721e508bcd43" Title="ResetPasswordViewModel Class" Url="html/3882a209-f9c7-c40f-40ab-df1a7645f174.htm">
+      <HelpTOCNode Title="ResetPasswordViewModel Constructor " Url="html/03896782-3827-ad0e-53b4-c9437051b7e4.htm" />
+      <HelpTOCNode Title="ResetPasswordViewModel Methods" Url="html/4fa86885-d886-6264-228c-c89df86321d2.htm" />
+      <HelpTOCNode Id="6a3c415a-9c81-42a1-b9d2-ef7c7641e122" Title="ResetPasswordViewModel Properties" Url="html/7c04ad82-986b-7284-ab16-9103d0949f63.htm">
+        <HelpTOCNode Title="Code Property " Url="html/c63c26b1-71c7-f08f-226d-95ae84cd7e6e.htm" />
+        <HelpTOCNode Title="ConfirmPassword Property " Url="html/54975bfe-e2ce-5a59-8859-41830d96b0ec.htm" />
+        <HelpTOCNode Title="Email Property " Url="html/d1396151-d94d-d7f6-4915-00e87859042d.htm" />
+        <HelpTOCNode Title="Password Property " Url="html/fb9db034-9c13-1f47-8478-be12b88625d1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8ca041ff-3e72-4954-8e06-6a8af76ddced" Title="Result Class" Url="html/e58ba6af-6a55-6d3b-42dd-e0bb318544b4.htm">
+      <HelpTOCNode Title="Result Constructor " Url="html/264e7b01-ce56-1208-ade3-d7b1ffaf96a2.htm" />
+      <HelpTOCNode Title="Result Methods" Url="html/9bf7904b-5a1b-b971-3428-aa6ca60e74f6.htm" />
+      <HelpTOCNode Id="155bad51-d7ab-4fda-b3d3-2c332e94dd1c" Title="Result Properties" Url="html/6d5d79f6-fcd0-88f8-daf2-26a31c12642a.htm">
+        <HelpTOCNode Title="Grade Property " Url="html/d7a17fca-3808-9931-24ef-959c1d0668d6.htm" />
+        <HelpTOCNode Title="SemesterId Property " Url="html/dea9d3e1-985d-8581-4058-8b82c7be3f98.htm" />
+        <HelpTOCNode Title="Student Property " Url="html/0fe5ed35-10ca-f984-85da-a1e8820d57a6.htm" />
+        <HelpTOCNode Title="StudentId Property " Url="html/dff4a7bc-058b-32e3-bfe6-7a0dd6d30384.htm" />
+        <HelpTOCNode Title="Subject Property " Url="html/fe0264d1-7efc-3560-8278-62614ea23f79.htm" />
+        <HelpTOCNode Title="SubjectId Property " Url="html/92be5b8c-c03b-3bc7-0cae-71e9b27faa22.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4dc11576-3c9d-4672-abcf-7579889541d6" Title="Semester Class" Url="html/fee28640-6831-c0e5-7bd4-33095eb7e255.htm">
+      <HelpTOCNode Title="Semester Constructor " Url="html/0f9e6444-c7aa-e426-680b-56c2ee5915bf.htm" />
+      <HelpTOCNode Title="Semester Methods" Url="html/c27ff692-7697-9cd1-ecea-60fcb04df2da.htm" />
+      <HelpTOCNode Id="e2aadfcb-19f3-4de1-81dd-bc04b09704a7" Title="Semester Properties" Url="html/8139dc16-90ec-9910-b432-169bd67a218f.htm">
+        <HelpTOCNode Title="Backlog Property " Url="html/6d04730f-3d73-cecb-983c-e7e8d95087be.htm" />
+        <HelpTOCNode Title="Cgpa Property " Url="html/30120550-72bd-e161-ffee-1e24775a7a6d.htm" />
+        <HelpTOCNode Title="Cpi Property " Url="html/e8043b76-10cd-3dff-8dfc-f3dfdc736d62.htm" />
+        <HelpTOCNode Title="SemesterId Property " Url="html/51af8bcc-0cb5-486f-3bca-f3536d0f0b62.htm" />
+        <HelpTOCNode Title="Spi Property " Url="html/fab648bf-8299-bdfb-c10a-143a68c0ac7f.htm" />
+        <HelpTOCNode Title="Student Property " Url="html/a07d2ed4-44a2-eaae-2846-53eae278a057.htm" />
+        <HelpTOCNode Title="StudentId Property " Url="html/7b44ab21-2625-03a8-e556-98e725398774.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/0e1d1aeb-6e6e-9c34-6a57-0d2f9f13c65a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="955a1bcf-fbc5-434c-98b9-5d29d3f6665e" Title="SendCodeViewModel Class" Url="html/79a104cf-f072-5573-8d2c-88780854ab4b.htm">
+      <HelpTOCNode Title="SendCodeViewModel Constructor " Url="html/1db1ab20-f116-5eaa-c0ed-91cfa4a7588b.htm" />
+      <HelpTOCNode Title="SendCodeViewModel Methods" Url="html/8414b689-f981-4de7-dc07-7c465bfeb8e0.htm" />
+      <HelpTOCNode Id="d261294e-a8f8-407a-a11f-328627dd3455" Title="SendCodeViewModel Properties" Url="html/2611dc5e-4444-7978-5f71-51873c7dee31.htm">
+        <HelpTOCNode Title="Providers Property " Url="html/4b7a7405-b857-a7d1-7e03-d132b4540cf9.htm" />
+        <HelpTOCNode Title="RememberMe Property " Url="html/091be952-083e-075e-f2e4-876e381de7a2.htm" />
+        <HelpTOCNode Title="ReturnUrl Property " Url="html/78cc2588-3bea-dddf-129c-b9402e4513ea.htm" />
+        <HelpTOCNode Title="SelectedProvider Property " Url="html/4260d721-d38a-93c0-60f7-806485b0a95e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="360b13b0-a9ea-425b-8f78-f56c5232ab72" Title="SetPasswordViewModel Class" Url="html/0f937951-4bdc-4c5e-d61f-46664bfef5f0.htm">
+      <HelpTOCNode Title="SetPasswordViewModel Constructor " Url="html/812dfe7d-28cc-4b8a-3f17-092a1e09db95.htm" />
+      <HelpTOCNode Title="SetPasswordViewModel Methods" Url="html/2039dd7a-adb0-344b-6996-16a148352ee2.htm" />
+      <HelpTOCNode Id="6c78da32-080e-44df-90bc-6c04be35e522" Title="SetPasswordViewModel Properties" Url="html/1d4e7c99-7c6b-dc2a-b5ed-a1f54b24ebc4.htm">
+        <HelpTOCNode Title="ConfirmPassword Property " Url="html/14acd621-8ede-e754-3d1d-20700b150d16.htm" />
+        <HelpTOCNode Title="NewPassword Property " Url="html/97ef44fe-33a7-0be6-ce80-7b4e3d85e5d6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="108f2498-35ee-49d2-995b-e1472036503f" Title="Student Class" Url="html/15179cad-02b7-a1ff-2f35-328ba39659f2.htm">
+      <HelpTOCNode Title="Student Constructor " Url="html/3aac5c26-49aa-a6c5-ecb6-406e65c0f325.htm" />
+      <HelpTOCNode Title="Student Methods" Url="html/1010387e-e8da-9633-0bbf-f7a95bde845f.htm" />
+      <HelpTOCNode Id="d14c05ed-ce24-43e3-b894-bb8592ab3ef2" Title="Student Properties" Url="html/d6596b0f-aadc-e0aa-f08a-0d3c8613576c.htm">
+        <HelpTOCNode Title="Department Property " Url="html/dd702643-bae1-d923-e226-aca9a6ba5c58.htm" />
+        <HelpTOCNode Title="DepartmentId Property " Url="html/c52773b2-aa67-3674-cd47-b180bf2edaeb.htm" />
+        <HelpTOCNode Title="Results Property " Url="html/23891ffe-56f6-6ae3-165e-235827c485a3.htm" />
+        <HelpTOCNode Title="SemesterId Property " Url="html/401a23af-475a-b559-3dfd-32318ca180a7.htm" />
+        <HelpTOCNode Title="Semesters Property " Url="html/9030cea4-8c5b-e9ba-f057-a2728c105393.htm" />
+        <HelpTOCNode Title="StudentId Property " Url="html/a4a5fba5-8bc9-eba5-3161-5cda5fbe015c.htm" />
+        <HelpTOCNode Title="StudentName Property " Url="html/611ae0ac-a746-1572-1e2e-0afc74b1077a.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/029e53c7-fc30-8bbd-34bd-83efc3c61b7c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b73c95ee-1d55-496f-853d-b389792e0910" Title="Subject Class" Url="html/44e59634-64a4-8879-b87c-de25d9035c06.htm">
+      <HelpTOCNode Title="Subject Constructor " Url="html/6f15afba-63f9-1572-ffc6-f16c6b12a84f.htm" />
+      <HelpTOCNode Title="Subject Methods" Url="html/46aa616d-9110-b5ba-f601-dd97d8b9f284.htm" />
+      <HelpTOCNode Id="924e7aae-cb32-4715-b59c-0fc4f8a8fb6b" Title="Subject Properties" Url="html/18e72014-47e3-641f-d7ed-1a0cc00130a4.htm">
+        <HelpTOCNode Title="Department Property " Url="html/af88749f-e14d-ca9a-9766-2117b91960e3.htm" />
+        <HelpTOCNode Title="DepartmentId Property " Url="html/ed02159e-1d47-efc2-52d4-a4d24942bd74.htm" />
+        <HelpTOCNode Title="Results Property " Url="html/d365799b-1069-16b7-95d4-cefd542da9a9.htm" />
+        <HelpTOCNode Title="SemesterId Property " Url="html/6f2cb1b0-3b8b-bbf3-9be4-a4d686915217.htm" />
+        <HelpTOCNode Title="SubjectId Property " Url="html/084229aa-ed9a-bc0d-43c8-b61329c82a73.htm" />
+        <HelpTOCNode Title="SubjectName Property " Url="html/532067a7-881a-0705-39e6-b700be8de62e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6f5d018c-1ed1-49d4-bc59-6dad45ce0d46" Title="VerifyCodeViewModel Class" Url="html/e55c5f9b-6934-9c27-1a2c-5c43f0f90460.htm">
+      <HelpTOCNode Title="VerifyCodeViewModel Constructor " Url="html/1486eb78-888e-d63a-09be-57992922a653.htm" />
+      <HelpTOCNode Title="VerifyCodeViewModel Methods" Url="html/708a7a05-c041-3716-f985-29d493b0034a.htm" />
+      <HelpTOCNode Id="80c63cd8-ef5e-4a95-8fbe-538e156e90b6" Title="VerifyCodeViewModel Properties" Url="html/92f40c9a-b39d-b3d9-2bc6-3615f06e6015.htm">
+        <HelpTOCNode Title="Code Property " Url="html/bbaefb95-3a2a-e868-8699-af58af119ca6.htm" />
+        <HelpTOCNode Title="Provider Property " Url="html/6d0dd881-59b6-72c8-98df-54a70cbf0e0a.htm" />
+        <HelpTOCNode Title="RememberBrowser Property " Url="html/78499d80-6f82-947e-2e24-01791ff6f49d.htm" />
+        <HelpTOCNode Title="RememberMe Property " Url="html/ba6349b5-74d6-450f-e6af-3745206a11bf.htm" />
+        <HelpTOCNode Title="ReturnUrl Property " Url="html/11c30ce2-0599-7833-69c5-d0e96e09ee52.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4d2d5e1e-0886-445a-b454-0d8d87a4cf4e" Title="VerifyPhoneNumberViewModel Class" Url="html/a74517c2-38ea-c1a5-c695-8553459304c4.htm">
+      <HelpTOCNode Title="VerifyPhoneNumberViewModel Constructor " Url="html/97f8957c-ae4f-ced7-826a-b6041f3b7b7a.htm" />
+      <HelpTOCNode Title="VerifyPhoneNumberViewModel Methods" Url="html/6484bf15-94ee-5d67-8f88-03c9a80ce993.htm" />
+      <HelpTOCNode Id="4361707b-d791-47fb-b940-4d0ed1864889" Title="VerifyPhoneNumberViewModel Properties" Url="html/00bebe0c-8788-7069-db89-3ac097c2985e.htm">
+        <HelpTOCNode Title="Code Property " Url="html/8109fe1e-37b0-8bb4-a258-7794ab869846.htm" />
+        <HelpTOCNode Title="PhoneNumber Property " Url="html/20c4a432-f549-4b7b-b4ac-3ff6d9e32841.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

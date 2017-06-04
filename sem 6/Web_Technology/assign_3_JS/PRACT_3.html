@@ -1,0 +1,48 @@
+<!--Write javascript code to implement following calculator. Use Switch Case and Function for
+the same.-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js switch case</title>
+	<script type="text/javascript">
+		function calc(a)
+		{
+			var val1=document.getElementById("value1").value;
+			var val2=document.getElementById("value2").value;
+			if(!val1||!val2||isNaN(val1)||isNaN(val2))
+				document.getElementById("result").innerHTML="ENTER VALID NUMBER or VALUE CANNOT BE NULL";
+			else
+			{
+				switch(a)
+				{
+					case 'add':
+						document.getElementById("result").innerHTML=Number(val1)+Number(val2);	
+					break;
+					case 'sub':
+						document.getElementById("result").innerHTML=Number(val1)-Number(val2);
+					break;
+					case 'mul':
+						document.getElementById("result").innerHTML=Number(val1)*Number(val2);
+					break;						
+					case 'div':
+						if(val2==0)
+							document.getElementById("result").innerHTML="INFINITY";
+						else
+							document.getElementById("result").innerHTML=Number(val1)/Number(val2);
+					break;
+				}
+			}
+		}
+	</script>
+</head>
+<body>
+	Value 1 <input value="" type="text" id="value1"/>
+	<br/><br/>
+	Value 2 <input value="" type="text" id="value2"/>
+	<p value="" id="result"></p>
+	<button onclick="calc('add')">add</button>
+	<button onclick="calc('sub')">subtract</button>
+	<button onclick="calc('mul')">multiply</button>
+	<button onclick="calc('div')">devide</button>
+</body>
+</html>

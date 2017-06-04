@@ -1,0 +1,38 @@
+<!--
+Write a javascript code to show the
+
+concept of DOM By.
+
+1. Replace the content of a document.
+
+2. Change the visibility of an HTML
+
+element.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js switch case</title>
+	<script type="text/javascript">
+	function hide()
+	{
+		document.getElementById("hideme1").style.visibility = 'hidden';
+		document.getElementById("hideme2").style.visibility = 'hidden';
+		document.getElementById("showme").style.visibility='visible';
+	}
+	function show()
+	{
+		document.getElementById("hideme1").style.visibility = 'visible';
+		document.getElementById("hideme2").style.visibility = 'visible';
+		document.getElementById("showme").style.visibility='hidden';
+	}
+	</script>
+</head>
+<body>
+	<p>This document is demo of DOM in javascript.</p>
+	<button onclick="document.write('this is awesome')" id="hideme1">click to change content of document</button>
+	<button onclick="hide()" id="hideme2"> hide both buttons!!</button>
+	<button onclick="show()" id="showme" style="visibility:hidden;">show both buttons!!</button>
+</body>
+</html>
+	

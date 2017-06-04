@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="About method" Url="html/0a3fced5-b771-9c12-6acc-6145e98bd0c2.htm" />
+  <HelpKINode Title="AccountController class">
+    <HelpKINode Title="AccountController Class" Url="html/67bf4fe9-3fb9-e75b-0896-0fc0704176f1.htm" />
+    <HelpKINode Title="about AccountController class" Url="html/67bf4fe9-3fb9-e75b-0896-0fc0704176f1.htm" />
+    <HelpKINode Title="constructor" Url="html/2d2c6c81-df1a-386b-82f4-c074bbbbb57f.htm" />
+    <HelpKINode Title="fields" Url="html/631d4d47-2645-22ac-e8e9-07586df0783a.htm" />
+    <HelpKINode Title="methods" Url="html/1ab6942b-5b41-a9f7-7a08-7e7e7e378578.htm" />
+    <HelpKINode Title="properties" Url="html/f32c6708-47ab-dbc7-531e-193204016182.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccountController.AccountController constructor" Url="html/2d2c6c81-df1a-386b-82f4-c074bbbbb57f.htm" />
+  <HelpKINode Title="AccountController.AddErrors method" Url="html/0f1c4f38-97ef-03cf-3e8c-bdd97c4a95ed.htm" />
+  <HelpKINode Title="AccountController.AuthenticationManager property" Url="html/2df5f224-3d1f-a232-45bf-0257b151a897.htm" />
+  <HelpKINode Title="AccountController.ChallengeResult class">
+    <HelpKINode Title="AccountController.ChallengeResult Class" Url="html/cd8753a1-07d4-9a12-e350-db341abcfe34.htm" />
+    <HelpKINode Title="about AccountController.ChallengeResult class" Url="html/cd8753a1-07d4-9a12-e350-db341abcfe34.htm" />
+    <HelpKINode Title="constructor" Url="html/8a5e4a22-a56b-554c-b3dc-3fa3c27f160a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccountController.ChallengeResult.ChallengeResult constructor" Url="html/8a5e4a22-a56b-554c-b3dc-3fa3c27f160a.htm" />
+  <HelpKINode Title="AccountController.ChallengeResult.ExecuteResult method" Url="html/176bc8b1-e1dd-1da1-a20d-5256f5a82d6e.htm" />
+  <HelpKINode Title="AccountController.ChallengeResult.LoginProvider property" Url="html/7de1baea-ab00-46a4-8c4f-f4895b938519.htm" />
+  <HelpKINode Title="AccountController.ChallengeResult.RedirectUri property" Url="html/a7ec4c60-1c13-9c91-4122-1679e1f06dd7.htm" />
+  <HelpKINode Title="AccountController.ChallengeResult.UserId property" Url="html/a27888cc-0848-8306-f897-6c6c5abccb8b.htm" />
+  <HelpKINode Title="AccountController.ConfirmEmail method" Url="html/60b94f47-092d-2fe1-a740-f5f0eb57de8f.htm" />
+  <HelpKINode Title="AccountController.Dispose method" Url="html/89e2b2d1-4357-73d5-d567-9e6c7572d500.htm" />
+  <HelpKINode Title="AccountController.ExternalLogin method" Url="html/be1a15df-87dd-9795-6cfc-74a9fa560376.htm" />
+  <HelpKINode Title="AccountController.ExternalLoginCallback method" Url="html/73dd6d09-4069-9700-7b06-6964aaf02a18.htm" />
+  <HelpKINode Title="AccountController.ExternalLoginConfirmation method" Url="html/49395fd8-3c3f-44a5-1ef1-63aa9a0f7817.htm" />
+  <HelpKINode Title="AccountController.ExternalLoginFailure method" Url="html/a54d57f9-2b4c-8dc7-dd88-6bc225169bdc.htm" />
+  <HelpKINode Title="AccountController.ForgotPassword method" Url="html/2a2bea4f-c3dc-5db9-fc4d-b88bcf1b49fe.htm" />
+  <HelpKINode Title="AccountController.ForgotPasswordConfirmation method" Url="html/c4e5a594-b5f8-8a38-fcb1-04bfc9f03ede.htm" />
+  <HelpKINode Title="AccountController.Login method" Url="html/237b66bb-d3a2-c00d-281f-89b87e7792f3.htm" />
+  <HelpKINode Title="AccountController.LogOff method" Url="html/5ffb54a1-4821-800e-01b2-ac567415e1fb.htm" />
+  <HelpKINode Title="AccountController.RedirectToLocal method" Url="html/b110b7af-e165-55fe-baae-d7d5fcb3bd25.htm" />
+  <HelpKINode Title="AccountController.Register method" Url="html/4ee276d7-a22a-1f3e-f41f-d4ce964af9bb.htm" />
+  <HelpKINode Title="AccountController.ResetPassword method" Url="html/a962c381-fd24-1d29-c17b-153253ac7686.htm" />
+  <HelpKINode Title="AccountController.ResetPasswordConfirmation method" Url="html/9f890d16-e4d0-9589-49cf-48b980527929.htm" />
+  <HelpKINode Title="AccountController.SendCode method" Url="html/59132eba-3dc1-c398-869e-0232dfbe89ca.htm" />
+  <HelpKINode Title="AccountController.SignInManager property" Url="html/2b6586ad-dd63-39d3-0577-dac78a5a0b2b.htm" />
+  <HelpKINode Title="AccountController.UserManager property" Url="html/dcba4bc4-06f5-d058-36df-37918d574a18.htm" />
+  <HelpKINode Title="AccountController.VerifyCode method" Url="html/2e76b50f-7c82-c436-3cce-62d7a90ba079.htm" />
+  <HelpKINode Title="AccountController.XsrfKey field" Url="html/4230f5f2-d3bd-d187-3872-2b41ac502fa4.htm" />
+  <HelpKINode Title="AccountController._signInManager field" Url="html/c112243b-2c31-89f6-ec8c-895e27e6d0be.htm" />
+  <HelpKINode Title="AccountController._userManager field" Url="html/7fecc76a-bdfe-d8e2-43d4-fe4081159915.htm" />
+  <HelpKINode Title="AddErrors method">
+    <HelpKINode Title="AccountController.AddErrors Method " Url="html/0f1c4f38-97ef-03cf-3e8c-bdd97c4a95ed.htm" />
+    <HelpKINode Title="ManageController.AddErrors Method " Url="html/53715dfd-085f-85f1-0efa-84377e70070b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddPhoneNumber method" Url="html/526ffc7d-da92-cd13-591b-9e49ea96d244.htm" />
+  <HelpKINode Title="AddPhoneNumberViewModel class">
+    <HelpKINode Title="AddPhoneNumberViewModel Class" Url="html/209f3e1c-5a91-a26a-f6a6-fc4bbc600b7f.htm" />
+    <HelpKINode Title="about AddPhoneNumberViewModel class" Url="html/209f3e1c-5a91-a26a-f6a6-fc4bbc600b7f.htm" />
+    <HelpKINode Title="constructor" Url="html/8c40ebc4-4574-5c0f-784f-0b63690695da.htm" />
+    <HelpKINode Title="methods" Url="html/9c44b4bf-ca99-04b2-56a5-647b415bda14.htm" />
+    <HelpKINode Title="properties" Url="html/f0d29c53-1a8f-147b-eaed-924289d13e2f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddPhoneNumberViewModel.AddPhoneNumberViewModel constructor" Url="html/8c40ebc4-4574-5c0f-784f-0b63690695da.htm" />
+  <HelpKINode Title="AddPhoneNumberViewModel.Number property" Url="html/d691feca-9a6c-c443-bcbf-8a6b4818aeb5.htm" />
+  <HelpKINode Title="AddPhoneSuccess enumeration member" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="ADITStudentDataEntities class">
+    <HelpKINode Title="ADITStudentDataEntities Class" Url="html/5247625c-97d5-7f12-e3a9-32b8146d2a1d.htm" />
+    <HelpKINode Title="about ADITStudentDataEntities class" Url="html/5247625c-97d5-7f12-e3a9-32b8146d2a1d.htm" />
+    <HelpKINode Title="constructor" Url="html/37121a2b-2989-cba8-bc4c-e93af8a0955c.htm" />
+    <HelpKINode Title="fields" Url="html/2129d639-88e0-001f-9a51-1a56cc72fe1d.htm" />
+    <HelpKINode Title="methods" Url="html/a4ba05b1-41ee-d48f-6d1b-225695dea90e.htm" />
+    <HelpKINode Title="properties" Url="html/def2619a-0319-eefe-1887-c7805612ce05.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ADITStudentDataEntities.ADITStudentDataEntities constructor" Url="html/37121a2b-2989-cba8-bc4c-e93af8a0955c.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.C__RefactorLog property" Url="html/4d80d079-65b2-c939-5296-db8fb98e8cc3.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.Departments property" Url="html/48ab1658-041d-7c15-6f20-662e7f35f6f0.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.Logins property" Url="html/af3bf04e-61b7-2ab5-e50a-8bf51df1350e.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.OnModelCreating method" Url="html/98ce2d81-a7fb-4eca-9086-9e85646a3741.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.Results property" Url="html/a561090b-4475-993b-fcf9-27f9307e9110.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.Semesters property" Url="html/02e65166-f524-6edf-e5af-cbda6e3c0cf1.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.Students property" Url="html/7332f35e-bda9-a1a8-f4a9-fd55cf7a236f.htm" />
+  <HelpKINode Title="ADITStudentDataEntities.Subjects property" Url="html/3c7721e5-20a7-746d-3a63-d5c55453c052.htm" />
+  <HelpKINode Title="AdminPage method" Url="html/3be62630-97df-92e0-f98e-9cb1d0c61a92.htm" />
+  <HelpKINode Title="ApplicationDbContext class">
+    <HelpKINode Title="ApplicationDbContext Class" Url="html/8f8fae10-b5e9-23e0-abbc-e1d99ee6f14b.htm" />
+    <HelpKINode Title="about ApplicationDbContext class" Url="html/8f8fae10-b5e9-23e0-abbc-e1d99ee6f14b.htm" />
+    <HelpKINode Title="constructor" Url="html/176660f4-ad2f-29db-98c1-99f263b48f8d.htm" />
+    <HelpKINode Title="fields" Url="html/fda8c21e-46ff-365e-e066-bef25d74c5a0.htm" />
+    <HelpKINode Title="methods" Url="html/a73d5e3e-e817-a987-ec57-5dd089313b89.htm" />
+    <HelpKINode Title="properties" Url="html/ca9a90b7-04a6-6bb9-7853-13a57de5fc50.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationDbContext.ApplicationDbContext constructor" Url="html/176660f4-ad2f-29db-98c1-99f263b48f8d.htm" />
+  <HelpKINode Title="ApplicationDbContext.Create method" Url="html/5fa1726d-fe63-3fc4-aab1-8fea8dbef007.htm" />
+  <HelpKINode Title="ApplicationSignInManager class">
+    <HelpKINode Title="ApplicationSignInManager Class" Url="html/10f86efb-45ee-50d5-9459-81c0f91ffbd7.htm" />
+    <HelpKINode Title="about ApplicationSignInManager class" Url="html/10f86efb-45ee-50d5-9459-81c0f91ffbd7.htm" />
+    <HelpKINode Title="constructor" Url="html/ebbfd949-7b18-63f0-fd15-4e8fb046b466.htm" />
+    <HelpKINode Title="fields" Url="html/5870e01f-0a4b-ea10-0140-6b6e61d718dc.htm" />
+    <HelpKINode Title="methods" Url="html/6924a16d-07bc-c5c3-3a08-bad14c7cb0c4.htm" />
+    <HelpKINode Title="properties" Url="html/1b86833a-b4a0-621a-cb9f-4ee6c5d0fe1d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationSignInManager.ApplicationSignInManager constructor" Url="html/ebbfd949-7b18-63f0-fd15-4e8fb046b466.htm" />
+  <HelpKINode Title="ApplicationSignInManager.Create method" Url="html/dcd055aa-f2ff-b77f-4551-26601b881ecf.htm" />
+  <HelpKINode Title="ApplicationSignInManager.CreateUserIdentityAsync method" Url="html/bbdb7571-0736-38d8-3840-b940661b1834.htm" />
+  <HelpKINode Title="ApplicationUser class">
+    <HelpKINode Title="ApplicationUser Class" Url="html/917a18ea-eb76-e5fd-5bf0-a3d60f9eb0c3.htm" />
+    <HelpKINode Title="about ApplicationUser class" Url="html/917a18ea-eb76-e5fd-5bf0-a3d60f9eb0c3.htm" />
+    <HelpKINode Title="constructor" Url="html/67de1fd1-2e0c-438f-aa25-1028ec790119.htm" />
+    <HelpKINode Title="methods" Url="html/e3dfef1d-47de-5f5d-1550-053ec905509b.htm" />
+    <HelpKINode Title="properties" Url="html/ee3f064e-0300-ad94-5351-331d78080f63.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationUser.ApplicationUser constructor" Url="html/67de1fd1-2e0c-438f-aa25-1028ec790119.htm" />
+  <HelpKINode Title="ApplicationUser.GenerateUserIdentityAsync method" Url="html/8519a603-c71f-fed4-0fe0-fe0f9ad16068.htm" />
+  <HelpKINode Title="ApplicationUserManager class">
+    <HelpKINode Title="ApplicationUserManager Class" Url="html/e05ac5f6-5171-cccc-ce2b-839f5ab8fe83.htm" />
+    <HelpKINode Title="about ApplicationUserManager class" Url="html/e05ac5f6-5171-cccc-ce2b-839f5ab8fe83.htm" />
+    <HelpKINode Title="constructor" Url="html/ebe72db3-8d39-f328-e888-c14216121a43.htm" />
+    <HelpKINode Title="fields" Url="html/21af0ba3-9f2a-3b2d-2b11-0230ce17e2a4.htm" />
+    <HelpKINode Title="methods" Url="html/6b719349-e251-df33-1f54-e3c12c4e8de5.htm" />
+    <HelpKINode Title="properties" Url="html/1ef7e8e6-cc81-84d1-e348-7ee45bf90f56.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationUserManager.ApplicationUserManager constructor" Url="html/ebe72db3-8d39-f328-e888-c14216121a43.htm" />
+  <HelpKINode Title="ApplicationUserManager.Create method" Url="html/0df1afc4-6945-5914-a018-39e3089f73aa.htm" />
+  <HelpKINode Title="Application_PostAuthenticateRequest method" Url="html/9f21735f-f49d-c1be-5739-5e70fc039218.htm" />
+  <HelpKINode Title="Application_Start method" Url="html/7a39576d-b0dc-776f-e499-0b98d273ee29.htm" />
+  <HelpKINode Title="ARAFFinal namespace" Url="html/12766ee8-d27d-1bf5-f28e-00d77c95fb37.htm" />
+  <HelpKINode Title="ARAFFinal.ApplicationSignInManager class" Url="html/10f86efb-45ee-50d5-9459-81c0f91ffbd7.htm" />
+  <HelpKINode Title="ARAFFinal.ApplicationUserManager class" Url="html/e05ac5f6-5171-cccc-ce2b-839f5ab8fe83.htm" />
+  <HelpKINode Title="ARAFFinal.BundleConfig class" Url="html/65050add-8113-1c92-110d-d5df7c00e9b3.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers namespace" Url="html/bab888c9-adfb-8795-2e8e-c4b56871fdf2.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.AccountController class" Url="html/67bf4fe9-3fb9-e75b-0896-0fc0704176f1.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.AccountController.ChallengeResult class" Url="html/cd8753a1-07d4-9a12-e350-db341abcfe34.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.DepartmentsController class" Url="html/da99cc3e-0eca-103c-072f-0e32cf821e79.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.HomeController class" Url="html/6fcb65fd-016c-e4de-61d0-24af5c9324b3.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.Logins1Controller class" Url="html/edae616c-fd38-4a76-a223-235ec4a88d6f.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.LoginsController class" Url="html/aecfc073-97fa-0c0e-2539-7374299c8f12.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.ManageController class" Url="html/251aa17a-3463-f155-660a-b0ff195486bf.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.ManageController.ManageMessageId enumeration" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.ResultsController class" Url="html/d7df33c4-4934-3288-fc6f-3d42c40f046e.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.SemesterAnalysisController class" Url="html/c7f65e38-9fb9-a793-93df-a13b02cae0ed.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.SemestersController class" Url="html/6608a5d8-ba03-76f3-2299-ced95a95ba76.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.StudentInfoController class" Url="html/2b1de3ba-b59b-de38-5e98-53b82a572aec.htm" />
+  <HelpKINode Title="ARAFFinal.Controllers.SubjectsController class" Url="html/1c3b4f7d-21e3-2078-f21b-46355b62176e.htm" />
+  <HelpKINode Title="ARAFFinal.EmailService class" Url="html/6a8303a2-9fe5-3bfd-a977-a418f287712f.htm" />
+  <HelpKINode Title="ARAFFinal.FilterConfig class" Url="html/bb89891d-e547-86f4-b2f3-3a28aef84c75.htm" />
+  <HelpKINode Title="ARAFFinal.Models namespace" Url="html/a047f039-a2f0-bdcc-8e93-4a7a982ce00c.htm" />
+  <HelpKINode Title="ARAFFinal.Models.AddPhoneNumberViewModel class" Url="html/209f3e1c-5a91-a26a-f6a6-fc4bbc600b7f.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ADITStudentDataEntities class" Url="html/5247625c-97d5-7f12-e3a9-32b8146d2a1d.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ApplicationDbContext class" Url="html/8f8fae10-b5e9-23e0-abbc-e1d99ee6f14b.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ApplicationUser class" Url="html/917a18ea-eb76-e5fd-5bf0-a3d60f9eb0c3.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ChangePasswordViewModel class" Url="html/f07df14c-e4f7-8ade-8ccc-285b39fea5de.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ConfigureTwoFactorViewModel class" Url="html/a6300538-0944-2ca5-b68e-a3cf29381b65.htm" />
+  <HelpKINode Title="ARAFFinal.Models.C__RefactorLog class" Url="html/5ad5cf13-2a7b-6ad5-802b-d05f650bad08.htm" />
+  <HelpKINode Title="ARAFFinal.Models.Department class" Url="html/58377d5e-2817-5b62-7a03-34a59280255c.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ExternalLoginConfirmationViewModel class" Url="html/9ffbeb7b-095a-0461-6162-1818cb62423a.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ExternalLoginListViewModel class" Url="html/32d17ad5-fa3b-8283-be89-648cdc2a1751.htm" />
+  <HelpKINode Title="ARAFFinal.Models.FactorViewModel class" Url="html/7310156f-3da9-82b6-60d3-a9a85d52d39f.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ForgotPasswordViewModel class" Url="html/d925208c-c481-bee5-f562-710a0fb61ccc.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ForgotViewModel class" Url="html/5cf25382-377a-86bc-ab62-bc82028b78bc.htm" />
+  <HelpKINode Title="ARAFFinal.Models.IndexViewModel class" Url="html/746fa63e-0fc6-7493-62d0-99d479a1d4aa.htm" />
+  <HelpKINode Title="ARAFFinal.Models.Login class" Url="html/20cdaeae-e308-8a28-b16e-4ea6c12f21b7.htm" />
+  <HelpKINode Title="ARAFFinal.Models.LoginViewModel class" Url="html/ab6d6e05-2b75-4902-d1ef-3fcd041dedbd.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ManageLoginsViewModel class" Url="html/1fb1d25c-9683-ce05-8058-f3d3242dee8e.htm" />
+  <HelpKINode Title="ARAFFinal.Models.RegisterViewModel class" Url="html/1b3d3704-1a16-de39-fb13-64a73a8a51bf.htm" />
+  <HelpKINode Title="ARAFFinal.Models.ResetPasswordViewModel class" Url="html/3882a209-f9c7-c40f-40ab-df1a7645f174.htm" />
+  <HelpKINode Title="ARAFFinal.Models.Result class" Url="html/e58ba6af-6a55-6d3b-42dd-e0bb318544b4.htm" />
+  <HelpKINode Title="ARAFFinal.Models.Semester class" Url="html/fee28640-6831-c0e5-7bd4-33095eb7e255.htm" />
+  <HelpKINode Title="ARAFFinal.Models.SendCodeViewModel class" Url="html/79a104cf-f072-5573-8d2c-88780854ab4b.htm" />
+  <HelpKINode Title="ARAFFinal.Models.SetPasswordViewModel class" Url="html/0f937951-4bdc-4c5e-d61f-46664bfef5f0.htm" />
+  <HelpKINode Title="ARAFFinal.Models.Student class" Url="html/15179cad-02b7-a1ff-2f35-328ba39659f2.htm" />
+  <HelpKINode Title="ARAFFinal.Models.Subject class" Url="html/44e59634-64a4-8879-b87c-de25d9035c06.htm" />
+  <HelpKINode Title="ARAFFinal.Models.VerifyCodeViewModel class" Url="html/e55c5f9b-6934-9c27-1a2c-5c43f0f90460.htm" />
+  <HelpKINode Title="ARAFFinal.Models.VerifyPhoneNumberViewModel class" Url="html/a74517c2-38ea-c1a5-c695-8553459304c4.htm" />
+  <HelpKINode Title="ARAFFinal.MvcApplication class" Url="html/5c64a167-56bd-8dee-8a49-cabac4faccbe.htm" />
+  <HelpKINode Title="ARAFFinal.RouteConfig class" Url="html/fd84232b-5980-6ccb-ee7a-cf795ef4009d.htm" />
+  <HelpKINode Title="ARAFFinal.SmsService class" Url="html/f4cc4d6b-771d-3274-6ed0-a67ee9e0421e.htm" />
+  <HelpKINode Title="ARAFFinal.Startup class" Url="html/3aef275f-30ea-ddf0-2747-ef1e58af5c17.htm" />
+  <HelpKINode Title="AuthenticationManager property">
+    <HelpKINode Title="AccountController.AuthenticationManager Property " Url="html/2df5f224-3d1f-a232-45bf-0257b151a897.htm" />
+    <HelpKINode Title="ManageController.AuthenticationManager Property " Url="html/62868ad9-e7b9-2132-54b1-b70481e6b482.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Authorize method" Url="html/fc08d4e2-60f5-d6a3-043e-b82e663907e8.htm" />
+  <HelpKINode Title="Backlog property" Url="html/6d04730f-3d73-cecb-983c-e7e8d95087be.htm" />
+  <HelpKINode Title="BrowserRemembered property" Url="html/5bd8f196-a14f-9103-1440-aeb9e4259255.htm" />
+  <HelpKINode Title="BundleConfig class">
+    <HelpKINode Title="BundleConfig Class" Url="html/65050add-8113-1c92-110d-d5df7c00e9b3.htm" />
+    <HelpKINode Title="about BundleConfig class" Url="html/65050add-8113-1c92-110d-d5df7c00e9b3.htm" />
+    <HelpKINode Title="constructor" Url="html/cf57852d-2047-a3c4-1738-fe2f4444794a.htm" />
+    <HelpKINode Title="methods" Url="html/778e9ef0-734b-2786-0aef-a6ed5750d370.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BundleConfig.BundleConfig constructor" Url="html/cf57852d-2047-a3c4-1738-fe2f4444794a.htm" />
+  <HelpKINode Title="BundleConfig.RegisterBundles method" Url="html/5fe2e0da-dd84-37a6-cb71-f2699afb9f95.htm" />
+  <HelpKINode Title="Cgpa property" Url="html/30120550-72bd-e161-ffee-1e24775a7a6d.htm" />
+  <HelpKINode Title="ChallengeResult class">
+    <HelpKINode Title="methods" Url="html/d1e0cfb5-a682-4526-87fb-cc63dbb7a6f1.htm" />
+    <HelpKINode Title="properties" Url="html/f8a3eb32-1179-28e0-3783-804d53429476.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChangePassword method" Url="html/73552569-5ab4-4edc-16b8-e721862e6d78.htm" />
+  <HelpKINode Title="ChangePasswordSuccess enumeration member" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="ChangePasswordViewModel class">
+    <HelpKINode Title="ChangePasswordViewModel Class" Url="html/f07df14c-e4f7-8ade-8ccc-285b39fea5de.htm" />
+    <HelpKINode Title="about ChangePasswordViewModel class" Url="html/f07df14c-e4f7-8ade-8ccc-285b39fea5de.htm" />
+    <HelpKINode Title="constructor" Url="html/06772251-e7e1-fb2b-450c-d5a6b90cfc94.htm" />
+    <HelpKINode Title="methods" Url="html/48adfb34-4d00-19f2-694c-79f575747d14.htm" />
+    <HelpKINode Title="properties" Url="html/d6acf671-31cd-6a05-2cc0-6de79e0ab925.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChangePasswordViewModel.ChangePasswordViewModel constructor" Url="html/06772251-e7e1-fb2b-450c-d5a6b90cfc94.htm" />
+  <HelpKINode Title="ChangePasswordViewModel.ConfirmPassword property" Url="html/894c9cdb-3311-8889-0c05-84a6c44d0ae5.htm" />
+  <HelpKINode Title="ChangePasswordViewModel.NewPassword property" Url="html/480f9267-f10e-fc61-023d-3edc84c42484.htm" />
+  <HelpKINode Title="ChangePasswordViewModel.OldPassword property" Url="html/82d3fe4e-a1ac-cada-4d5d-51238f5f7a0c.htm" />
+  <HelpKINode Title="CheckNull method" Url="html/ed58862f-6059-77a5-a73a-a2d5e7d9fd81.htm" />
+  <HelpKINode Title="Code property">
+    <HelpKINode Title="ResetPasswordViewModel.Code Property " Url="html/c63c26b1-71c7-f08f-226d-95ae84cd7e6e.htm" />
+    <HelpKINode Title="VerifyCodeViewModel.Code Property " Url="html/bbaefb95-3a2a-e868-8699-af58af119ca6.htm" />
+    <HelpKINode Title="VerifyPhoneNumberViewModel.Code Property " Url="html/8109fe1e-37b0-8bb4-a258-7794ab869846.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Configuration method" Url="html/d948f8a0-2215-74ca-bd94-bb29f725fd62.htm" />
+  <HelpKINode Title="ConfigureAuth method" Url="html/27903113-dc70-f8fd-30ef-563c74846c8c.htm" />
+  <HelpKINode Title="ConfigureTwoFactorViewModel class">
+    <HelpKINode Title="ConfigureTwoFactorViewModel Class" Url="html/a6300538-0944-2ca5-b68e-a3cf29381b65.htm" />
+    <HelpKINode Title="about ConfigureTwoFactorViewModel class" Url="html/a6300538-0944-2ca5-b68e-a3cf29381b65.htm" />
+    <HelpKINode Title="constructor" Url="html/4ea8d0af-308e-44c6-f83b-cb801bc06139.htm" />
+    <HelpKINode Title="methods" Url="html/ca8cbc13-c67b-fa2a-52b0-3f145268821c.htm" />
+    <HelpKINode Title="properties" Url="html/6e7c9a07-2191-9bbe-3d70-1491480de917.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigureTwoFactorViewModel.ConfigureTwoFactorViewModel constructor" Url="html/4ea8d0af-308e-44c6-f83b-cb801bc06139.htm" />
+  <HelpKINode Title="ConfigureTwoFactorViewModel.Providers property" Url="html/fa165484-392a-8303-25e3-2a29967b8756.htm" />
+  <HelpKINode Title="ConfigureTwoFactorViewModel.SelectedProvider property" Url="html/f03730dc-a184-fd61-94a2-3b6c1b64912b.htm" />
+  <HelpKINode Title="ConfirmEmail method" Url="html/60b94f47-092d-2fe1-a740-f5f0eb57de8f.htm" />
+  <HelpKINode Title="ConfirmPassword property">
+    <HelpKINode Title="ChangePasswordViewModel.ConfirmPassword Property " Url="html/894c9cdb-3311-8889-0c05-84a6c44d0ae5.htm" />
+    <HelpKINode Title="RegisterViewModel.ConfirmPassword Property " Url="html/3d4f4e98-22f4-88e6-3278-2e0723d91216.htm" />
+    <HelpKINode Title="ResetPasswordViewModel.ConfirmPassword Property " Url="html/54975bfe-e2ce-5a59-8859-41830d96b0ec.htm" />
+    <HelpKINode Title="SetPasswordViewModel.ConfirmPassword Property " Url="html/14acd621-8ede-e754-3d1d-20700b150d16.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Contact method" Url="html/de1f1d1e-c7dd-79dd-9ab2-eaf33fc5a706.htm" />
+  <HelpKINode Title="Cpi property" Url="html/e8043b76-10cd-3dff-8dfc-f3dfdc736d62.htm" />
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="ApplicationDbContext.Create Method " Url="html/5fa1726d-fe63-3fc4-aab1-8fea8dbef007.htm" />
+    <HelpKINode Title="ApplicationSignInManager.Create Method " Url="html/dcd055aa-f2ff-b77f-4551-26601b881ecf.htm" />
+    <HelpKINode Title="ApplicationUserManager.Create Method " Url="html/0df1afc4-6945-5914-a018-39e3089f73aa.htm" />
+    <HelpKINode Title="DepartmentsController.Create Method " Url="html/d217e674-39bb-b521-96a3-c41a302262bf.htm" />
+    <HelpKINode Title="Logins1Controller.Create Method " Url="html/8f019047-2b16-6646-e912-f7bef58afc69.htm" />
+    <HelpKINode Title="ResultsController.Create Method " Url="html/67de06e7-1c7e-7f80-e9aa-93d958ea5108.htm" />
+    <HelpKINode Title="SemestersController.Create Method " Url="html/568dfc0b-d806-d83c-0dcd-b6d3e4230d26.htm" />
+    <HelpKINode Title="SubjectsController.Create Method " Url="html/c1e0207c-93b9-7a20-5d30-f92729c92d55.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateUserIdentityAsync method" Url="html/bbdb7571-0736-38d8-3840-b940661b1834.htm" />
+  <HelpKINode Title="CurrentLogins property" Url="html/97cd61b0-6015-c30a-217d-aa33e39c0425.htm" />
+  <HelpKINode Title="C__RefactorLog class">
+    <HelpKINode Title="C__RefactorLog Class" Url="html/5ad5cf13-2a7b-6ad5-802b-d05f650bad08.htm" />
+    <HelpKINode Title="about C__RefactorLog class" Url="html/5ad5cf13-2a7b-6ad5-802b-d05f650bad08.htm" />
+    <HelpKINode Title="constructor" Url="html/cdd57460-5746-13e0-d3dd-cb1bbcc12e89.htm" />
+    <HelpKINode Title="methods" Url="html/73a53e73-acf6-a464-dd53-5180aa3ae1e3.htm" />
+    <HelpKINode Title="properties" Url="html/9c18888c-4ec2-ac8b-8b63-2b8be18c18b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="C__RefactorLog property" Url="html/4d80d079-65b2-c939-5296-db8fb98e8cc3.htm" />
+  <HelpKINode Title="C__RefactorLog.C__RefactorLog constructor" Url="html/cdd57460-5746-13e0-d3dd-cb1bbcc12e89.htm" />
+  <HelpKINode Title="C__RefactorLog.OperationKey property" Url="html/9de7f427-139a-fc05-691b-e06ca0d6c796.htm" />
+  <HelpKINode Title="db field">
+    <HelpKINode Title="DepartmentsController.db Field" Url="html/1feb5caa-2a69-3cc6-91d6-f64a8dc7572a.htm" />
+    <HelpKINode Title="HomeController.db Field" Url="html/f1c98121-ed0b-5315-2613-4c683863bef9.htm" />
+    <HelpKINode Title="Logins1Controller.db Field" Url="html/5a04d3dc-820d-c2d6-27ec-56d5c1b44801.htm" />
+    <HelpKINode Title="LoginsController.db Field" Url="html/b8678932-f5b1-3c41-e3a9-4d40242c5ee9.htm" />
+    <HelpKINode Title="ResultsController.db Field" Url="html/47a90436-11ab-7e20-0b5a-a90603261f09.htm" />
+    <HelpKINode Title="SemesterAnalysisController.db Field" Url="html/44b6e898-2b7e-e0fb-b50c-6b2d84a9bf8e.htm" />
+    <HelpKINode Title="SemestersController.db Field" Url="html/54c2b0d4-283a-5833-41bf-c30cdbf70825.htm" />
+    <HelpKINode Title="StudentInfoController.db Field" Url="html/8d13ff8f-4675-b28b-c9a8-107dbc66e511.htm" />
+    <HelpKINode Title="SubjectsController.db Field" Url="html/9126bf68-1d89-37a5-291b-9109e64bf1c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Delete method">
+    <HelpKINode Title="DepartmentsController.Delete Method " Url="html/ac49ded9-2f27-f081-a7bd-911904723114.htm" />
+    <HelpKINode Title="Logins1Controller.Delete Method " Url="html/2aa19137-19ed-f3da-d222-dd23984ae127.htm" />
+    <HelpKINode Title="ResultsController.Delete Method " Url="html/f22831ad-a902-1e84-5dba-6f09ce298929.htm" />
+    <HelpKINode Title="SemestersController.Delete Method " Url="html/d066ed58-c12f-88be-1db3-fdc11b765668.htm" />
+    <HelpKINode Title="SubjectsController.Delete Method " Url="html/d37717d3-e63c-e9fc-b0e4-0599e536582a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteConfirmed method">
+    <HelpKINode Title="DepartmentsController.DeleteConfirmed Method " Url="html/70f9a0db-48f3-1053-d7fe-d3251041fed1.htm" />
+    <HelpKINode Title="Logins1Controller.DeleteConfirmed Method " Url="html/70ae77d9-d550-65d0-aff0-ef39d6696a78.htm" />
+    <HelpKINode Title="ResultsController.DeleteConfirmed Method " Url="html/f2312ccc-58e4-8b91-5222-84cb2ea04034.htm" />
+    <HelpKINode Title="SemestersController.DeleteConfirmed Method " Url="html/fb2ceff5-9f07-7c93-ca7c-acf8bcce2f75.htm" />
+    <HelpKINode Title="SubjectsController.DeleteConfirmed Method " Url="html/4a7ffc3f-b97e-5894-0e6d-f9f579496958.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Department class">
+    <HelpKINode Title="Department Class" Url="html/58377d5e-2817-5b62-7a03-34a59280255c.htm" />
+    <HelpKINode Title="about Department class" Url="html/58377d5e-2817-5b62-7a03-34a59280255c.htm" />
+    <HelpKINode Title="constructor" Url="html/023721db-f81a-f0b0-308e-ebe17b595ae7.htm" />
+    <HelpKINode Title="methods" Url="html/8ee3eddd-0d5c-a490-5fb9-f50c40a5bb61.htm" />
+    <HelpKINode Title="properties" Url="html/ca904cb6-152a-f4e4-9cad-63f669e68708.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Department property">
+    <HelpKINode Title="Login.Department Property " Url="html/0f1a29bb-559e-a26f-6167-6910177ee5b7.htm" />
+    <HelpKINode Title="Student.Department Property " Url="html/dd702643-bae1-d923-e226-aca9a6ba5c58.htm" />
+    <HelpKINode Title="Subject.Department Property " Url="html/af88749f-e14d-ca9a-9766-2117b91960e3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Department.Department constructor" Url="html/023721db-f81a-f0b0-308e-ebe17b595ae7.htm" />
+  <HelpKINode Title="Department.DepartmentId property" Url="html/e91aed6c-466a-0a67-276f-be79afa198c1.htm" />
+  <HelpKINode Title="Department.DepartmentName property" Url="html/ec2cedc9-670f-2e27-b3b3-8da0c2a82951.htm" />
+  <HelpKINode Title="Department.Logins property" Url="html/358a6a9a-cf58-44f6-a19e-2e6a1633f25b.htm" />
+  <HelpKINode Title="Department.Students property" Url="html/f0d01d41-0c79-ce8b-79f7-7ac4a1259e3b.htm" />
+  <HelpKINode Title="Department.Subjects property" Url="html/793a3a07-0197-fd8c-4517-56375559496b.htm" />
+  <HelpKINode Title="DepartmentId property">
+    <HelpKINode Title="Department.DepartmentId Property " Url="html/e91aed6c-466a-0a67-276f-be79afa198c1.htm" />
+    <HelpKINode Title="Login.DepartmentId Property " Url="html/5420fa8a-00cb-811b-3d11-d3a1213066a3.htm" />
+    <HelpKINode Title="Student.DepartmentId Property " Url="html/c52773b2-aa67-3674-cd47-b180bf2edaeb.htm" />
+    <HelpKINode Title="Subject.DepartmentId Property " Url="html/ed02159e-1d47-efc2-52d4-a4d24942bd74.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DepartmentName property" Url="html/ec2cedc9-670f-2e27-b3b3-8da0c2a82951.htm" />
+  <HelpKINode Title="Departments property" Url="html/48ab1658-041d-7c15-6f20-662e7f35f6f0.htm" />
+  <HelpKINode Title="DepartmentsController class">
+    <HelpKINode Title="DepartmentsController Class" Url="html/da99cc3e-0eca-103c-072f-0e32cf821e79.htm" />
+    <HelpKINode Title="about DepartmentsController class" Url="html/da99cc3e-0eca-103c-072f-0e32cf821e79.htm" />
+    <HelpKINode Title="constructor" Url="html/e41ac48c-0196-c75a-4591-a297778277b2.htm" />
+    <HelpKINode Title="fields" Url="html/634e56f9-77ad-bb9d-01d7-ff8ed05f4ff6.htm" />
+    <HelpKINode Title="methods" Url="html/5b38e9b2-177f-c2a2-51db-6c2bfc23da2a.htm" />
+    <HelpKINode Title="properties" Url="html/5439e85b-49ab-09ff-c397-302539f69042.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DepartmentsController.Create method" Url="html/d217e674-39bb-b521-96a3-c41a302262bf.htm" />
+  <HelpKINode Title="DepartmentsController.db field" Url="html/1feb5caa-2a69-3cc6-91d6-f64a8dc7572a.htm" />
+  <HelpKINode Title="DepartmentsController.Delete method" Url="html/ac49ded9-2f27-f081-a7bd-911904723114.htm" />
+  <HelpKINode Title="DepartmentsController.DeleteConfirmed method" Url="html/70f9a0db-48f3-1053-d7fe-d3251041fed1.htm" />
+  <HelpKINode Title="DepartmentsController.DepartmentsController constructor" Url="html/e41ac48c-0196-c75a-4591-a297778277b2.htm" />
+  <HelpKINode Title="DepartmentsController.Details method" Url="html/609312da-b41b-3df8-70a4-c376c8c64f18.htm" />
+  <HelpKINode Title="DepartmentsController.Dispose method" Url="html/d702f2ca-8bbf-d5a0-c2a2-e554f91e0132.htm" />
+  <HelpKINode Title="DepartmentsController.Edit method" Url="html/9a6d9efa-21b7-b550-89ce-39d161be36c6.htm" />
+  <HelpKINode Title="DepartmentsController.Index method" Url="html/889d9cfa-f721-7b42-da47-4b65b9666e9d.htm" />
+  <HelpKINode Title="Details method">
+    <HelpKINode Title="DepartmentsController.Details Method " Url="html/609312da-b41b-3df8-70a4-c376c8c64f18.htm" />
+    <HelpKINode Title="Logins1Controller.Details Method " Url="html/4c18fe42-41cc-1602-bdc1-890870eacbf6.htm" />
+    <HelpKINode Title="ResultsController.Details Method " Url="html/acabd157-a11c-46e7-6e44-83e696a2b3e4.htm" />
+    <HelpKINode Title="SemestersController.Details Method " Url="html/6eaf753f-ee9a-4c83-1dd6-4b7322f8ffc2.htm" />
+    <HelpKINode Title="SubjectsController.Details Method " Url="html/74b7751c-6ebd-a124-79a2-c58d7eb64cc6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DisableTwoFactorAuthentication method" Url="html/c448cee6-a799-ad51-5677-d626c3358ee7.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="AccountController.Dispose Method " Url="html/89e2b2d1-4357-73d5-d567-9e6c7572d500.htm" />
+    <HelpKINode Title="DepartmentsController.Dispose Method " Url="html/d702f2ca-8bbf-d5a0-c2a2-e554f91e0132.htm" />
+    <HelpKINode Title="Logins1Controller.Dispose Method " Url="html/dee2c4ac-9bb8-44dd-ad26-7e324b40c55e.htm" />
+    <HelpKINode Title="ManageController.Dispose Method " Url="html/2ce6165d-addc-1f1c-9a33-3176fbe50760.htm" />
+    <HelpKINode Title="ResultsController.Dispose Method " Url="html/1ec942ca-2e33-6516-5fb2-6be5098be584.htm" />
+    <HelpKINode Title="SemestersController.Dispose Method " Url="html/f2fb0fad-a96d-cb89-691f-ce92507fcdfb.htm" />
+    <HelpKINode Title="SubjectsController.Dispose Method " Url="html/ec4f14a5-0adb-e3ae-3df6-c22ab32dca33.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Edit method">
+    <HelpKINode Title="DepartmentsController.Edit Method " Url="html/9a6d9efa-21b7-b550-89ce-39d161be36c6.htm" />
+    <HelpKINode Title="Logins1Controller.Edit Method " Url="html/4eea4bd7-8b32-5fab-a8ff-d45f81bb2638.htm" />
+    <HelpKINode Title="ResultsController.Edit Method " Url="html/66f2208c-cf64-54d8-b42f-72376199ebd8.htm" />
+    <HelpKINode Title="SemestersController.Edit Method " Url="html/9e2c2945-c253-7298-a7fb-4217a59747c2.htm" />
+    <HelpKINode Title="SubjectsController.Edit Method " Url="html/92415abd-3795-1780-c99d-618709d1beea.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Email property">
+    <HelpKINode Title="ExternalLoginConfirmationViewModel.Email Property " Url="html/0ac9e35c-4528-80a0-8de6-2906d5bcd983.htm" />
+    <HelpKINode Title="ForgotPasswordViewModel.Email Property " Url="html/90ead5fa-5ccf-f8ea-3d34-81a81f40a447.htm" />
+    <HelpKINode Title="ForgotViewModel.Email Property " Url="html/ecb7c390-6be1-8c46-c94e-59ee5152bd82.htm" />
+    <HelpKINode Title="LoginViewModel.Email Property " Url="html/c16de71e-cc36-9d38-5368-4ec538b43e96.htm" />
+    <HelpKINode Title="RegisterViewModel.Email Property " Url="html/54f750a1-cf28-4bcf-3ab8-1a07ad20110e.htm" />
+    <HelpKINode Title="ResetPasswordViewModel.Email Property " Url="html/d1396151-d94d-d7f6-4915-00e87859042d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailService class">
+    <HelpKINode Title="EmailService Class" Url="html/6a8303a2-9fe5-3bfd-a977-a418f287712f.htm" />
+    <HelpKINode Title="about EmailService class" Url="html/6a8303a2-9fe5-3bfd-a977-a418f287712f.htm" />
+    <HelpKINode Title="constructor" Url="html/fa0ec8e0-1621-34bc-7e5a-535117310844.htm" />
+    <HelpKINode Title="methods" Url="html/32028b2e-07a3-7087-765e-88d25de6239d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailService.EmailService constructor" Url="html/fa0ec8e0-1621-34bc-7e5a-535117310844.htm" />
+  <HelpKINode Title="EmailService.SendAsync method" Url="html/8cf949f1-c806-98ce-2300-11b568263c94.htm" />
+  <HelpKINode Title="EnableTwoFactorAuthentication method" Url="html/73d828e2-e058-9a4b-d621-7b2becdb6d60.htm" />
+  <HelpKINode Title="Error enumeration member" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="ExecuteResult method" Url="html/176bc8b1-e1dd-1da1-a20d-5256f5a82d6e.htm" />
+  <HelpKINode Title="ExternalLogin method" Url="html/be1a15df-87dd-9795-6cfc-74a9fa560376.htm" />
+  <HelpKINode Title="ExternalLoginCallback method" Url="html/73dd6d09-4069-9700-7b06-6964aaf02a18.htm" />
+  <HelpKINode Title="ExternalLoginConfirmation method" Url="html/49395fd8-3c3f-44a5-1ef1-63aa9a0f7817.htm" />
+  <HelpKINode Title="ExternalLoginConfirmationViewModel class">
+    <HelpKINode Title="ExternalLoginConfirmationViewModel Class" Url="html/9ffbeb7b-095a-0461-6162-1818cb62423a.htm" />
+    <HelpKINode Title="about ExternalLoginConfirmationViewModel class" Url="html/9ffbeb7b-095a-0461-6162-1818cb62423a.htm" />
+    <HelpKINode Title="constructor" Url="html/067600b8-52d7-ae43-55c5-59f68e9d262d.htm" />
+    <HelpKINode Title="methods" Url="html/48e80f42-3b5a-705b-cb0b-694b9d7eea3e.htm" />
+    <HelpKINode Title="properties" Url="html/f36fdb0a-399b-f2b5-988b-3983ab2922a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExternalLoginConfirmationViewModel.Email property" Url="html/0ac9e35c-4528-80a0-8de6-2906d5bcd983.htm" />
+  <HelpKINode Title="ExternalLoginConfirmationViewModel.ExternalLoginConfirmationViewModel constructor" Url="html/067600b8-52d7-ae43-55c5-59f68e9d262d.htm" />
+  <HelpKINode Title="ExternalLoginFailure method" Url="html/a54d57f9-2b4c-8dc7-dd88-6bc225169bdc.htm" />
+  <HelpKINode Title="ExternalLoginListViewModel class">
+    <HelpKINode Title="ExternalLoginListViewModel Class" Url="html/32d17ad5-fa3b-8283-be89-648cdc2a1751.htm" />
+    <HelpKINode Title="about ExternalLoginListViewModel class" Url="html/32d17ad5-fa3b-8283-be89-648cdc2a1751.htm" />
+    <HelpKINode Title="constructor" Url="html/ca406dce-15d1-cb27-f369-615e6d45ae79.htm" />
+    <HelpKINode Title="methods" Url="html/d6c91227-6877-3802-00d3-088eca7d48d2.htm" />
+    <HelpKINode Title="properties" Url="html/8ca778b7-67ca-ba1d-9056-3b155718441b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExternalLoginListViewModel.ExternalLoginListViewModel constructor" Url="html/ca406dce-15d1-cb27-f369-615e6d45ae79.htm" />
+  <HelpKINode Title="ExternalLoginListViewModel.ReturnUrl property" Url="html/09966e9c-8bac-7efd-1cd0-56ac802ebb26.htm" />
+  <HelpKINode Title="FactorViewModel class">
+    <HelpKINode Title="FactorViewModel Class" Url="html/7310156f-3da9-82b6-60d3-a9a85d52d39f.htm" />
+    <HelpKINode Title="about FactorViewModel class" Url="html/7310156f-3da9-82b6-60d3-a9a85d52d39f.htm" />
+    <HelpKINode Title="constructor" Url="html/74166ae0-7803-b665-7510-bb381ef7842f.htm" />
+    <HelpKINode Title="methods" Url="html/69242203-a03c-433c-af93-2c6f09a82eaa.htm" />
+    <HelpKINode Title="properties" Url="html/5618d066-5038-d478-7cbf-c769bea53f04.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FactorViewModel.FactorViewModel constructor" Url="html/74166ae0-7803-b665-7510-bb381ef7842f.htm" />
+  <HelpKINode Title="FactorViewModel.Purpose property" Url="html/aeef870e-7ff0-fed4-a55a-d170c97c8696.htm" />
+  <HelpKINode Title="FacultyPage method" Url="html/ff7a5f02-f014-d8c8-5d60-028472e036c3.htm" />
+  <HelpKINode Title="fetch method" Url="html/3c7c4d65-4f85-c784-156f-5b546ff33bc7.htm" />
+  <HelpKINode Title="FilterConfig class">
+    <HelpKINode Title="FilterConfig Class" Url="html/bb89891d-e547-86f4-b2f3-3a28aef84c75.htm" />
+    <HelpKINode Title="about FilterConfig class" Url="html/bb89891d-e547-86f4-b2f3-3a28aef84c75.htm" />
+    <HelpKINode Title="constructor" Url="html/ea0dc81d-d99b-aacb-65d0-e76d6257ba48.htm" />
+    <HelpKINode Title="methods" Url="html/f0d3a56a-0076-815b-1800-6b9aa0c3c096.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FilterConfig.FilterConfig constructor" Url="html/ea0dc81d-d99b-aacb-65d0-e76d6257ba48.htm" />
+  <HelpKINode Title="FilterConfig.RegisterGlobalFilters method" Url="html/fc5eca33-da05-d6c2-9cb8-9d90521d0f9e.htm" />
+  <HelpKINode Title="ForgotPassword method" Url="html/2a2bea4f-c3dc-5db9-fc4d-b88bcf1b49fe.htm" />
+  <HelpKINode Title="ForgotPasswordConfirmation method" Url="html/c4e5a594-b5f8-8a38-fcb1-04bfc9f03ede.htm" />
+  <HelpKINode Title="ForgotPasswordViewModel class">
+    <HelpKINode Title="ForgotPasswordViewModel Class" Url="html/d925208c-c481-bee5-f562-710a0fb61ccc.htm" />
+    <HelpKINode Title="about ForgotPasswordViewModel class" Url="html/d925208c-c481-bee5-f562-710a0fb61ccc.htm" />
+    <HelpKINode Title="constructor" Url="html/6577ecad-af03-e9c0-7147-ced09f9cf806.htm" />
+    <HelpKINode Title="methods" Url="html/b63588f2-ccdb-171b-7266-59bff3e7a9b1.htm" />
+    <HelpKINode Title="properties" Url="html/b536c2f8-d991-f95e-2f77-8044aced2f32.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForgotPasswordViewModel.Email property" Url="html/90ead5fa-5ccf-f8ea-3d34-81a81f40a447.htm" />
+  <HelpKINode Title="ForgotPasswordViewModel.ForgotPasswordViewModel constructor" Url="html/6577ecad-af03-e9c0-7147-ced09f9cf806.htm" />
+  <HelpKINode Title="ForgotViewModel class">
+    <HelpKINode Title="ForgotViewModel Class" Url="html/5cf25382-377a-86bc-ab62-bc82028b78bc.htm" />
+    <HelpKINode Title="about ForgotViewModel class" Url="html/5cf25382-377a-86bc-ab62-bc82028b78bc.htm" />
+    <HelpKINode Title="constructor" Url="html/33228fd9-3c5c-1fb9-e03d-6665365ebcfc.htm" />
+    <HelpKINode Title="methods" Url="html/ded44368-b55a-afaf-7dd4-b655c2a13540.htm" />
+    <HelpKINode Title="properties" Url="html/f918ab87-3f3a-5442-fe38-3d47cac3178d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ForgotViewModel.Email property" Url="html/ecb7c390-6be1-8c46-c94e-59ee5152bd82.htm" />
+  <HelpKINode Title="ForgotViewModel.ForgotViewModel constructor" Url="html/33228fd9-3c5c-1fb9-e03d-6665365ebcfc.htm" />
+  <HelpKINode Title="GenerateUserIdentityAsync method" Url="html/8519a603-c71f-fed4-0fe0-fe0f9ad16068.htm" />
+  <HelpKINode Title="GetCpiCount method" Url="html/e0d067ed-1654-ebbb-14b3-126f46a8523a.htm" />
+  <HelpKINode Title="GetCurrentRank method">
+    <HelpKINode Title="HomeController.GetCurrentRank Method " Url="html/795073b8-d535-4638-e12a-4bdfecccebad.htm" />
+    <HelpKINode Title="StudentInfoController.GetCurrentRank Method " Url="html/f7e6531e-1c84-01b1-18a1-9e153b924651.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEnrollmentNumbers method" Url="html/22f83bd9-79ba-e096-0a02-21e88dacc0c4.htm" />
+  <HelpKINode Title="GetGradesData method" Url="html/6fb894c8-2afc-d1cf-cf91-ed771e0fb567.htm" />
+  <HelpKINode Title="GetOverallRank method">
+    <HelpKINode Title="HomeController.GetOverallRank Method " Url="html/e92e4245-949f-9731-1863-db16785845bf.htm" />
+    <HelpKINode Title="StudentInfoController.GetOverallRank Method " Url="html/79bb1743-e8d7-8497-0956-08f546693d1a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetSpiCount method" Url="html/28328156-8472-d14c-2f3a-bfe24b02a06b.htm" />
+  <HelpKINode Title="GetSubjectList method" Url="html/09c3ed4b-28d1-5930-c29c-c32b028cb9bd.htm" />
+  <HelpKINode Title="GetTFR method" Url="html/a5b2e002-f4b4-44af-58de-08b219001148.htm" />
+  <HelpKINode Title="Grade property" Url="html/d7a17fca-3808-9931-24ef-959c1d0668d6.htm" />
+  <HelpKINode Title="HasPassword method" Url="html/64be82ff-de78-2438-168a-26b504cce4c0.htm" />
+  <HelpKINode Title="HasPassword property" Url="html/5f95e2fc-7333-56d1-95b0-c9817fbebc9f.htm" />
+  <HelpKINode Title="HasPhoneNumber method" Url="html/9aea2b62-784f-ad42-1054-6dbbff1f2c88.htm" />
+  <HelpKINode Title="HomeController class">
+    <HelpKINode Title="HomeController Class" Url="html/6fcb65fd-016c-e4de-61d0-24af5c9324b3.htm" />
+    <HelpKINode Title="about HomeController class" Url="html/6fcb65fd-016c-e4de-61d0-24af5c9324b3.htm" />
+    <HelpKINode Title="constructor" Url="html/2bf4c8c6-92e4-1772-5c42-b1ab369f89a3.htm" />
+    <HelpKINode Title="fields" Url="html/fd87bcaa-a3b3-dde2-bbdf-348ab1f9dfce.htm" />
+    <HelpKINode Title="methods" Url="html/0cc33fe2-3516-8112-574e-847f6868aa89.htm" />
+    <HelpKINode Title="properties" Url="html/d401f350-ecd9-b10e-6bbf-c1c1fbf801cc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HomeController.About method" Url="html/0a3fced5-b771-9c12-6acc-6145e98bd0c2.htm" />
+  <HelpKINode Title="HomeController.Contact method" Url="html/de1f1d1e-c7dd-79dd-9ab2-eaf33fc5a706.htm" />
+  <HelpKINode Title="HomeController.db field" Url="html/f1c98121-ed0b-5315-2613-4c683863bef9.htm" />
+  <HelpKINode Title="HomeController.GetCurrentRank method" Url="html/795073b8-d535-4638-e12a-4bdfecccebad.htm" />
+  <HelpKINode Title="HomeController.GetOverallRank method" Url="html/e92e4245-949f-9731-1863-db16785845bf.htm" />
+  <HelpKINode Title="HomeController.HomeController constructor" Url="html/2bf4c8c6-92e4-1772-5c42-b1ab369f89a3.htm" />
+  <HelpKINode Title="HomeController.Index method" Url="html/ab15141f-a21a-f03e-d2d1-c145d4b36af8.htm" />
+  <HelpKINode Title="HomeController.Search method" Url="html/8903100b-c334-abc2-ea33-d324b11f8880.htm" />
+  <HelpKINode Title="Index method">
+    <HelpKINode Title="DepartmentsController.Index Method " Url="html/889d9cfa-f721-7b42-da47-4b65b9666e9d.htm" />
+    <HelpKINode Title="HomeController.Index Method " Url="html/ab15141f-a21a-f03e-d2d1-c145d4b36af8.htm" />
+    <HelpKINode Title="Logins1Controller.Index Method " Url="html/379d6618-8f00-8e90-3fd0-4515299ecf27.htm" />
+    <HelpKINode Title="ManageController.Index Method " Url="html/d4908704-35ea-16cf-4807-214b127e39c2.htm" />
+    <HelpKINode Title="ResultsController.Index Method " Url="html/8645edaa-966c-955e-50ef-d031d8efd5ae.htm" />
+    <HelpKINode Title="SemesterAnalysisController.Index Method " Url="html/2207438f-2667-b640-4298-415b80cc2b63.htm" />
+    <HelpKINode Title="SemestersController.Index Method " Url="html/531ead26-8d51-65f6-4edf-90faca3e3473.htm" />
+    <HelpKINode Title="SubjectsController.Index Method " Url="html/00b5af7f-68ca-2f2a-86b1-0287a7e49230.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexViewModel class">
+    <HelpKINode Title="IndexViewModel Class" Url="html/746fa63e-0fc6-7493-62d0-99d479a1d4aa.htm" />
+    <HelpKINode Title="about IndexViewModel class" Url="html/746fa63e-0fc6-7493-62d0-99d479a1d4aa.htm" />
+    <HelpKINode Title="constructor" Url="html/59d361f7-41d8-df60-2ea7-dcaeaaec534f.htm" />
+    <HelpKINode Title="methods" Url="html/426164d7-ffa8-3349-53d0-c5089a312f2c.htm" />
+    <HelpKINode Title="properties" Url="html/d08c103f-8648-5d75-c417-527a385e6560.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexViewModel.BrowserRemembered property" Url="html/5bd8f196-a14f-9103-1440-aeb9e4259255.htm" />
+  <HelpKINode Title="IndexViewModel.HasPassword property" Url="html/5f95e2fc-7333-56d1-95b0-c9817fbebc9f.htm" />
+  <HelpKINode Title="IndexViewModel.IndexViewModel constructor" Url="html/59d361f7-41d8-df60-2ea7-dcaeaaec534f.htm" />
+  <HelpKINode Title="IndexViewModel.Logins property" Url="html/c5e12270-dc5d-cf30-c570-2d32f0c9dea5.htm" />
+  <HelpKINode Title="IndexViewModel.PhoneNumber property" Url="html/c867cd4e-7179-9eef-7070-aeccba400952.htm" />
+  <HelpKINode Title="IndexViewModel.TwoFactor property" Url="html/782488b0-901a-603f-9c62-ff56d585714e.htm" />
+  <HelpKINode Title="LinkLogin method" Url="html/df7dfb52-eab8-80bb-e8b5-29f6e4ebe23b.htm" />
+  <HelpKINode Title="LinkLoginCallback method" Url="html/778c1da4-38ee-bbe9-b76d-670a72a22aee.htm" />
+  <HelpKINode Title="Login class">
+    <HelpKINode Title="Login Class" Url="html/20cdaeae-e308-8a28-b16e-4ea6c12f21b7.htm" />
+    <HelpKINode Title="about Login class" Url="html/20cdaeae-e308-8a28-b16e-4ea6c12f21b7.htm" />
+    <HelpKINode Title="constructor" Url="html/73c7d5ca-61da-8f7c-5d5b-b631cef30fd6.htm" />
+    <HelpKINode Title="methods" Url="html/655cdeec-d778-eeef-483d-4a6bcfa3eac8.htm" />
+    <HelpKINode Title="properties" Url="html/4d7da6d0-6c99-5db7-14d8-7910b20629b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Login method" Url="html/237b66bb-d3a2-c00d-281f-89b87e7792f3.htm" />
+  <HelpKINode Title="Login.Department property" Url="html/0f1a29bb-559e-a26f-6167-6910177ee5b7.htm" />
+  <HelpKINode Title="Login.DepartmentId property" Url="html/5420fa8a-00cb-811b-3d11-d3a1213066a3.htm" />
+  <HelpKINode Title="Login.Login constructor" Url="html/73c7d5ca-61da-8f7c-5d5b-b631cef30fd6.htm" />
+  <HelpKINode Title="Login.Password property" Url="html/561cdff3-3e21-348a-00f5-c7f8156515cc.htm" />
+  <HelpKINode Title="Login.Role property" Url="html/83bb41a5-bf5a-1afc-0da7-19ca3d8c7f1c.htm" />
+  <HelpKINode Title="Login.Username property" Url="html/0a85f1e7-6d48-e8a9-f6a0-23aaac8f988b.htm" />
+  <HelpKINode Title="LoginPage method" Url="html/5b559bee-9a7c-3bf7-44d9-bd6ce26e6163.htm" />
+  <HelpKINode Title="LoginProvider property" Url="html/7de1baea-ab00-46a4-8c4f-f4895b938519.htm" />
+  <HelpKINode Title="Logins property">
+    <HelpKINode Title="ADITStudentDataEntities.Logins Property " Url="html/af3bf04e-61b7-2ab5-e50a-8bf51df1350e.htm" />
+    <HelpKINode Title="Department.Logins Property " Url="html/358a6a9a-cf58-44f6-a19e-2e6a1633f25b.htm" />
+    <HelpKINode Title="IndexViewModel.Logins Property " Url="html/c5e12270-dc5d-cf30-c570-2d32f0c9dea5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logins1Controller class">
+    <HelpKINode Title="Logins1Controller Class" Url="html/edae616c-fd38-4a76-a223-235ec4a88d6f.htm" />
+    <HelpKINode Title="about Logins1Controller class" Url="html/edae616c-fd38-4a76-a223-235ec4a88d6f.htm" />
+    <HelpKINode Title="constructor" Url="html/ab363d51-d422-138c-d754-7f277439cc4f.htm" />
+    <HelpKINode Title="fields" Url="html/d4159932-56da-ff3f-7fc2-e5768d10c28d.htm" />
+    <HelpKINode Title="methods" Url="html/d5b78cec-9d80-9bd2-5b59-a510a30f9278.htm" />
+    <HelpKINode Title="properties" Url="html/6b40bffa-563c-0326-504b-510034adec0c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logins1Controller.Create method" Url="html/8f019047-2b16-6646-e912-f7bef58afc69.htm" />
+  <HelpKINode Title="Logins1Controller.db field" Url="html/5a04d3dc-820d-c2d6-27ec-56d5c1b44801.htm" />
+  <HelpKINode Title="Logins1Controller.Delete method" Url="html/2aa19137-19ed-f3da-d222-dd23984ae127.htm" />
+  <HelpKINode Title="Logins1Controller.DeleteConfirmed method" Url="html/70ae77d9-d550-65d0-aff0-ef39d6696a78.htm" />
+  <HelpKINode Title="Logins1Controller.Details method" Url="html/4c18fe42-41cc-1602-bdc1-890870eacbf6.htm" />
+  <HelpKINode Title="Logins1Controller.Dispose method" Url="html/dee2c4ac-9bb8-44dd-ad26-7e324b40c55e.htm" />
+  <HelpKINode Title="Logins1Controller.Edit method" Url="html/4eea4bd7-8b32-5fab-a8ff-d45f81bb2638.htm" />
+  <HelpKINode Title="Logins1Controller.Index method" Url="html/379d6618-8f00-8e90-3fd0-4515299ecf27.htm" />
+  <HelpKINode Title="Logins1Controller.Logins1Controller constructor" Url="html/ab363d51-d422-138c-d754-7f277439cc4f.htm" />
+  <HelpKINode Title="LoginsController class">
+    <HelpKINode Title="LoginsController Class" Url="html/aecfc073-97fa-0c0e-2539-7374299c8f12.htm" />
+    <HelpKINode Title="about LoginsController class" Url="html/aecfc073-97fa-0c0e-2539-7374299c8f12.htm" />
+    <HelpKINode Title="constructor" Url="html/b5d3275c-8b9d-aba7-467a-f097f0f21881.htm" />
+    <HelpKINode Title="fields" Url="html/750aa7c9-fa7a-475e-1985-66775fd636f5.htm" />
+    <HelpKINode Title="methods" Url="html/2abebc00-7562-b7dd-b4a1-e9b4a3b6a496.htm" />
+    <HelpKINode Title="properties" Url="html/9fdd7a39-a035-10ac-b545-b09946b1f237.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginsController.AdminPage method" Url="html/3be62630-97df-92e0-f98e-9cb1d0c61a92.htm" />
+  <HelpKINode Title="LoginsController.Authorize method" Url="html/fc08d4e2-60f5-d6a3-043e-b82e663907e8.htm" />
+  <HelpKINode Title="LoginsController.db field" Url="html/b8678932-f5b1-3c41-e3a9-4d40242c5ee9.htm" />
+  <HelpKINode Title="LoginsController.FacultyPage method" Url="html/ff7a5f02-f014-d8c8-5d60-028472e036c3.htm" />
+  <HelpKINode Title="LoginsController.GetEnrollmentNumbers method" Url="html/22f83bd9-79ba-e096-0a02-21e88dacc0c4.htm" />
+  <HelpKINode Title="LoginsController.GetSubjectList method" Url="html/09c3ed4b-28d1-5930-c29c-c32b028cb9bd.htm" />
+  <HelpKINode Title="LoginsController.LoginPage method" Url="html/5b559bee-9a7c-3bf7-44d9-bd6ce26e6163.htm" />
+  <HelpKINode Title="LoginsController.LoginsController constructor" Url="html/b5d3275c-8b9d-aba7-467a-f097f0f21881.htm" />
+  <HelpKINode Title="LoginsController.LogOff method" Url="html/f61b83c0-4e5f-57f9-821c-33514819daea.htm" />
+  <HelpKINode Title="LoginsController.ResultEntry method" Url="html/616c8b8f-e00f-c166-4eb5-a0f7b4c642bb.htm" />
+  <HelpKINode Title="LoginsController.ResultUpdate method" Url="html/d7d3189e-46cf-09fb-6e2b-c09929d75943.htm" />
+  <HelpKINode Title="LoginsController.Update method" Url="html/b9abba5c-ce86-287f-bef6-8e3d3ba1e0a5.htm" />
+  <HelpKINode Title="LoginsController.UploadFile method" Url="html/2b6d1210-a254-5cdc-b1f4-231a20cb4326.htm" />
+  <HelpKINode Title="LoginViewModel class">
+    <HelpKINode Title="LoginViewModel Class" Url="html/ab6d6e05-2b75-4902-d1ef-3fcd041dedbd.htm" />
+    <HelpKINode Title="about LoginViewModel class" Url="html/ab6d6e05-2b75-4902-d1ef-3fcd041dedbd.htm" />
+    <HelpKINode Title="constructor" Url="html/505e9128-cf27-f8cf-4798-2ef4ff6273e6.htm" />
+    <HelpKINode Title="methods" Url="html/cbc64584-494b-eaf9-e933-7ca40f188843.htm" />
+    <HelpKINode Title="properties" Url="html/c452c04c-7b13-137e-f8b1-f510b008918d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginViewModel.Email property" Url="html/c16de71e-cc36-9d38-5368-4ec538b43e96.htm" />
+  <HelpKINode Title="LoginViewModel.LoginViewModel constructor" Url="html/505e9128-cf27-f8cf-4798-2ef4ff6273e6.htm" />
+  <HelpKINode Title="LoginViewModel.Password property" Url="html/a3aa4534-8264-a346-695e-518ad80ddf94.htm" />
+  <HelpKINode Title="LoginViewModel.RememberMe property" Url="html/a5d3b529-c6a7-a3c0-38d5-d179a41746cd.htm" />
+  <HelpKINode Title="LogOff method">
+    <HelpKINode Title="AccountController.LogOff Method " Url="html/5ffb54a1-4821-800e-01b2-ac567415e1fb.htm" />
+    <HelpKINode Title="LoginsController.LogOff Method " Url="html/f61b83c0-4e5f-57f9-821c-33514819daea.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManageController class">
+    <HelpKINode Title="ManageController Class" Url="html/251aa17a-3463-f155-660a-b0ff195486bf.htm" />
+    <HelpKINode Title="about ManageController class" Url="html/251aa17a-3463-f155-660a-b0ff195486bf.htm" />
+    <HelpKINode Title="constructor" Url="html/12a1b881-9c3e-7cbd-0b84-dfa85d2db6a3.htm" />
+    <HelpKINode Title="fields" Url="html/0c9f9689-220c-8caa-42e2-93cdbe7bb8d2.htm" />
+    <HelpKINode Title="methods" Url="html/418f4c30-550f-5516-fe5c-8a5ad47106f0.htm" />
+    <HelpKINode Title="properties" Url="html/c725ce5d-cd2e-f5fa-0293-716c58af097d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManageController.AddErrors method" Url="html/53715dfd-085f-85f1-0efa-84377e70070b.htm" />
+  <HelpKINode Title="ManageController.AddPhoneNumber method" Url="html/526ffc7d-da92-cd13-591b-9e49ea96d244.htm" />
+  <HelpKINode Title="ManageController.AuthenticationManager property" Url="html/62868ad9-e7b9-2132-54b1-b70481e6b482.htm" />
+  <HelpKINode Title="ManageController.ChangePassword method" Url="html/73552569-5ab4-4edc-16b8-e721862e6d78.htm" />
+  <HelpKINode Title="ManageController.DisableTwoFactorAuthentication method" Url="html/c448cee6-a799-ad51-5677-d626c3358ee7.htm" />
+  <HelpKINode Title="ManageController.Dispose method" Url="html/2ce6165d-addc-1f1c-9a33-3176fbe50760.htm" />
+  <HelpKINode Title="ManageController.EnableTwoFactorAuthentication method" Url="html/73d828e2-e058-9a4b-d621-7b2becdb6d60.htm" />
+  <HelpKINode Title="ManageController.HasPassword method" Url="html/64be82ff-de78-2438-168a-26b504cce4c0.htm" />
+  <HelpKINode Title="ManageController.HasPhoneNumber method" Url="html/9aea2b62-784f-ad42-1054-6dbbff1f2c88.htm" />
+  <HelpKINode Title="ManageController.Index method" Url="html/d4908704-35ea-16cf-4807-214b127e39c2.htm" />
+  <HelpKINode Title="ManageController.LinkLogin method" Url="html/df7dfb52-eab8-80bb-e8b5-29f6e4ebe23b.htm" />
+  <HelpKINode Title="ManageController.LinkLoginCallback method" Url="html/778c1da4-38ee-bbe9-b76d-670a72a22aee.htm" />
+  <HelpKINode Title="ManageController.ManageController constructor" Url="html/12a1b881-9c3e-7cbd-0b84-dfa85d2db6a3.htm" />
+  <HelpKINode Title="ManageController.ManageLogins method" Url="html/d285fb49-1c88-108e-5e72-327760956511.htm" />
+  <HelpKINode Title="ManageController.ManageMessageId enumeration" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="ManageController.RemoveLogin method" Url="html/25b6dcec-1b47-172f-7385-d9faf410207e.htm" />
+  <HelpKINode Title="ManageController.RemovePhoneNumber method" Url="html/c502cc8c-e871-b6a1-ca13-de1c752b5bb1.htm" />
+  <HelpKINode Title="ManageController.SetPassword method" Url="html/639cf9e2-2a64-f05b-344a-9b5e1e31e41e.htm" />
+  <HelpKINode Title="ManageController.SignInManager property" Url="html/56d0d49e-fbd2-25dd-788e-dd6fe6606755.htm" />
+  <HelpKINode Title="ManageController.UserManager property" Url="html/5eae4d2a-cdc5-73be-7b0c-e28a701928e4.htm" />
+  <HelpKINode Title="ManageController.VerifyPhoneNumber method" Url="html/72629f33-34f4-8c5c-cee4-55075e600d80.htm" />
+  <HelpKINode Title="ManageController.XsrfKey field" Url="html/f38fc44f-4f62-a188-32bc-ebce9e6f56d5.htm" />
+  <HelpKINode Title="ManageController._signInManager field" Url="html/0956ad69-dda4-a5c6-3466-3468fcc5d21c.htm" />
+  <HelpKINode Title="ManageController._userManager field" Url="html/a961c36c-1671-2c76-04d2-acdfa9432a47.htm" />
+  <HelpKINode Title="ManageLogins method" Url="html/d285fb49-1c88-108e-5e72-327760956511.htm" />
+  <HelpKINode Title="ManageLoginsViewModel class">
+    <HelpKINode Title="ManageLoginsViewModel Class" Url="html/1fb1d25c-9683-ce05-8058-f3d3242dee8e.htm" />
+    <HelpKINode Title="about ManageLoginsViewModel class" Url="html/1fb1d25c-9683-ce05-8058-f3d3242dee8e.htm" />
+    <HelpKINode Title="constructor" Url="html/40ef5451-fc86-8540-b04f-b732f4836792.htm" />
+    <HelpKINode Title="methods" Url="html/b2ac874f-5d65-cefd-38c5-484ebcdd5dd9.htm" />
+    <HelpKINode Title="properties" Url="html/c5aec92f-4387-2735-a6ff-686083de7f55.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManageLoginsViewModel.CurrentLogins property" Url="html/97cd61b0-6015-c30a-217d-aa33e39c0425.htm" />
+  <HelpKINode Title="ManageLoginsViewModel.ManageLoginsViewModel constructor" Url="html/40ef5451-fc86-8540-b04f-b732f4836792.htm" />
+  <HelpKINode Title="ManageLoginsViewModel.OtherLogins property" Url="html/ee083bbc-5ac6-cf1f-1421-d589cb14c05f.htm" />
+  <HelpKINode Title="MvcApplication class">
+    <HelpKINode Title="MvcApplication Class" Url="html/5c64a167-56bd-8dee-8a49-cabac4faccbe.htm" />
+    <HelpKINode Title="about MvcApplication class" Url="html/5c64a167-56bd-8dee-8a49-cabac4faccbe.htm" />
+    <HelpKINode Title="constructor" Url="html/57b5ce92-37cf-a028-efff-cff2dbbe21b7.htm" />
+    <HelpKINode Title="events" Url="html/e3c217f5-56e1-9c89-8e04-43c69cec203a.htm" />
+    <HelpKINode Title="fields" Url="html/26d54b06-a90e-76a7-c059-a23a3d4f4929.htm" />
+    <HelpKINode Title="methods" Url="html/67712e7e-d6c7-343f-28cd-fe285bce8efd.htm" />
+    <HelpKINode Title="properties" Url="html/0bed4544-2e5a-26cd-efd9-07d2d743205d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MvcApplication.Application_PostAuthenticateRequest method" Url="html/9f21735f-f49d-c1be-5739-5e70fc039218.htm" />
+  <HelpKINode Title="MvcApplication.Application_Start method" Url="html/7a39576d-b0dc-776f-e499-0b98d273ee29.htm" />
+  <HelpKINode Title="MvcApplication.MvcApplication constructor" Url="html/57b5ce92-37cf-a028-efff-cff2dbbe21b7.htm" />
+  <HelpKINode Title="NewPassword property">
+    <HelpKINode Title="ChangePasswordViewModel.NewPassword Property " Url="html/480f9267-f10e-fc61-023d-3edc84c42484.htm" />
+    <HelpKINode Title="SetPasswordViewModel.NewPassword Property " Url="html/97ef44fe-33a7-0be6-ce80-7b4e3d85e5d6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Number property" Url="html/d691feca-9a6c-c443-bcbf-8a6b4818aeb5.htm" />
+  <HelpKINode Title="OldPassword property" Url="html/82d3fe4e-a1ac-cada-4d5d-51238f5f7a0c.htm" />
+  <HelpKINode Title="OnModelCreating method" Url="html/98ce2d81-a7fb-4eca-9086-9e85646a3741.htm" />
+  <HelpKINode Title="OperationKey property" Url="html/9de7f427-139a-fc05-691b-e06ca0d6c796.htm" />
+  <HelpKINode Title="OtherLogins property" Url="html/ee083bbc-5ac6-cf1f-1421-d589cb14c05f.htm" />
+  <HelpKINode Title="Password property">
+    <HelpKINode Title="Login.Password Property " Url="html/561cdff3-3e21-348a-00f5-c7f8156515cc.htm" />
+    <HelpKINode Title="LoginViewModel.Password Property " Url="html/a3aa4534-8264-a346-695e-518ad80ddf94.htm" />
+    <HelpKINode Title="RegisterViewModel.Password Property " Url="html/7ee3770a-6e7d-d603-b537-80c6cbf9e829.htm" />
+    <HelpKINode Title="ResetPasswordViewModel.Password Property " Url="html/fb9db034-9c13-1f47-8478-be12b88625d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PhoneNumber property">
+    <HelpKINode Title="IndexViewModel.PhoneNumber Property " Url="html/c867cd4e-7179-9eef-7070-aeccba400952.htm" />
+    <HelpKINode Title="VerifyPhoneNumberViewModel.PhoneNumber Property " Url="html/20c4a432-f549-4b7b-b4ac-3ff6d9e32841.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Provider property" Url="html/6d0dd881-59b6-72c8-98df-54a70cbf0e0a.htm" />
+  <HelpKINode Title="Providers property">
+    <HelpKINode Title="ConfigureTwoFactorViewModel.Providers Property " Url="html/fa165484-392a-8303-25e3-2a29967b8756.htm" />
+    <HelpKINode Title="SendCodeViewModel.Providers Property " Url="html/4b7a7405-b857-a7d1-7e03-d132b4540cf9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Purpose property" Url="html/aeef870e-7ff0-fed4-a55a-d170c97c8696.htm" />
+  <HelpKINode Title="RedirectToLocal method" Url="html/b110b7af-e165-55fe-baae-d7d5fcb3bd25.htm" />
+  <HelpKINode Title="RedirectUri property" Url="html/a7ec4c60-1c13-9c91-4122-1679e1f06dd7.htm" />
+  <HelpKINode Title="Register method" Url="html/4ee276d7-a22a-1f3e-f41f-d4ce964af9bb.htm" />
+  <HelpKINode Title="RegisterBundles method" Url="html/5fe2e0da-dd84-37a6-cb71-f2699afb9f95.htm" />
+  <HelpKINode Title="RegisterGlobalFilters method" Url="html/fc5eca33-da05-d6c2-9cb8-9d90521d0f9e.htm" />
+  <HelpKINode Title="RegisterRoutes method" Url="html/e3a15396-21f0-1694-a9f0-4eed55554111.htm" />
+  <HelpKINode Title="RegisterViewModel class">
+    <HelpKINode Title="RegisterViewModel Class" Url="html/1b3d3704-1a16-de39-fb13-64a73a8a51bf.htm" />
+    <HelpKINode Title="about RegisterViewModel class" Url="html/1b3d3704-1a16-de39-fb13-64a73a8a51bf.htm" />
+    <HelpKINode Title="constructor" Url="html/a0322a51-3cf7-5356-4dad-5614c5ff7114.htm" />
+    <HelpKINode Title="methods" Url="html/03e5189b-54e6-a497-79c9-b3470de2e4cb.htm" />
+    <HelpKINode Title="properties" Url="html/2319e2cf-7739-c43e-f6f9-ce5f27e4bfff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterViewModel.ConfirmPassword property" Url="html/3d4f4e98-22f4-88e6-3278-2e0723d91216.htm" />
+  <HelpKINode Title="RegisterViewModel.Email property" Url="html/54f750a1-cf28-4bcf-3ab8-1a07ad20110e.htm" />
+  <HelpKINode Title="RegisterViewModel.Password property" Url="html/7ee3770a-6e7d-d603-b537-80c6cbf9e829.htm" />
+  <HelpKINode Title="RegisterViewModel.RegisterViewModel constructor" Url="html/a0322a51-3cf7-5356-4dad-5614c5ff7114.htm" />
+  <HelpKINode Title="RememberBrowser property" Url="html/78499d80-6f82-947e-2e24-01791ff6f49d.htm" />
+  <HelpKINode Title="RememberMe property">
+    <HelpKINode Title="LoginViewModel.RememberMe Property " Url="html/a5d3b529-c6a7-a3c0-38d5-d179a41746cd.htm" />
+    <HelpKINode Title="SendCodeViewModel.RememberMe Property " Url="html/091be952-083e-075e-f2e4-876e381de7a2.htm" />
+    <HelpKINode Title="VerifyCodeViewModel.RememberMe Property " Url="html/ba6349b5-74d6-450f-e6af-3745206a11bf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveLogin method" Url="html/25b6dcec-1b47-172f-7385-d9faf410207e.htm" />
+  <HelpKINode Title="RemoveLoginSuccess enumeration member" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="RemovePhoneNumber method" Url="html/c502cc8c-e871-b6a1-ca13-de1c752b5bb1.htm" />
+  <HelpKINode Title="RemovePhoneSuccess enumeration member" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="ResetPassword method" Url="html/a962c381-fd24-1d29-c17b-153253ac7686.htm" />
+  <HelpKINode Title="ResetPasswordConfirmation method" Url="html/9f890d16-e4d0-9589-49cf-48b980527929.htm" />
+  <HelpKINode Title="ResetPasswordViewModel class">
+    <HelpKINode Title="ResetPasswordViewModel Class" Url="html/3882a209-f9c7-c40f-40ab-df1a7645f174.htm" />
+    <HelpKINode Title="about ResetPasswordViewModel class" Url="html/3882a209-f9c7-c40f-40ab-df1a7645f174.htm" />
+    <HelpKINode Title="constructor" Url="html/03896782-3827-ad0e-53b4-c9437051b7e4.htm" />
+    <HelpKINode Title="methods" Url="html/4fa86885-d886-6264-228c-c89df86321d2.htm" />
+    <HelpKINode Title="properties" Url="html/7c04ad82-986b-7284-ab16-9103d0949f63.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResetPasswordViewModel.Code property" Url="html/c63c26b1-71c7-f08f-226d-95ae84cd7e6e.htm" />
+  <HelpKINode Title="ResetPasswordViewModel.ConfirmPassword property" Url="html/54975bfe-e2ce-5a59-8859-41830d96b0ec.htm" />
+  <HelpKINode Title="ResetPasswordViewModel.Email property" Url="html/d1396151-d94d-d7f6-4915-00e87859042d.htm" />
+  <HelpKINode Title="ResetPasswordViewModel.Password property" Url="html/fb9db034-9c13-1f47-8478-be12b88625d1.htm" />
+  <HelpKINode Title="ResetPasswordViewModel.ResetPasswordViewModel constructor" Url="html/03896782-3827-ad0e-53b4-c9437051b7e4.htm" />
+  <HelpKINode Title="Result class">
+    <HelpKINode Title="Result Class" Url="html/e58ba6af-6a55-6d3b-42dd-e0bb318544b4.htm" />
+    <HelpKINode Title="about Result class" Url="html/e58ba6af-6a55-6d3b-42dd-e0bb318544b4.htm" />
+    <HelpKINode Title="constructor" Url="html/264e7b01-ce56-1208-ade3-d7b1ffaf96a2.htm" />
+    <HelpKINode Title="methods" Url="html/9bf7904b-5a1b-b971-3428-aa6ca60e74f6.htm" />
+    <HelpKINode Title="properties" Url="html/6d5d79f6-fcd0-88f8-daf2-26a31c12642a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Result.Grade property" Url="html/d7a17fca-3808-9931-24ef-959c1d0668d6.htm" />
+  <HelpKINode Title="Result.Result constructor" Url="html/264e7b01-ce56-1208-ade3-d7b1ffaf96a2.htm" />
+  <HelpKINode Title="Result.SemesterId property" Url="html/dea9d3e1-985d-8581-4058-8b82c7be3f98.htm" />
+  <HelpKINode Title="Result.Student property" Url="html/0fe5ed35-10ca-f984-85da-a1e8820d57a6.htm" />
+  <HelpKINode Title="Result.StudentId property" Url="html/dff4a7bc-058b-32e3-bfe6-7a0dd6d30384.htm" />
+  <HelpKINode Title="Result.Subject property" Url="html/fe0264d1-7efc-3560-8278-62614ea23f79.htm" />
+  <HelpKINode Title="Result.SubjectId property" Url="html/92be5b8c-c03b-3bc7-0cae-71e9b27faa22.htm" />
+  <HelpKINode Title="ResultEntry method" Url="html/616c8b8f-e00f-c166-4eb5-a0f7b4c642bb.htm" />
+  <HelpKINode Title="Results property">
+    <HelpKINode Title="ADITStudentDataEntities.Results Property " Url="html/a561090b-4475-993b-fcf9-27f9307e9110.htm" />
+    <HelpKINode Title="Student.Results Property " Url="html/23891ffe-56f6-6ae3-165e-235827c485a3.htm" />
+    <HelpKINode Title="Subject.Results Property " Url="html/d365799b-1069-16b7-95d4-cefd542da9a9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResultsController class">
+    <HelpKINode Title="ResultsController Class" Url="html/d7df33c4-4934-3288-fc6f-3d42c40f046e.htm" />
+    <HelpKINode Title="about ResultsController class" Url="html/d7df33c4-4934-3288-fc6f-3d42c40f046e.htm" />
+    <HelpKINode Title="constructor" Url="html/85b3787a-f420-0c22-cc8e-15e494e237f0.htm" />
+    <HelpKINode Title="fields" Url="html/8f40892e-35f5-660c-1467-be00aaf66b05.htm" />
+    <HelpKINode Title="methods" Url="html/f032be82-ed5c-4c6f-823a-ff28619c8726.htm" />
+    <HelpKINode Title="properties" Url="html/4231b03b-1345-3e1a-0980-53a95cf02d38.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResultsController.Create method" Url="html/67de06e7-1c7e-7f80-e9aa-93d958ea5108.htm" />
+  <HelpKINode Title="ResultsController.db field" Url="html/47a90436-11ab-7e20-0b5a-a90603261f09.htm" />
+  <HelpKINode Title="ResultsController.Delete method" Url="html/f22831ad-a902-1e84-5dba-6f09ce298929.htm" />
+  <HelpKINode Title="ResultsController.DeleteConfirmed method" Url="html/f2312ccc-58e4-8b91-5222-84cb2ea04034.htm" />
+  <HelpKINode Title="ResultsController.Details method" Url="html/acabd157-a11c-46e7-6e44-83e696a2b3e4.htm" />
+  <HelpKINode Title="ResultsController.Dispose method" Url="html/1ec942ca-2e33-6516-5fb2-6be5098be584.htm" />
+  <HelpKINode Title="ResultsController.Edit method" Url="html/66f2208c-cf64-54d8-b42f-72376199ebd8.htm" />
+  <HelpKINode Title="ResultsController.Index method" Url="html/8645edaa-966c-955e-50ef-d031d8efd5ae.htm" />
+  <HelpKINode Title="ResultsController.ResultsController constructor" Url="html/85b3787a-f420-0c22-cc8e-15e494e237f0.htm" />
+  <HelpKINode Title="ResultUpdate method" Url="html/d7d3189e-46cf-09fb-6e2b-c09929d75943.htm" />
+  <HelpKINode Title="ReturnUrl property">
+    <HelpKINode Title="ExternalLoginListViewModel.ReturnUrl Property " Url="html/09966e9c-8bac-7efd-1cd0-56ac802ebb26.htm" />
+    <HelpKINode Title="SendCodeViewModel.ReturnUrl Property " Url="html/78cc2588-3bea-dddf-129c-b9402e4513ea.htm" />
+    <HelpKINode Title="VerifyCodeViewModel.ReturnUrl Property " Url="html/11c30ce2-0599-7833-69c5-d0e96e09ee52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Role property" Url="html/83bb41a5-bf5a-1afc-0da7-19ca3d8c7f1c.htm" />
+  <HelpKINode Title="RouteConfig class">
+    <HelpKINode Title="RouteConfig Class" Url="html/fd84232b-5980-6ccb-ee7a-cf795ef4009d.htm" />
+    <HelpKINode Title="about RouteConfig class" Url="html/fd84232b-5980-6ccb-ee7a-cf795ef4009d.htm" />
+    <HelpKINode Title="constructor" Url="html/96efd7b9-059a-2012-92ad-be35fefe18d9.htm" />
+    <HelpKINode Title="methods" Url="html/8e07108f-1372-3be1-c69e-ebaf763f3674.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RouteConfig.RegisterRoutes method" Url="html/e3a15396-21f0-1694-a9f0-4eed55554111.htm" />
+  <HelpKINode Title="RouteConfig.RouteConfig constructor" Url="html/96efd7b9-059a-2012-92ad-be35fefe18d9.htm" />
+  <HelpKINode Title="Search method" Url="html/8903100b-c334-abc2-ea33-d324b11f8880.htm" />
+  <HelpKINode Title="SearchByEnrollment method" Url="html/d57befd5-6e61-5eb6-93f5-bceb0e910da8.htm" />
+  <HelpKINode Title="SelectedProvider property">
+    <HelpKINode Title="ConfigureTwoFactorViewModel.SelectedProvider Property " Url="html/f03730dc-a184-fd61-94a2-3b6c1b64912b.htm" />
+    <HelpKINode Title="SendCodeViewModel.SelectedProvider Property " Url="html/4260d721-d38a-93c0-60f7-806485b0a95e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Semester class">
+    <HelpKINode Title="Semester Class" Url="html/fee28640-6831-c0e5-7bd4-33095eb7e255.htm" />
+    <HelpKINode Title="about Semester class" Url="html/fee28640-6831-c0e5-7bd4-33095eb7e255.htm" />
+    <HelpKINode Title="constructor" Url="html/0f9e6444-c7aa-e426-680b-56c2ee5915bf.htm" />
+    <HelpKINode Title="methods" Url="html/c27ff692-7697-9cd1-ecea-60fcb04df2da.htm" />
+    <HelpKINode Title="properties" Url="html/8139dc16-90ec-9910-b432-169bd67a218f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Semester.Backlog property" Url="html/6d04730f-3d73-cecb-983c-e7e8d95087be.htm" />
+  <HelpKINode Title="Semester.Cgpa property" Url="html/30120550-72bd-e161-ffee-1e24775a7a6d.htm" />
+  <HelpKINode Title="Semester.Cpi property" Url="html/e8043b76-10cd-3dff-8dfc-f3dfdc736d62.htm" />
+  <HelpKINode Title="Semester.Semester constructor" Url="html/0f9e6444-c7aa-e426-680b-56c2ee5915bf.htm" />
+  <HelpKINode Title="Semester.SemesterId property" Url="html/51af8bcc-0cb5-486f-3bca-f3536d0f0b62.htm" />
+  <HelpKINode Title="Semester.Spi property" Url="html/fab648bf-8299-bdfb-c10a-143a68c0ac7f.htm" />
+  <HelpKINode Title="Semester.Student property" Url="html/a07d2ed4-44a2-eaae-2846-53eae278a057.htm" />
+  <HelpKINode Title="Semester.StudentId property" Url="html/7b44ab21-2625-03a8-e556-98e725398774.htm" />
+  <HelpKINode Title="Semester.Year property" Url="html/0e1d1aeb-6e6e-9c34-6a57-0d2f9f13c65a.htm" />
+  <HelpKINode Title="SemesterAnalysisController class">
+    <HelpKINode Title="SemesterAnalysisController Class" Url="html/c7f65e38-9fb9-a793-93df-a13b02cae0ed.htm" />
+    <HelpKINode Title="about SemesterAnalysisController class" Url="html/c7f65e38-9fb9-a793-93df-a13b02cae0ed.htm" />
+    <HelpKINode Title="constructor" Url="html/819e5e06-3f7e-eda6-4cbc-b0c76ba58161.htm" />
+    <HelpKINode Title="fields" Url="html/1a8cb1a1-0841-72ba-3524-6079490ffbff.htm" />
+    <HelpKINode Title="methods" Url="html/8a82b11b-8cd9-f6c7-44b3-65cc7107b2d9.htm" />
+    <HelpKINode Title="properties" Url="html/bc4515d0-f667-ae3e-dc22-021a34df4bc3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SemesterAnalysisController.CheckNull method" Url="html/ed58862f-6059-77a5-a73a-a2d5e7d9fd81.htm" />
+  <HelpKINode Title="SemesterAnalysisController.db field" Url="html/44b6e898-2b7e-e0fb-b50c-6b2d84a9bf8e.htm" />
+  <HelpKINode Title="SemesterAnalysisController.fetch method" Url="html/3c7c4d65-4f85-c784-156f-5b546ff33bc7.htm" />
+  <HelpKINode Title="SemesterAnalysisController.GetCpiCount method" Url="html/e0d067ed-1654-ebbb-14b3-126f46a8523a.htm" />
+  <HelpKINode Title="SemesterAnalysisController.GetGradesData method" Url="html/6fb894c8-2afc-d1cf-cf91-ed771e0fb567.htm" />
+  <HelpKINode Title="SemesterAnalysisController.GetSpiCount method" Url="html/28328156-8472-d14c-2f3a-bfe24b02a06b.htm" />
+  <HelpKINode Title="SemesterAnalysisController.GetTFR method" Url="html/a5b2e002-f4b4-44af-58de-08b219001148.htm" />
+  <HelpKINode Title="SemesterAnalysisController.Index method" Url="html/2207438f-2667-b640-4298-415b80cc2b63.htm" />
+  <HelpKINode Title="SemesterAnalysisController.SemesterAnalysisController constructor" Url="html/819e5e06-3f7e-eda6-4cbc-b0c76ba58161.htm" />
+  <HelpKINode Title="SemesterAnalysisController.topper field" Url="html/06082bc3-5c22-32ac-e024-6bafa187b2ef.htm" />
+  <HelpKINode Title="SemesterId property">
+    <HelpKINode Title="Result.SemesterId Property " Url="html/dea9d3e1-985d-8581-4058-8b82c7be3f98.htm" />
+    <HelpKINode Title="Semester.SemesterId Property " Url="html/51af8bcc-0cb5-486f-3bca-f3536d0f0b62.htm" />
+    <HelpKINode Title="Student.SemesterId Property " Url="html/401a23af-475a-b559-3dfd-32318ca180a7.htm" />
+    <HelpKINode Title="Subject.SemesterId Property " Url="html/6f2cb1b0-3b8b-bbf3-9be4-a4d686915217.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Semesters property">
+    <HelpKINode Title="ADITStudentDataEntities.Semesters Property " Url="html/02e65166-f524-6edf-e5af-cbda6e3c0cf1.htm" />
+    <HelpKINode Title="Student.Semesters Property " Url="html/9030cea4-8c5b-e9ba-f057-a2728c105393.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SemestersController class">
+    <HelpKINode Title="SemestersController Class" Url="html/6608a5d8-ba03-76f3-2299-ced95a95ba76.htm" />
+    <HelpKINode Title="about SemestersController class" Url="html/6608a5d8-ba03-76f3-2299-ced95a95ba76.htm" />
+    <HelpKINode Title="constructor" Url="html/b5710a68-7819-7f8b-95a3-b1861d27997a.htm" />
+    <HelpKINode Title="fields" Url="html/524386d3-448f-5f11-7622-530cba0a5425.htm" />
+    <HelpKINode Title="methods" Url="html/c3bb366b-8bd8-177f-11f5-d5d3d143c26c.htm" />
+    <HelpKINode Title="properties" Url="html/43dd74d2-1cd1-45b5-9a1a-bff4a4d542ab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SemestersController.Create method" Url="html/568dfc0b-d806-d83c-0dcd-b6d3e4230d26.htm" />
+  <HelpKINode Title="SemestersController.db field" Url="html/54c2b0d4-283a-5833-41bf-c30cdbf70825.htm" />
+  <HelpKINode Title="SemestersController.Delete method" Url="html/d066ed58-c12f-88be-1db3-fdc11b765668.htm" />
+  <HelpKINode Title="SemestersController.DeleteConfirmed method" Url="html/fb2ceff5-9f07-7c93-ca7c-acf8bcce2f75.htm" />
+  <HelpKINode Title="SemestersController.Details method" Url="html/6eaf753f-ee9a-4c83-1dd6-4b7322f8ffc2.htm" />
+  <HelpKINode Title="SemestersController.Dispose method" Url="html/f2fb0fad-a96d-cb89-691f-ce92507fcdfb.htm" />
+  <HelpKINode Title="SemestersController.Edit method" Url="html/9e2c2945-c253-7298-a7fb-4217a59747c2.htm" />
+  <HelpKINode Title="SemestersController.Index method" Url="html/531ead26-8d51-65f6-4edf-90faca3e3473.htm" />
+  <HelpKINode Title="SemestersController.SemestersController constructor" Url="html/b5710a68-7819-7f8b-95a3-b1861d27997a.htm" />
+  <HelpKINode Title="SendAsync method">
+    <HelpKINode Title="EmailService.SendAsync Method " Url="html/8cf949f1-c806-98ce-2300-11b568263c94.htm" />
+    <HelpKINode Title="SmsService.SendAsync Method " Url="html/c7f8204f-957e-b3c2-f289-ca9fa358aab2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendCode method" Url="html/59132eba-3dc1-c398-869e-0232dfbe89ca.htm" />
+  <HelpKINode Title="SendCodeViewModel class">
+    <HelpKINode Title="SendCodeViewModel Class" Url="html/79a104cf-f072-5573-8d2c-88780854ab4b.htm" />
+    <HelpKINode Title="about SendCodeViewModel class" Url="html/79a104cf-f072-5573-8d2c-88780854ab4b.htm" />
+    <HelpKINode Title="constructor" Url="html/1db1ab20-f116-5eaa-c0ed-91cfa4a7588b.htm" />
+    <HelpKINode Title="methods" Url="html/8414b689-f981-4de7-dc07-7c465bfeb8e0.htm" />
+    <HelpKINode Title="properties" Url="html/2611dc5e-4444-7978-5f71-51873c7dee31.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendCodeViewModel.Providers property" Url="html/4b7a7405-b857-a7d1-7e03-d132b4540cf9.htm" />
+  <HelpKINode Title="SendCodeViewModel.RememberMe property" Url="html/091be952-083e-075e-f2e4-876e381de7a2.htm" />
+  <HelpKINode Title="SendCodeViewModel.ReturnUrl property" Url="html/78cc2588-3bea-dddf-129c-b9402e4513ea.htm" />
+  <HelpKINode Title="SendCodeViewModel.SelectedProvider property" Url="html/4260d721-d38a-93c0-60f7-806485b0a95e.htm" />
+  <HelpKINode Title="SendCodeViewModel.SendCodeViewModel constructor" Url="html/1db1ab20-f116-5eaa-c0ed-91cfa4a7588b.htm" />
+  <HelpKINode Title="SetPassword method" Url="html/639cf9e2-2a64-f05b-344a-9b5e1e31e41e.htm" />
+  <HelpKINode Title="SetPasswordSuccess enumeration member" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="SetPasswordViewModel class">
+    <HelpKINode Title="SetPasswordViewModel Class" Url="html/0f937951-4bdc-4c5e-d61f-46664bfef5f0.htm" />
+    <HelpKINode Title="about SetPasswordViewModel class" Url="html/0f937951-4bdc-4c5e-d61f-46664bfef5f0.htm" />
+    <HelpKINode Title="constructor" Url="html/812dfe7d-28cc-4b8a-3f17-092a1e09db95.htm" />
+    <HelpKINode Title="methods" Url="html/2039dd7a-adb0-344b-6996-16a148352ee2.htm" />
+    <HelpKINode Title="properties" Url="html/1d4e7c99-7c6b-dc2a-b5ed-a1f54b24ebc4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetPasswordViewModel.ConfirmPassword property" Url="html/14acd621-8ede-e754-3d1d-20700b150d16.htm" />
+  <HelpKINode Title="SetPasswordViewModel.NewPassword property" Url="html/97ef44fe-33a7-0be6-ce80-7b4e3d85e5d6.htm" />
+  <HelpKINode Title="SetPasswordViewModel.SetPasswordViewModel constructor" Url="html/812dfe7d-28cc-4b8a-3f17-092a1e09db95.htm" />
+  <HelpKINode Title="SetTwoFactorSuccess enumeration member" Url="html/e01f1d7e-03e1-4fd0-0682-ac19a74e08ae.htm" />
+  <HelpKINode Title="SignInManager property">
+    <HelpKINode Title="AccountController.SignInManager Property " Url="html/2b6586ad-dd63-39d3-0577-dac78a5a0b2b.htm" />
+    <HelpKINode Title="ManageController.SignInManager Property " Url="html/56d0d49e-fbd2-25dd-788e-dd6fe6606755.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SmsService class">
+    <HelpKINode Title="SmsService Class" Url="html/f4cc4d6b-771d-3274-6ed0-a67ee9e0421e.htm" />
+    <HelpKINode Title="about SmsService class" Url="html/f4cc4d6b-771d-3274-6ed0-a67ee9e0421e.htm" />
+    <HelpKINode Title="constructor" Url="html/5b453198-18af-5d16-2493-93db623a252f.htm" />
+    <HelpKINode Title="methods" Url="html/6feeac8f-55bd-eb5a-b16d-895344ab5c2f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SmsService.SendAsync method" Url="html/c7f8204f-957e-b3c2-f289-ca9fa358aab2.htm" />
+  <HelpKINode Title="SmsService.SmsService constructor" Url="html/5b453198-18af-5d16-2493-93db623a252f.htm" />
+  <HelpKINode Title="Spi property" Url="html/fab648bf-8299-bdfb-c10a-143a68c0ac7f.htm" />
+  <HelpKINode Title="Startup class">
+    <HelpKINode Title="Startup Class" Url="html/3aef275f-30ea-ddf0-2747-ef1e58af5c17.htm" />
+    <HelpKINode Title="about Startup class" Url="html/3aef275f-30ea-ddf0-2747-ef1e58af5c17.htm" />
+    <HelpKINode Title="constructor" Url="html/342fb0a5-c7f3-3cdb-93e2-d2c555c91b67.htm" />
+    <HelpKINode Title="methods" Url="html/4ebdc1ec-fde9-6584-c68c-6e82abc1a3b0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Startup.Configuration method" Url="html/d948f8a0-2215-74ca-bd94-bb29f725fd62.htm" />
+  <HelpKINode Title="Startup.ConfigureAuth method" Url="html/27903113-dc70-f8fd-30ef-563c74846c8c.htm" />
+  <HelpKINode Title="Startup.Startup constructor" Url="html/342fb0a5-c7f3-3cdb-93e2-d2c555c91b67.htm" />
+  <HelpKINode Title="Student class">
+    <HelpKINode Title="Student Class" Url="html/15179cad-02b7-a1ff-2f35-328ba39659f2.htm" />
+    <HelpKINode Title="about Student class" Url="html/15179cad-02b7-a1ff-2f35-328ba39659f2.htm" />
+    <HelpKINode Title="constructor" Url="html/3aac5c26-49aa-a6c5-ecb6-406e65c0f325.htm" />
+    <HelpKINode Title="methods" Url="html/1010387e-e8da-9633-0bbf-f7a95bde845f.htm" />
+    <HelpKINode Title="properties" Url="html/d6596b0f-aadc-e0aa-f08a-0d3c8613576c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Student property">
+    <HelpKINode Title="Result.Student Property " Url="html/0fe5ed35-10ca-f984-85da-a1e8820d57a6.htm" />
+    <HelpKINode Title="Semester.Student Property " Url="html/a07d2ed4-44a2-eaae-2846-53eae278a057.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Student.Department property" Url="html/dd702643-bae1-d923-e226-aca9a6ba5c58.htm" />
+  <HelpKINode Title="Student.DepartmentId property" Url="html/c52773b2-aa67-3674-cd47-b180bf2edaeb.htm" />
+  <HelpKINode Title="Student.Results property" Url="html/23891ffe-56f6-6ae3-165e-235827c485a3.htm" />
+  <HelpKINode Title="Student.SemesterId property" Url="html/401a23af-475a-b559-3dfd-32318ca180a7.htm" />
+  <HelpKINode Title="Student.Semesters property" Url="html/9030cea4-8c5b-e9ba-f057-a2728c105393.htm" />
+  <HelpKINode Title="Student.Student constructor" Url="html/3aac5c26-49aa-a6c5-ecb6-406e65c0f325.htm" />
+  <HelpKINode Title="Student.StudentId property" Url="html/a4a5fba5-8bc9-eba5-3161-5cda5fbe015c.htm" />
+  <HelpKINode Title="Student.StudentName property" Url="html/611ae0ac-a746-1572-1e2e-0afc74b1077a.htm" />
+  <HelpKINode Title="Student.Year property" Url="html/029e53c7-fc30-8bbd-34bd-83efc3c61b7c.htm" />
+  <HelpKINode Title="StudentId property">
+    <HelpKINode Title="Result.StudentId Property " Url="html/dff4a7bc-058b-32e3-bfe6-7a0dd6d30384.htm" />
+    <HelpKINode Title="Semester.StudentId Property " Url="html/7b44ab21-2625-03a8-e556-98e725398774.htm" />
+    <HelpKINode Title="Student.StudentId Property " Url="html/a4a5fba5-8bc9-eba5-3161-5cda5fbe015c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StudentInfoController class">
+    <HelpKINode Title="StudentInfoController Class" Url="html/2b1de3ba-b59b-de38-5e98-53b82a572aec.htm" />
+    <HelpKINode Title="about StudentInfoController class" Url="html/2b1de3ba-b59b-de38-5e98-53b82a572aec.htm" />
+    <HelpKINode Title="constructor" Url="html/815e1da6-baa3-91fd-36d4-aca2049f9a78.htm" />
+    <HelpKINode Title="fields" Url="html/6ecf45bc-fae8-05ca-6d3a-9f0c1d52767c.htm" />
+    <HelpKINode Title="methods" Url="html/203260d6-9546-55a0-3a0f-afae66a35b4d.htm" />
+    <HelpKINode Title="properties" Url="html/147d291b-a52e-3fd6-3d8f-aaf2db836663.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StudentInfoController.db field" Url="html/8d13ff8f-4675-b28b-c9a8-107dbc66e511.htm" />
+  <HelpKINode Title="StudentInfoController.GetCurrentRank method" Url="html/f7e6531e-1c84-01b1-18a1-9e153b924651.htm" />
+  <HelpKINode Title="StudentInfoController.GetOverallRank method" Url="html/79bb1743-e8d7-8497-0956-08f546693d1a.htm" />
+  <HelpKINode Title="StudentInfoController.SearchByEnrollment method" Url="html/d57befd5-6e61-5eb6-93f5-bceb0e910da8.htm" />
+  <HelpKINode Title="StudentInfoController.StudentInfoController constructor" Url="html/815e1da6-baa3-91fd-36d4-aca2049f9a78.htm" />
+  <HelpKINode Title="StudentName property" Url="html/611ae0ac-a746-1572-1e2e-0afc74b1077a.htm" />
+  <HelpKINode Title="Students property">
+    <HelpKINode Title="ADITStudentDataEntities.Students Property " Url="html/7332f35e-bda9-a1a8-f4a9-fd55cf7a236f.htm" />
+    <HelpKINode Title="Department.Students Property " Url="html/f0d01d41-0c79-ce8b-79f7-7ac4a1259e3b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Subject class">
+    <HelpKINode Title="Subject Class" Url="html/44e59634-64a4-8879-b87c-de25d9035c06.htm" />
+    <HelpKINode Title="about Subject class" Url="html/44e59634-64a4-8879-b87c-de25d9035c06.htm" />
+    <HelpKINode Title="constructor" Url="html/6f15afba-63f9-1572-ffc6-f16c6b12a84f.htm" />
+    <HelpKINode Title="methods" Url="html/46aa616d-9110-b5ba-f601-dd97d8b9f284.htm" />
+    <HelpKINode Title="properties" Url="html/18e72014-47e3-641f-d7ed-1a0cc00130a4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Subject property" Url="html/fe0264d1-7efc-3560-8278-62614ea23f79.htm" />
+  <HelpKINode Title="Subject.Department property" Url="html/af88749f-e14d-ca9a-9766-2117b91960e3.htm" />
+  <HelpKINode Title="Subject.DepartmentId property" Url="html/ed02159e-1d47-efc2-52d4-a4d24942bd74.htm" />
+  <HelpKINode Title="Subject.Results property" Url="html/d365799b-1069-16b7-95d4-cefd542da9a9.htm" />
+  <HelpKINode Title="Subject.SemesterId property" Url="html/6f2cb1b0-3b8b-bbf3-9be4-a4d686915217.htm" />
+  <HelpKINode Title="Subject.Subject constructor" Url="html/6f15afba-63f9-1572-ffc6-f16c6b12a84f.htm" />
+  <HelpKINode Title="Subject.SubjectId property" Url="html/084229aa-ed9a-bc0d-43c8-b61329c82a73.htm" />
+  <HelpKINode Title="Subject.SubjectName property" Url="html/532067a7-881a-0705-39e6-b700be8de62e.htm" />
+  <HelpKINode Title="SubjectId property">
+    <HelpKINode Title="Result.SubjectId Property " Url="html/92be5b8c-c03b-3bc7-0cae-71e9b27faa22.htm" />
+    <HelpKINode Title="Subject.SubjectId Property " Url="html/084229aa-ed9a-bc0d-43c8-b61329c82a73.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SubjectName property" Url="html/532067a7-881a-0705-39e6-b700be8de62e.htm" />
+  <HelpKINode Title="Subjects property">
+    <HelpKINode Title="ADITStudentDataEntities.Subjects Property " Url="html/3c7721e5-20a7-746d-3a63-d5c55453c052.htm" />
+    <HelpKINode Title="Department.Subjects Property " Url="html/793a3a07-0197-fd8c-4517-56375559496b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SubjectsController class">
+    <HelpKINode Title="SubjectsController Class" Url="html/1c3b4f7d-21e3-2078-f21b-46355b62176e.htm" />
+    <HelpKINode Title="about SubjectsController class" Url="html/1c3b4f7d-21e3-2078-f21b-46355b62176e.htm" />
+    <HelpKINode Title="constructor" Url="html/50b9c096-2715-ccd9-e46d-0ffb6ae6712e.htm" />
+    <HelpKINode Title="fields" Url="html/a808415d-3aa4-705c-7075-6dc9c489e637.htm" />
+    <HelpKINode Title="methods" Url="html/48e0f174-66fe-808e-62e1-052448b3edbb.htm" />
+    <HelpKINode Title="properties" Url="html/29bca38e-77fc-6020-1f57-d9b9bc8f2eb5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SubjectsController.Create method" Url="html/c1e0207c-93b9-7a20-5d30-f92729c92d55.htm" />
+  <HelpKINode Title="SubjectsController.db field" Url="html/9126bf68-1d89-37a5-291b-9109e64bf1c6.htm" />
+  <HelpKINode Title="SubjectsController.Delete method" Url="html/d37717d3-e63c-e9fc-b0e4-0599e536582a.htm" />
+  <HelpKINode Title="SubjectsController.DeleteConfirmed method" Url="html/4a7ffc3f-b97e-5894-0e6d-f9f579496958.htm" />
+  <HelpKINode Title="SubjectsController.Details method" Url="html/74b7751c-6ebd-a124-79a2-c58d7eb64cc6.htm" />
+  <HelpKINode Title="SubjectsController.Dispose method" Url="html/ec4f14a5-0adb-e3ae-3df6-c22ab32dca33.htm" />
+  <HelpKINode Title="SubjectsController.Edit method" Url="html/92415abd-3795-1780-c99d-618709d1beea.htm" />
+  <HelpKINode Title="SubjectsController.Index method" Url="html/00b5af7f-68ca-2f2a-86b1-0287a7e49230.htm" />
+  <HelpKINode Title="SubjectsController.SubjectsController constructor" Url="html/50b9c096-2715-ccd9-e46d-0ffb6ae6712e.htm" />
+  <HelpKINode Title="topper field" Url="html/06082bc3-5c22-32ac-e024-6bafa187b2ef.htm" />
+  <HelpKINode Title="TwoFactor property" Url="html/782488b0-901a-603f-9c62-ff56d585714e.htm" />
+  <HelpKINode Title="Update method" Url="html/b9abba5c-ce86-287f-bef6-8e3d3ba1e0a5.htm" />
+  <HelpKINode Title="UploadFile method" Url="html/2b6d1210-a254-5cdc-b1f4-231a20cb4326.htm" />
+  <HelpKINode Title="UserId property" Url="html/a27888cc-0848-8306-f897-6c6c5abccb8b.htm" />
+  <HelpKINode Title="UserManager property">
+    <HelpKINode Title="AccountController.UserManager Property " Url="html/dcba4bc4-06f5-d058-36df-37918d574a18.htm" />
+    <HelpKINode Title="ManageController.UserManager Property " Url="html/5eae4d2a-cdc5-73be-7b0c-e28a701928e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Username property" Url="html/0a85f1e7-6d48-e8a9-f6a0-23aaac8f988b.htm" />
+  <HelpKINode Title="VerifyCode method" Url="html/2e76b50f-7c82-c436-3cce-62d7a90ba079.htm" />
+  <HelpKINode Title="VerifyCodeViewModel class">
+    <HelpKINode Title="VerifyCodeViewModel Class" Url="html/e55c5f9b-6934-9c27-1a2c-5c43f0f90460.htm" />
+    <HelpKINode Title="about VerifyCodeViewModel class" Url="html/e55c5f9b-6934-9c27-1a2c-5c43f0f90460.htm" />
+    <HelpKINode Title="constructor" Url="html/1486eb78-888e-d63a-09be-57992922a653.htm" />
+    <HelpKINode Title="methods" Url="html/708a7a05-c041-3716-f985-29d493b0034a.htm" />
+    <HelpKINode Title="properties" Url="html/92f40c9a-b39d-b3d9-2bc6-3615f06e6015.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VerifyCodeViewModel.Code property" Url="html/bbaefb95-3a2a-e868-8699-af58af119ca6.htm" />
+  <HelpKINode Title="VerifyCodeViewModel.Provider property" Url="html/6d0dd881-59b6-72c8-98df-54a70cbf0e0a.htm" />
+  <HelpKINode Title="VerifyCodeViewModel.RememberBrowser property" Url="html/78499d80-6f82-947e-2e24-01791ff6f49d.htm" />
+  <HelpKINode Title="VerifyCodeViewModel.RememberMe property" Url="html/ba6349b5-74d6-450f-e6af-3745206a11bf.htm" />
+  <HelpKINode Title="VerifyCodeViewModel.ReturnUrl property" Url="html/11c30ce2-0599-7833-69c5-d0e96e09ee52.htm" />
+  <HelpKINode Title="VerifyCodeViewModel.VerifyCodeViewModel constructor" Url="html/1486eb78-888e-d63a-09be-57992922a653.htm" />
+  <HelpKINode Title="VerifyPhoneNumber method" Url="html/72629f33-34f4-8c5c-cee4-55075e600d80.htm" />
+  <HelpKINode Title="VerifyPhoneNumberViewModel class">
+    <HelpKINode Title="VerifyPhoneNumberViewModel Class" Url="html/a74517c2-38ea-c1a5-c695-8553459304c4.htm" />
+    <HelpKINode Title="about VerifyPhoneNumberViewModel class" Url="html/a74517c2-38ea-c1a5-c695-8553459304c4.htm" />
+    <HelpKINode Title="constructor" Url="html/97f8957c-ae4f-ced7-826a-b6041f3b7b7a.htm" />
+    <HelpKINode Title="methods" Url="html/6484bf15-94ee-5d67-8f88-03c9a80ce993.htm" />
+    <HelpKINode Title="properties" Url="html/00bebe0c-8788-7069-db89-3ac097c2985e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VerifyPhoneNumberViewModel.Code property" Url="html/8109fe1e-37b0-8bb4-a258-7794ab869846.htm" />
+  <HelpKINode Title="VerifyPhoneNumberViewModel.PhoneNumber property" Url="html/20c4a432-f549-4b7b-b4ac-3ff6d9e32841.htm" />
+  <HelpKINode Title="VerifyPhoneNumberViewModel.VerifyPhoneNumberViewModel constructor" Url="html/97f8957c-ae4f-ced7-826a-b6041f3b7b7a.htm" />
+  <HelpKINode Title="XsrfKey field">
+    <HelpKINode Title="AccountController.XsrfKey Field" Url="html/4230f5f2-d3bd-d187-3872-2b41ac502fa4.htm" />
+    <HelpKINode Title="ManageController.XsrfKey Field" Url="html/f38fc44f-4f62-a188-32bc-ebce9e6f56d5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Year property">
+    <HelpKINode Title="Semester.Year Property " Url="html/0e1d1aeb-6e6e-9c34-6a57-0d2f9f13c65a.htm" />
+    <HelpKINode Title="Student.Year Property " Url="html/029e53c7-fc30-8bbd-34bd-83efc3c61b7c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="_signInManager field">
+    <HelpKINode Title="AccountController._signInManager Field" Url="html/c112243b-2c31-89f6-ec8c-895e27e6d0be.htm" />
+    <HelpKINode Title="ManageController._signInManager Field" Url="html/0956ad69-dda4-a5c6-3466-3468fcc5d21c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="_userManager field">
+    <HelpKINode Title="AccountController._userManager Field" Url="html/7fecc76a-bdfe-d8e2-43d4-fe4081159915.htm" />
+    <HelpKINode Title="ManageController._userManager Field" Url="html/a961c36c-1671-2c76-04d2-acdfa9432a47.htm" />
+  </HelpKINode>
+</HelpKI>

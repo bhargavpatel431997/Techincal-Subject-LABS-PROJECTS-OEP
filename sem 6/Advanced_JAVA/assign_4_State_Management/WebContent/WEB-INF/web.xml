@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>StateManagement</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+	<servlet>
+		<servlet-name>URLRewriting</servlet-name>
+		<servlet-class>in.ac.adit.statemanagement.urlrewrting.URLRewriting</servlet-class>  
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>URLRewriting</servlet-name>
+		<url-pattern>/URLRewriting</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>DispalyURLReWriting</servlet-name>
+		<servlet-class>in.ac.adit.statemanagement.urlrewrting.DispalyURLReWriting</servlet-class>  
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DispalyURLReWriting</servlet-name>
+		<url-pattern>/DispalyURLReWriting</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>CookieExample</servlet-name>
+		<servlet-class>in.ac.adit.statemanagement.cookie.CookieExample</servlet-class>  
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CookieExample</servlet-name>
+		<url-pattern>/CookieExample</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>DisplayCookie</servlet-name>
+		<servlet-class>in.ac.adit.statemanagement.cookie.DisplayCookie</servlet-class>  
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DisplayCookie</servlet-name>
+		<url-pattern>/DisplayCookie</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>HiddenFormFields</servlet-name>
+		<servlet-class>in.ac.adit.statemanagement.hiddenform.HiddenFormFields</servlet-class>  
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>HiddenFormFields</servlet-name>
+		<url-pattern>/HiddenFormFields</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>SessionManagement</servlet-name>
+		<servlet-class>in.ac.adit.statemanagement.session.SessionManagement</servlet-class>  
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SessionManagement</servlet-name>
+		<url-pattern>/SessionManagement</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>GetSessionData</servlet-name>
+		<servlet-class>in.ac.adit.statemanagement.session.GetSessionData</servlet-class>  
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetSessionData</servlet-name>
+		<url-pattern>/GetSessionData</url-pattern>
+	</servlet-mapping>
+</web-app>

@@ -1,0 +1,56 @@
+<!--
+Write a javascript code to show the concept of DOM By:-
+
+Display all name/value pairs of cookies in a document,
+Display the domain name of the server that loaded the document, 
+Display the date and time the document was last modified, 
+Display the title of a document,
+Display the full URL of a document,
+Open a new window and add some content, 
+Display the number of elements with a specific name.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js DOM</title>
+	<script type="text/javascript">
+		function listCookies() {
+			var values=document.cookie;
+			var x = values.split(';');
+			var val='';
+			for(var i=0;i<x.length;i++)
+				val+=x[i];
+    		window.alert(val);
+    	}
+    	function numberOfElements() {
+ 		   var x = "element tag name = "+document.getElementsByName("header3")[0].tagName+"\r\n";
+    	   var numberOfEl="counted elements named header3 = "+document.getElementsByName("header3").length;
+    	   x+=numberOfEl;
+    	   window.alert(x);
+		}
+	</script>
+</head>
+<body>
+	<h2>Features of DOM in javascript.</h2>
+	<h3 name="header3">COOKIE SECTION</h3>
+	<button onclick='document.cookie="username=bhargav;"'>create cookie1</button>
+	<button onclick='document.cookie="usernamex=dhaval;"'>create cookie2</button>
+	<button onclick="listCookies()">show cookies</button>
+	<br/>
+	<h3 name="header3">DOMAIN NAME SECTION</h3>
+	<button onclick="alert(document.domain)">click to get domain name</button>
+	<br/>
+	<h3 name="header3">DOCUMENT LAST MODIFIED</h3>
+	<button onclick="alert(document.lastModified)">document last modified</button>
+	<br/>
+	<h3 name="header3">TITLE OF DOCUMENT</h3>
+	<button onclick="alert(document.title)">click to see document title</button>
+	<h3 name="header3">FULL URL OF A DOCUMENT</h3>
+	<button onclick="alert(document.URL)">click to see document URL</button>	
+	<h3 name="header3">OPEN A NEW WINDOW WITH CONTENT </h3>
+	<button onclick="window.open().document.write('hello bhargav!')">open new window with content</button>
+	<h3 name="header3">DISPLAY NUMBER OF ELEMENTS NAMED header3 IN DOCUMENT </h3>
+	<button onclick="numberOfElements()">click to display number of elements</button>
+</body>
+</html>
+	
